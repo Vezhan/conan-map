@@ -1,6 +1,6 @@
 # Distancias en días de viaje por tierra entre ciudades de la Era Hiboria
 
-**Método:** rejilla hexagonal de 30 km vértice a vértice; ruta de menor coste; cada hexágono al que se entra cuesta 1 día (llanura/bosque), 2 días (desierto, colinas, pantano) o 3 días (jungla, montaña). El mar y los lagos no se cruzan. † = ciudad muerta.
+**Método:** rejilla hexagonal de 30 km vértice a vértice; ruta de menor coste; cada hexágono al que se entra cuesta 1 día (llanura), 2 días (desierto, colinas, pantano, bosque, tundra) o 3 días (jungla, montaña). El mar y los lagos no se cruzan. † = ciudad muerta.
 
 **Rumbo:** dirección aproximada del destino respecto al origen (N, NE, SE, S, SO, NO). Las filas marcadas «>14 días» se añaden solo cuando la ciudad tiene menos de 10 vecinos dentro de 14 días.
 
@@ -10,46 +10,46 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 21 (>14) | SE |
-| Brutheim | Nordheim | 26 (>14) | SE |
-| Tholeus | Aquilonia | 31 (>14) | S |
-| Galparan | Aquilonia | 35 (>14) | S |
-| Vicella | Aquilonia | 36 (>14) | SE |
-| Aloe | Nordheim | 37 (>14) | SE |
-| Velithua | Aquilonia | 37 (>14) | S |
-| Rhmen | Cimmeria | 38 (>14) | SE |
-| Khrat | Cimmeria | 39 (>14) | SE |
-| Torh | Aquilonia | 40 (>14) | S |
+| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 34 (>14) | SE |
+| Tholeus | Aquilonia | 41 (>14) | S |
+| Nuaowyddon | Pictland | 43 (>14) | S |
+| Galparan | Aquilonia | 45 (>14) | S |
+| Vicella | Aquilonia | 46 (>14) | SE |
+| Rhmen | Cimmeria | 48 (>14) | SE |
+| Khrat | Cimmeria | 49 (>14) | SE |
+| Velithua | Aquilonia | 50 (>14) | S |
+| Amelius | Aquilonia | 50 (>14) | SE |
+| Brutheim | Nordheim | 51 (>14) | SE |
 
 ### Aloe
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Brutheim | Nordheim | 11 | SO |
-| Haloga | Hiperbórea | 15 (>14) | SE |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 21 (>14) | S |
-| Sistona | Hiperbórea | 24 (>14) | SE |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | S |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | S |
-| Pohiola | Hiperbórea | 27 (>14) | SE |
-| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 29 (>14) | SO |
-| Amelius | Aquilonia | 34 (>14) | S |
-| Rhmen | Cimmeria | 34 (>14) | SO |
+| Haloga | Hiperbórea | 20 (>14) | SE |
+| Brutheim | Nordheim | 22 (>14) | SO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 30 (>14) | S |
+| Pohiola | Hiperbórea | 34 (>14) | SE |
+| Sistona | Hiperbórea | 34 (>14) | SE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 37 (>14) | S |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 37 (>14) | S |
+| Rhmen | Cimmeria | 45 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 46 (>14) | S |
+| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 47 (>14) | SO |
 
 ### Brutheim
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Aloe | Nordheim | 11 | NE |
-| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 18 (>14) | SO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 18 (>14) | S |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 21 (>14) | S |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | S |
-| Lireigh | Nordheim | 26 (>14) | NO |
-| Haloga | Hiperbórea | 26 (>14) | NE |
-| Amelius | Aquilonia | 28 (>14) | S |
-| Rhmen | Cimmeria | 28 (>14) | S |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | S |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 21 (>14) | S |
+| Aloe | Nordheim | 22 (>14) | NE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | S |
+| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 26 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 30 (>14) | S |
+| Rhmen | Cimmeria | 33 (>14) | S |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | S |
+| Amelius | Aquilonia | 35 (>14) | S |
+| Vicella | Aquilonia | 35 (>14) | S |
+| Thalia | Nemedia | 35 (>14) | S |
 
 ## Cimmeria
 
@@ -57,16 +57,16 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Brutheim | Nordheim | 17 (>14) | NE |
 | Khrat | Cimmeria | 18 (>14) | S |
-| Lireigh | Nordheim | 20 (>14) | NO |
 | Vicella | Aquilonia | 22 (>14) | S |
 | Rhmen | Cimmeria | 23 (>14) | S |
 | Tholeus | Aquilonia | 23 (>14) | S |
 | Galparan | Aquilonia | 25 (>14) | S |
 | Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | SE |
+| Brutheim | Nordheim | 26 (>14) | NE |
 | Amelius | Aquilonia | 27 (>14) | S |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 27 (>14) | SE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SE |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 29 (>14) | S |
 
 ### Khrat
 
@@ -78,10 +78,10 @@
 | Galparan | Aquilonia | 8 | S |
 | Amelius | Aquilonia | 9 | SE |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | SE |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 14 | SE |
-| Velithua | Aquilonia | 17 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 16 (>14) | SE |
 | Palea | Aquilonia | 17 (>14) | S |
 | Thalia | Nemedia | 17 (>14) | SE |
+| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 18 (>14) | N |
 
 ### Rhmen
 
@@ -93,10 +93,9 @@
 | Galparan | Aquilonia | 7 | SO |
 | Tholeus | Aquilonia | 7 | SO |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 7 | SE |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 9 | SE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | SE |
 | Thalia | Nemedia | 12 | SE |
 | Palea | Aquilonia | 13 | S |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | NE |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 14 | SE |
 
 ## Hiperbórea
@@ -105,16 +104,16 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Aloe | Nordheim | 14 | NO |
 | Pohiola | Hiperbórea | 18 (>14) | SE |
+| Aloe | Nordheim | 20 (>14) | NO |
 | Sistona | Hiperbórea | 20 (>14) | S |
-| Brutheim | Nordheim | 25 (>14) | SO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | SO |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 29 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 30 (>14) | SO |
-| Amelius | Aquilonia | 38 (>14) | SO |
-| Rhmen | Cimmeria | 38 (>14) | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 38 (>14) | SO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 32 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 33 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 35 (>14) | SO |
+| Brutheim | Nordheim | 38 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 43 (>14) | SO |
+| Amelius | Aquilonia | 44 (>14) | SO |
+| Thalia | Nemedia | 44 (>14) | SO |
 
 ### Pohiola
 
@@ -122,14 +121,14 @@
 |---|---|---:|:---:|
 | Sistona | Hiperbórea | 10 | SO |
 | Haloga | Hiperbórea | 18 (>14) | NO |
-| Aloe | Nordheim | 26 (>14) | NO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 31 (>14) | SO |
 | Ashmir | Zamora | 31 (>14) | S |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 33 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
-| Brutheim | Nordheim | 35 (>14) | NO |
+| Aloe | Nordheim | 34 (>14) | NO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
 | Komash | Zamora | 38 (>14) | S |
 | Yaralet | Turan | 38 (>14) | SE |
+| Kharsho | Zamora | 42 (>14) | S |
 
 ### Sistona
 
@@ -137,14 +136,14 @@
 |---|---|---:|:---:|
 | Pohiola | Hiperbórea | 10 | NE |
 | Haloga | Hiperbórea | 20 (>14) | N |
-| Aloe | Nordheim | 23 (>14) | NO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 23 (>14) | SO |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
-| Brutheim | Nordheim | 27 (>14) | NO |
-| Amelius | Aquilonia | 34 (>14) | SO |
-| Rhmen | Cimmeria | 34 (>14) | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SO |
+| Aloe | Nordheim | 34 (>14) | NO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
+| Amelius | Aquilonia | 37 (>14) | SO |
+| Thalia | Nemedia | 37 (>14) | SO |
+| Brutheim | Nordheim | 38 (>14) | NO |
 
 ## Pictland
 
@@ -152,31 +151,31 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Gwawela | Pictland | 30 (>14) | S |
-| Tholeus | Aquilonia | 34 (>14) | SE |
-| Velithua | Aquilonia | 36 (>14) | SE |
-| Galparan | Aquilonia | 37 (>14) | SE |
-| Torh | Aquilonia | 39 (>14) | SE |
-| Vicella | Aquilonia | 39 (>14) | SE |
-| Rhmen | Cimmeria | 41 (>14) | SE |
-| Skandag | Aquilonia | 42 (>14) | S |
-| Khrat | Cimmeria | 42 (>14) | SE |
-| Amelius | Aquilonia | 43 (>14) | SE |
+| Gwawela | Pictland | 20 (>14) | S |
+| Velithua | Aquilonia | 26 (>14) | SE |
+| Tholeus | Aquilonia | 26 (>14) | SE |
+| Skandag | Aquilonia | 28 (>14) | S |
+| Galparan | Aquilonia | 29 (>14) | SE |
+| Vicella | Aquilonia | 31 (>14) | SE |
+| Thenitea | Aquilonia | 32 (>14) | S |
+| Torh | Aquilonia | 33 (>14) | SE |
+| Rhmen | Cimmeria | 33 (>14) | SE |
+| Khrat | Cimmeria | 34 (>14) | SE |
 
 ### Gwawela
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Skandag | Aquilonia | 12 | SE |
-| Velithua | Aquilonia | 13 | NE |
+| Skandag | Aquilonia | 8 | SE |
+| Velithua | Aquilonia | 11 | NE |
+| Thenitea | Aquilonia | 12 | S |
 | Torh | Aquilonia | 14 | SE |
-| Thenitea | Aquilonia | 18 (>14) | S |
-| Funirus | Aquilonia | 20 (>14) | SE |
-| Kormon | Aquilonia | 22 (>14) | SE |
-| Coyaga | Aquilonia | 23 (>14) | S |
-| Lor | Aquilonia | 23 (>14) | S |
-| Galparan | Aquilonia | 24 (>14) | NE |
-| Tholeus | Aquilonia | 24 (>14) | NE |
+| Coyaga | Aquilonia | 18 (>14) | S |
+| Nuaowyddon | Pictland | 20 (>14) | N |
+| Lor | Aquilonia | 20 (>14) | S |
+| Schondara | Aquilonia | 22 (>14) | S |
+| Funirus | Aquilonia | 23 (>14) | SE |
+| Tarantia | Aquilonia | 23 (>14) | SE |
 
 ## Aquilonia
 
@@ -184,16 +183,16 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Torh | Aquilonia | 5 | S |
-| Skandag | Aquilonia | 8 | SO |
-| Kormon | Aquilonia | 11 | SE |
-| Funirus | Aquilonia | 11 | S |
-| Tholeus | Aquilonia | 11 | NE |
-| Galparan | Aquilonia | 12 | NE |
-| Thenitea | Aquilonia | 13 | SO |
-| Lor | Aquilonia | 14 | S |
-| Gwawela | Pictland | 15 (>14) | SO |
-| Vicella | Aquilonia | 15 (>14) | NE |
+| Skandag | Aquilonia | 7 | SO |
+| Torh | Aquilonia | 9 | S |
+| Gwawela | Pictland | 11 | SO |
+| Thenitea | Aquilonia | 11 | SO |
+| Tholeus | Aquilonia | 13 | NE |
+| Coyaga | Aquilonia | 14 | SO |
+| Galparan | Aquilonia | 15 (>14) | NE |
+| Lor | Aquilonia | 15 (>14) | S |
+| Schondara | Aquilonia | 18 (>14) | SO |
+| Funirus | Aquilonia | 18 (>14) | S |
 
 ### Tholeus
 
@@ -204,102 +203,101 @@
 | Rhmen | Cimmeria | 7 | NE |
 | Khrat | Cimmeria | 8 | NE |
 | Amelius | Aquilonia | 9 | SE |
-| Velithua | Aquilonia | 11 | SO |
-| Kormon | Aquilonia | 12 | S |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | SE |
-| Torh | Aquilonia | 14 | SO |
+| Velithua | Aquilonia | 14 | SO |
 | Palea | Aquilonia | 15 (>14) | SE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 18 (>14) | NE |
+| Castria | Aquilonia | 19 (>14) | SE |
 
 ### Skandag
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Velithua | Aquilonia | 6 | NE |
-| Torh | Aquilonia | 6 | SE |
-| Thenitea | Aquilonia | 9 | SO |
-| Funirus | Aquilonia | 10 | SE |
-| Gwawela | Pictland | 12 | NO |
-| Coyaga | Aquilonia | 12 | S |
+| Velithua | Aquilonia | 7 | NE |
+| Thenitea | Aquilonia | 7 | SO |
+| Gwawela | Pictland | 8 | NO |
+| Torh | Aquilonia | 9 | SE |
+| Coyaga | Aquilonia | 10 | S |
 | Lor | Aquilonia | 13 | S |
-| Kormon | Aquilonia | 14 | SE |
-| Galparan | Aquilonia | 16 (>14) | NE |
+| Schondara | Aquilonia | 14 | SO |
+| Funirus | Aquilonia | 16 (>14) | SE |
 | Tarantia | Aquilonia | 16 (>14) | SE |
+| Elymir | Aquilonia | 17 (>14) | S |
 
 ### Torh
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Velithua | Aquilonia | 5 | N |
-| Funirus | Aquilonia | 6 | SE |
-| Skandag | Aquilonia | 8 | NO |
-| Kormon | Aquilonia | 8 | SE |
-| Lor | Aquilonia | 11 | S |
+| Velithua | Aquilonia | 9 | N |
+| Skandag | Aquilonia | 9 | NO |
 | Thenitea | Aquilonia | 12 | SO |
-| Galparan | Aquilonia | 12 | NE |
-| Tarantia | Aquilonia | 12 | SE |
+| Funirus | Aquilonia | 12 | SE |
 | Coyaga | Aquilonia | 13 | SO |
-| Elymir | Aquilonia | 13 | S |
-| Tholeus | Aquilonia | 14 | NE |
+| Gwawela | Pictland | 14 | NO |
+| Lor | Aquilonia | 14 | S |
+| Kormon | Aquilonia | 16 (>14) | SE |
+| Tarantia | Aquilonia | 16 (>14) | SE |
+| Schondara | Aquilonia | 17 (>14) | SO |
 
 ### Thenitea
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Skandag | Aquilonia | 9 | NE |
-| Coyaga | Aquilonia | 9 | S |
-| Torh | Aquilonia | 10 | NE |
+| Coyaga | Aquilonia | 6 | S |
+| Skandag | Aquilonia | 7 | NE |
+| Schondara | Aquilonia | 10 | SO |
 | Velithua | Aquilonia | 11 | NE |
-| Lor | Aquilonia | 13 | SE |
-| Funirus | Aquilonia | 14 | SE |
-| Schondara | Aquilonia | 15 (>14) | SO |
-| Tarantia | Aquilonia | 16 (>14) | SE |
-| Elymir | Aquilonia | 17 (>14) | SE |
-| Gwawela | Pictland | 18 (>14) | N |
+| Gwawela | Pictland | 12 | N |
+| Torh | Aquilonia | 12 | NE |
+| Kwwyara | Aquilonia | 12 | SO |
+| Lor | Aquilonia | 12 | SE |
+| Tarantia | Aquilonia | 15 (>14) | SE |
+| Funirus | Aquilonia | 16 (>14) | SE |
 
 ### Coyaga
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Schondara | Aquilonia | 6 | SO |
-| Thenitea | Aquilonia | 9 | N |
-| Torh | Aquilonia | 11 | NE |
-| Lor | Aquilonia | 11 | SE |
-| Skandag | Aquilonia | 12 | N |
-| Kwwyara | Aquilonia | 12 | SO |
+| Schondara | Aquilonia | 4 | SO |
+| Thenitea | Aquilonia | 6 | N |
+| Kwwyara | Aquilonia | 8 | SO |
+| Skandag | Aquilonia | 10 | N |
+| Lor | Aquilonia | 10 | SE |
+| Torh | Aquilonia | 13 | NE |
 | Velithua | Aquilonia | 14 | NE |
-| Funirus | Aquilonia | 15 (>14) | SE |
-| Elymir | Aquilonia | 15 (>14) | SE |
-| Tarantia | Aquilonia | 17 (>14) | SE |
+| Elymir | Aquilonia | 14 | SE |
+| Tarantia | Aquilonia | 16 (>14) | SE |
+| Funirus | Aquilonia | 17 (>14) | SE |
 
 ### Kwwyara
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Schondara | Aquilonia | 6 | NE |
-| Coyaga | Aquilonia | 12 | NE |
-| Thenitea | Aquilonia | 18 (>14) | NE |
-| Lor | Aquilonia | 19 (>14) | SE |
-| Torh | Aquilonia | 23 (>14) | NE |
-| Elymir | Aquilonia | 23 (>14) | SE |
-| Skandag | Aquilonia | 24 (>14) | NE |
-| Thandara | Aquilonia | 24 (>14) | S |
-| Funirus | Aquilonia | 25 (>14) | NE |
-| Velithua | Aquilonia | 26 (>14) | NE |
+| Schondara | Aquilonia | 4 | NE |
+| Coyaga | Aquilonia | 8 | NE |
+| Thenitea | Aquilonia | 12 | NE |
+| Lor | Aquilonia | 15 (>14) | SE |
+| Thandara | Aquilonia | 16 (>14) | S |
+| Skandag | Aquilonia | 18 (>14) | NE |
+| Elymir | Aquilonia | 19 (>14) | SE |
+| Torh | Aquilonia | 21 (>14) | NE |
+| Velithua | Aquilonia | 22 (>14) | NE |
+| Guarralio | Zingara | 22 (>14) | S |
 
 ### Schondara
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Coyaga | Aquilonia | 6 | NE |
-| Kwwyara | Aquilonia | 6 | SO |
-| Lor | Aquilonia | 13 | SE |
-| Thenitea | Aquilonia | 15 (>14) | NE |
+| Coyaga | Aquilonia | 4 | NE |
+| Kwwyara | Aquilonia | 4 | SO |
+| Thenitea | Aquilonia | 10 | NE |
+| Lor | Aquilonia | 11 | SE |
+| Skandag | Aquilonia | 14 | NE |
+| Elymir | Aquilonia | 15 (>14) | SE |
 | Torh | Aquilonia | 17 (>14) | NE |
-| Elymir | Aquilonia | 17 (>14) | SE |
-| Skandag | Aquilonia | 18 (>14) | NE |
-| Funirus | Aquilonia | 19 (>14) | NE |
-| Velithua | Aquilonia | 20 (>14) | NE |
-| Guarralio | Zingara | 20 (>14) | S |
+| Velithua | Aquilonia | 18 (>14) | NE |
+| Thandara | Aquilonia | 18 (>14) | S |
+| Guarralio | Zingara | 18 (>14) | S |
 
 ### Galparan
 
@@ -310,13 +308,11 @@
 | Amelius | Aquilonia | 7 | NE |
 | Rhmen | Cimmeria | 7 | NE |
 | Khrat | Cimmeria | 9 | N |
-| Kormon | Aquilonia | 10 | S |
-| Palea | Aquilonia | 11 | SE |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | NE |
-| Velithua | Aquilonia | 12 | SO |
-| Torh | Aquilonia | 12 | SO |
-| Funirus | Aquilonia | 14 | S |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 14 | NE |
+| Palea | Aquilonia | 12 | SE |
+| Velithua | Aquilonia | 16 (>14) | SO |
+| Castria | Aquilonia | 16 (>14) | SE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 16 (>14) | NE |
 
 ### Amelius
 
@@ -327,14 +323,12 @@
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 5 | NE |
 | Galparan | Aquilonia | 7 | SO |
 | Palea | Aquilonia | 8 | S |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 8 | NE |
 | Tholeus | Aquilonia | 9 | NO |
 | Khrat | Cimmeria | 10 | NO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | NE |
 | Thalia | Nemedia | 11 | SE |
 | Castria | Aquilonia | 12 | S |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | NE |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | NE |
-| Kormon | Aquilonia | 14 | SO |
 
 ### Palea
 
@@ -343,81 +337,73 @@
 | Amelius | Aquilonia | 6 | N |
 | Castria | Aquilonia | 7 | S |
 | Thalia | Nemedia | 8 | NE |
-| Galparan | Aquilonia | 9 | NO |
-| Kormon | Aquilonia | 10 | SO |
+| Galparan | Aquilonia | 10 | NO |
 | Vicella | Aquilonia | 11 | N |
 | Rhmen | Cimmeria | 11 | N |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | N |
-| Belverus | Nemedia | 12 | SE |
 | Tholeus | Aquilonia | 13 | NO |
 | Ianthe | Ophir | 13 | S |
-| Funirus | Aquilonia | 14 | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 14 | NE |
+| Belverus | Nemedia | 14 | SE |
 
 ### Kormon
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Funirus | Aquilonia | 4 | SO |
-| Torh | Aquilonia | 8 | NO |
-| Tarantia | Aquilonia | 8 | S |
-| Galparan | Aquilonia | 10 | N |
-| Velithua | Aquilonia | 11 | NO |
-| Palea | Aquilonia | 12 | NE |
-| Castria | Aquilonia | 12 | SE |
-| Shamar | Aquilonia | 12 | S |
-| Tholeus | Aquilonia | 12 | N |
-| Lor | Aquilonia | 13 | SO |
-| Ianthe | Ophir | 13 | SE |
-| Amelius | Aquilonia | 14 | NE |
+| Funirus | Aquilonia | 8 | SO |
+| Tarantia | Aquilonia | 11 | S |
+| Castria | Aquilonia | 15 (>14) | SE |
+| Shamar | Aquilonia | 15 (>14) | S |
+| Torh | Aquilonia | 16 (>14) | NO |
+| Ianthe | Ophir | 16 (>14) | SE |
+| Palea | Aquilonia | 17 (>14) | NE |
+| Lor | Aquilonia | 17 (>14) | SO |
+| Elymir | Aquilonia | 18 (>14) | SO |
+| Galparan | Aquilonia | 19 (>14) | N |
 
 ### Funirus
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Kormon | Aquilonia | 4 | NE |
-| Torh | Aquilonia | 6 | NO |
-| Tarantia | Aquilonia | 6 | S |
-| Lor | Aquilonia | 9 | SO |
-| Velithua | Aquilonia | 11 | N |
-| Elymir | Aquilonia | 11 | S |
-| Skandag | Aquilonia | 12 | NO |
-| Shamar | Aquilonia | 12 | SE |
-| Pedassa | Aquilonia | 12 | S |
-| Galparan | Aquilonia | 14 | N |
-| Ianthe | Ophir | 14 | SE |
+| Tarantia | Aquilonia | 7 | S |
+| Kormon | Aquilonia | 8 | NE |
+| Lor | Aquilonia | 10 | SO |
+| Torh | Aquilonia | 12 | NO |
+| Elymir | Aquilonia | 12 | S |
+| Shamar | Aquilonia | 13 | SE |
+| Pedassa | Aquilonia | 14 | S |
+| Skandag | Aquilonia | 16 (>14) | NO |
+| Thenitea | Aquilonia | 16 (>14) | NO |
+| Coyaga | Aquilonia | 17 (>14) | NO |
 
 ### Castria
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Palea | Aquilonia | 7 | N |
-| Belverus | Nemedia | 9 | SE |
 | Ianthe | Ophir | 9 | S |
 | Amelius | Aquilonia | 10 | N |
-| Kormon | Aquilonia | 10 | NO |
 | Thalia | Nemedia | 11 | NE |
 | Tor | Nemedia | 11 | SE |
-| Hanumar | Nemedia | 11 | SE |
 | Shamar | Aquilonia | 12 | S |
-| Galparan | Aquilonia | 13 | NO |
+| Belverus | Nemedia | 12 | SE |
 | Tarantia | Aquilonia | 13 | SO |
-| Funirus | Aquilonia | 14 | SO |
+| Galparan | Aquilonia | 14 | NO |
+| Kormon | Aquilonia | 14 | NO |
 
 ### Tarantia
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Funirus | Aquilonia | 6 | N |
 | Shamar | Aquilonia | 7 | SE |
 | Elymir | Aquilonia | 7 | SO |
-| Kormon | Aquilonia | 8 | N |
+| Funirus | Aquilonia | 8 | N |
 | Lor | Aquilonia | 8 | SO |
-| Pedassa | Aquilonia | 8 | S |
-| Torh | Aquilonia | 12 | NO |
-| Cularío | Aquilonia | 12 | S |
+| Pedassa | Aquilonia | 9 | S |
+| Kormon | Aquilonia | 12 | N |
 | Ianthe | Ophir | 12 | SE |
 | Castria | Aquilonia | 15 (>14) | NE |
+| Thenitea | Aquilonia | 16 (>14) | NO |
+| Cularío | Aquilonia | 16 (>14) | S |
 
 ### Lor
 
@@ -425,15 +411,15 @@
 |---|---|---:|:---:|
 | Elymir | Aquilonia | 4 | S |
 | Tarantia | Aquilonia | 8 | NE |
-| Pedassa | Aquilonia | 8 | SE |
-| Funirus | Aquilonia | 9 | NE |
-| Cularío | Aquilonia | 10 | S |
-| Torh | Aquilonia | 11 | N |
+| Pedassa | Aquilonia | 9 | SE |
+| Coyaga | Aquilonia | 11 | NO |
+| Funirus | Aquilonia | 11 | NE |
+| Schondara | Aquilonia | 12 | NO |
 | Guarralio | Zingara | 12 | S |
-| Coyaga | Aquilonia | 13 | NO |
-| Kormon | Aquilonia | 13 | NE |
-| Velithua | Aquilonia | 14 | N |
-| Varza | Zingara | 14 | S |
+| Thenitea | Aquilonia | 13 | NO |
+| Skandag | Aquilonia | 14 | N |
+| Thandara | Aquilonia | 14 | SO |
+| Cularío | Aquilonia | 14 | S |
 
 ### Shamar
 
@@ -441,79 +427,74 @@
 |---|---|---:|:---:|
 | Ianthe | Ophir | 5 | NE |
 | Tarantia | Aquilonia | 7 | NO |
-| Pedassa | Aquilonia | 10 | SO |
 | Pergona | Ophir | 10 | SE |
-| Kormon | Aquilonia | 12 | N |
-| Funirus | Aquilonia | 12 | NO |
-| Hanumar | Nemedia | 12 | NE |
+| Pedassa | Aquilonia | 12 | SO |
 | Elymir | Aquilonia | 13 | SO |
-| Cularío | Aquilonia | 13 | SO |
 | Carnolla | Ophir | 13 | S |
 | Ronnaco | Ophir | 13 | SE |
+| Funirus | Aquilonia | 14 | NO |
 | Castria | Aquilonia | 14 | N |
-| Belverus | Nemedia | 14 | NE |
-| Tor | Nemedia | 14 | NE |
-| Khorshemish | Koth | 14 | SE |
+| Lor | Aquilonia | 15 (>14) | NO |
 
 ### Elymir
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Lor | Aquilonia | 4 | N |
-| Pedassa | Aquilonia | 4 | SE |
-| Cularío | Aquilonia | 6 | S |
+| Pedassa | Aquilonia | 5 | SE |
 | Tarantia | Aquilonia | 7 | NE |
+| Cularío | Aquilonia | 10 | S |
 | Guarralio | Zingara | 10 | SO |
-| Funirus | Aquilonia | 11 | N |
-| Varza | Zingara | 12 | S |
-| Torh | Aquilonia | 13 | N |
+| Funirus | Aquilonia | 13 | N |
 | Shamar | Aquilonia | 13 | NE |
-| Kormon | Aquilonia | 15 (>14) | NE |
+| Coyaga | Aquilonia | 15 (>14) | NO |
+| Koda | Zingara | 15 (>14) | SO |
+| Varza | Zingara | 15 (>14) | S |
 
 ### Thandara
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Guarralio | Zingara | 12 | SE |
-| Lor | Aquilonia | 14 | NE |
-| Jerida | Zingara | 15 (>14) | S |
-| Koda | Zingara | 15 (>14) | S |
-| Elymir | Aquilonia | 16 (>14) | SE |
-| Yorkin | Zingara | 16 (>14) | S |
+| Guarralio | Zingara | 11 | SE |
+| Lor | Aquilonia | 13 | NE |
+| Jerida | Zingara | 14 | S |
+| Koda | Zingara | 14 | S |
+| Elymir | Aquilonia | 15 (>14) | SE |
+| Yorkin | Zingara | 15 (>14) | S |
+| Kwwyara | Aquilonia | 16 (>14) | N |
+| Coyaga | Aquilonia | 17 (>14) | N |
 | Cularío | Aquilonia | 17 (>14) | SE |
-| Kordava | Zingara | 17 (>14) | SO |
-| Varza | Zingara | 17 (>14) | SE |
-| Pedassa | Aquilonia | 19 (>14) | SE |
+| Schondara | Aquilonia | 18 (>14) | N |
 
 ### Pedassa
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Elymir | Aquilonia | 4 | NO |
-| Cularío | Aquilonia | 4 | SO |
 | Tarantia | Aquilonia | 8 | N |
 | Lor | Aquilonia | 8 | NO |
-| Shamar | Aquilonia | 10 | NE |
-| Guarralio | Zingara | 10 | SO |
-| Varza | Zingara | 11 | SO |
-| Funirus | Aquilonia | 12 | N |
-| Koda | Zingara | 14 | SO |
-| Ianthe | Ophir | 15 (>14) | NE |
+| Cularío | Aquilonia | 8 | SO |
+| Shamar | Aquilonia | 11 | NE |
+| Funirus | Aquilonia | 14 | N |
+| Guarralio | Zingara | 14 | SO |
+| Ianthe | Ophir | 16 (>14) | NE |
+| Varza | Zingara | 18 (>14) | SO |
+| Carnolla | Ophir | 18 (>14) | SE |
 
 ### Cularío
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Pedassa | Aquilonia | 4 | NE |
-| Elymir | Aquilonia | 6 | N |
-| Varza | Zingara | 7 | SO |
+| Pedassa | Aquilonia | 8 | NE |
 | Guarralio | Zingara | 8 | SO |
-| Lor | Aquilonia | 10 | N |
-| Koda | Zingara | 10 | SO |
-| Tarantia | Aquilonia | 12 | N |
-| Shamar | Aquilonia | 13 | NE |
-| Funirus | Aquilonia | 16 (>14) | N |
+| Elymir | Aquilonia | 9 | N |
+| Varza | Zingara | 10 | SO |
+| Koda | Zingara | 12 | SO |
+| Lor | Aquilonia | 13 | N |
+| Tarantia | Aquilonia | 15 (>14) | N |
+| Shamar | Aquilonia | 16 (>14) | NE |
 | Jerida | Zingara | 16 (>14) | SO |
+| Thandara | Aquilonia | 17 (>14) | NO |
 
 ### Vicella
 
@@ -525,10 +506,10 @@
 | Khrat | Cimmeria | 5 | N |
 | Tholeus | Aquilonia | 5 | SO |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 8 | SE |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | NE |
 | Palea | Aquilonia | 13 | S |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | NE |
 | Thalia | Nemedia | 14 | SE |
-| Velithua | Aquilonia | 15 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 16 (>14) | SE |
 
 ## Nemedia
 
@@ -536,78 +517,77 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Belverus | Nemedia | 7 | S |
+| Belverus | Nemedia | 9 | S |
 | Palea | Aquilonia | 10 | SO |
 | Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | N |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | N |
-| Hanumar | Nemedia | 10 | S |
 | Amelius | Aquilonia | 11 | NO |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | NE |
-| Tor | Nemedia | 11 | S |
-| Numalia | Nemedia | 11 | SE |
 | Rhmen | Cimmeria | 12 | NO |
 | Castria | Aquilonia | 13 | SO |
 | Vicella | Aquilonia | 14 | NO |
+| Tor | Nemedia | 14 | S |
+| Numalia | Nemedia | 14 | SE |
 
 ### Belverus
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Hanumar | Nemedia | 3 | S |
-| Tor | Nemedia | 5 | SO |
-| Numalia | Nemedia | 6 | SE |
-| Thalia | Nemedia | 7 | N |
-| Ianthe | Ophir | 9 | SO |
-| Castria | Aquilonia | 11 | NO |
-| Palea | Aquilonia | 14 | NO |
-| Shamar | Aquilonia | 14 | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 16 (>14) | N |
-| Lanjau † | Corinthia | 16 (>14) | SE |
+| Hanumar | Nemedia | 6 | S |
+| Tor | Nemedia | 7 | SO |
+| Thalia | Nemedia | 8 | N |
+| Numalia | Nemedia | 12 | SE |
+| Castria | Aquilonia | 13 | NO |
+| Ianthe | Ophir | 14 | SO |
+| Palea | Aquilonia | 15 (>14) | NO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 17 (>14) | N |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 18 (>14) | N |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 18 (>14) | N |
 
 ### Tor
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Belverus | Nemedia | 3 | NE |
-| Hanumar | Nemedia | 4 | SE |
-| Ianthe | Ophir | 7 | S |
-| Thalia | Nemedia | 9 | N |
-| Numalia | Nemedia | 9 | SE |
+| Belverus | Nemedia | 6 | NE |
+| Hanumar | Nemedia | 8 | SE |
+| Ianthe | Ophir | 10 | S |
 | Castria | Aquilonia | 11 | NO |
-| Shamar | Aquilonia | 12 | SO |
+| Thalia | Nemedia | 12 | N |
+| Shamar | Aquilonia | 14 | SO |
 | Palea | Aquilonia | 15 (>14) | N |
-| Kormon | Aquilonia | 16 (>14) | NO |
-| Lanjau † | Corinthia | 16 (>14) | SE |
+| Amelius | Aquilonia | 18 (>14) | N |
+| Tarantia | Aquilonia | 18 (>14) | SO |
+| Numalia | Nemedia | 18 (>14) | SE |
 
 ### Numalia
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Hanumar | Nemedia | 5 | SO |
-| Belverus | Nemedia | 6 | NO |
-| Lanjau † | Corinthia | 10 | SE |
-| Thalia | Nemedia | 11 | NO |
-| Tor | Nemedia | 11 | NO |
-| Ianthe | Ophir | 11 | SO |
-| Khumar Rhun | Corinthia | 13 | SE |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 15 (>14) | N |
-| Shamar | Aquilonia | 16 (>14) | SO |
-| Castria | Aquilonia | 17 (>14) | NO |
+| Hanumar | Nemedia | 10 | SO |
+| Belverus | Nemedia | 12 | NO |
+| Thalia | Nemedia | 13 | NO |
+| Lanjau † | Corinthia | 13 | SE |
+| Khumar Rhun | Corinthia | 16 (>14) | SE |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 17 (>14) | N |
+| Ianthe | Ophir | 18 (>14) | SO |
+| Tor | Nemedia | 19 (>14) | NO |
+| Ezar-Bar-Kum | Corinthia | 20 (>14) | NE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 21 (>14) | N |
 
 ### Hanumar
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Belverus | Nemedia | 3 | N |
-| Numalia | Nemedia | 5 | NE |
-| Tor | Nemedia | 6 | NO |
-| Ianthe | Ophir | 7 | SO |
-| Thalia | Nemedia | 10 | N |
-| Shamar | Aquilonia | 12 | SO |
-| Castria | Aquilonia | 13 | NO |
-| Lanjau † | Corinthia | 13 | SE |
-| Khumar Rhun | Corinthia | 16 (>14) | SE |
-| Khorshemish | Koth | 16 (>14) | S |
+| Belverus | Nemedia | 6 | N |
+| Tor | Nemedia | 9 | NO |
+| Numalia | Nemedia | 10 | NE |
+| Ianthe | Ophir | 10 | SO |
+| Thalia | Nemedia | 14 | N |
+| Shamar | Aquilonia | 15 (>14) | SO |
+| Lanjau † | Corinthia | 16 (>14) | SE |
+| Castria | Aquilonia | 17 (>14) | NO |
+| Pergona | Ophir | 18 (>14) | S |
+| Khumar Rhun | Corinthia | 19 (>14) | SE |
 
 ## Reino Fronterizo (Border Kingdom, al este de Aquilonia)
 
@@ -615,46 +595,46 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 5 | S |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 7 | S |
-| Amelius | Aquilonia | 13 | SO |
-| Rhmen | Cimmeria | 13 | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 13 | SO |
-| Vicella | Aquilonia | 15 (>14) | SO |
-| Thalia | Nemedia | 15 (>14) | S |
-| Brutheim | Nordheim | 18 (>14) | N |
-| Galparan | Aquilonia | 18 (>14) | SO |
-| Khrat | Cimmeria | 19 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 8 | S |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | S |
+| Rhmen | Cimmeria | 16 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 17 (>14) | SO |
+| Amelius | Aquilonia | 18 (>14) | SO |
+| Vicella | Aquilonia | 18 (>14) | SO |
+| Thalia | Nemedia | 18 (>14) | S |
+| Brutheim | Nordheim | 22 (>14) | N |
+| Galparan | Aquilonia | 22 (>14) | SO |
+| Khrat | Cimmeria | 22 (>14) | SO |
 
 ### Alkarkon
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 5 | N |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 5 | SE |
-| Amelius | Aquilonia | 8 | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 8 | SO |
-| Rhmen | Cimmeria | 9 | NO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 8 | N |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 9 | SO |
+| Amelius | Aquilonia | 10 | SO |
 | Thalia | Nemedia | 10 | S |
-| Vicella | Aquilonia | 11 | SO |
-| Galparan | Aquilonia | 14 | SO |
-| Khrat | Cimmeria | 15 (>14) | NO |
-| Palea | Aquilonia | 16 (>14) | SO |
+| Rhmen | Cimmeria | 11 | NO |
+| Vicella | Aquilonia | 13 | SO |
+| Galparan | Aquilonia | 16 (>14) | SO |
+| Khrat | Cimmeria | 17 (>14) | NO |
+| Palea | Aquilonia | 18 (>14) | SO |
 
 ### S'Fanol
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 5 | NO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 7 | N |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | N |
 | Thalia | Nemedia | 11 | SO |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 12 | SO |
 | Amelius | Aquilonia | 13 | SO |
 | Rhmen | Cimmeria | 14 | NO |
-| Numalia | Nemedia | 15 (>14) | S |
 | Vicella | Aquilonia | 16 (>14) | NO |
-| Belverus | Nemedia | 17 (>14) | S |
+| Numalia | Nemedia | 18 (>14) | S |
 | Galparan | Aquilonia | 19 (>14) | SO |
+| Belverus | Nemedia | 19 (>14) | S |
 
 ### Ravengard
 
@@ -663,14 +643,13 @@
 | Amelius | Aquilonia | 3 | SO |
 | Rhmen | Cimmeria | 5 | NO |
 | Vicella | Aquilonia | 6 | NO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 6 | NE |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 7 | NE |
 | Thalia | Nemedia | 8 | S |
 | Galparan | Aquilonia | 9 | SO |
 | Khrat | Cimmeria | 10 | NO |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 10 | NE |
 | Palea | Aquilonia | 11 | S |
 | Tholeus | Aquilonia | 11 | NO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 11 | NE |
 
 ## Corinthia
 
@@ -683,11 +662,11 @@
 | Zahmahn | Corinthia | 8 | SE |
 | Kamalla † | Corinthia | 8 | S |
 | Khishtam | Corinthia | 12 | S |
-| Numalia | Nemedia | 16 (>14) | SO |
 | Shadizar | Zamora | 17 (>14) | SE |
-| Hanumar | Nemedia | 19 (>14) | SO |
+| Numalia | Nemedia | 20 (>14) | SO |
 | Zamindi | Zamora | 20 (>14) | SE |
 | Karvek | Koth | 20 (>14) | SE |
+| Yezud | Zamora | 21 (>14) | NE |
 
 ### Khumar Rhun
 
@@ -698,11 +677,11 @@
 | Kamalla † | Corinthia | 7 | SE |
 | Zahmahn | Corinthia | 9 | SE |
 | Khishtam | Corinthia | 11 | S |
-| Numalia | Nemedia | 13 | NO |
-| Hanumar | Nemedia | 16 (>14) | NO |
 | Shadizar | Zamora | 16 (>14) | SE |
-| Belverus | Nemedia | 19 (>14) | NO |
+| Numalia | Nemedia | 17 (>14) | NO |
 | Zamindi | Zamora | 19 (>14) | SE |
+| Karvek | Koth | 19 (>14) | SE |
+| Hanumar | Nemedia | 20 (>14) | NO |
 
 ### Zahmahn
 
@@ -726,13 +705,13 @@
 | Khumar Rhun | Corinthia | 3 | NE |
 | Ezar-Bar-Kum | Corinthia | 7 | NE |
 | Kamalla † | Corinthia | 8 | SE |
-| Numalia | Nemedia | 10 | NO |
 | Khishtam | Corinthia | 11 | SE |
 | Zahmahn | Corinthia | 12 | SE |
-| Hanumar | Nemedia | 13 | NO |
-| Belverus | Nemedia | 16 (>14) | NO |
-| Tor | Nemedia | 18 (>14) | NO |
+| Numalia | Nemedia | 14 | NO |
+| Hanumar | Nemedia | 17 (>14) | NO |
 | Ianthe | Ophir | 18 (>14) | SO |
+| Shadizar | Zamora | 18 (>14) | SE |
+| Khrosha | Koth | 18 (>14) | S |
 
 ### Kamalla †
 
@@ -950,17 +929,15 @@
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Shamar | Aquilonia | 5 | SO |
-| Hanumar | Nemedia | 7 | NE |
-| Belverus | Nemedia | 9 | NE |
-| Tor | Nemedia | 9 | N |
 | Pergona | Ophir | 9 | S |
 | Castria | Aquilonia | 11 | N |
-| Numalia | Nemedia | 11 | NE |
+| Hanumar | Nemedia | 11 | NE |
 | Tarantia | Aquilonia | 12 | NO |
+| Tor | Nemedia | 12 | N |
 | Ronnaco | Ophir | 12 | S |
-| Kormon | Aquilonia | 13 | NO |
-| Khorshemish | Koth | 13 | S |
-| Funirus | Aquilonia | 14 | NO |
+| Palea | Aquilonia | 15 (>14) | N |
+| Belverus | Nemedia | 15 (>14) | NE |
+| Carnolla | Ophir | 15 (>14) | S |
 
 ### Pergona
 
@@ -969,43 +946,43 @@
 | Ronnaco | Ophir | 3 | S |
 | Ianthe | Ophir | 7 | N |
 | Shamar | Aquilonia | 8 | NO |
-| Khorshemish | Koth | 8 | SE |
 | Carnolla | Ophir | 9 | SO |
+| Khorshemish | Koth | 10 | SE |
 | Tarantia | Aquilonia | 14 | NO |
-| Hanumar | Nemedia | 14 | N |
-| Pedassa | Aquilonia | 15 (>14) | NO |
-| Belverus | Nemedia | 16 (>14) | N |
-| Tor | Nemedia | 16 (>14) | N |
+| Pedassa | Aquilonia | 17 (>14) | NO |
+| Hanumar | Nemedia | 17 (>14) | N |
+| Castria | Aquilonia | 18 (>14) | N |
+| Elymir | Aquilonia | 18 (>14) | NO |
 
 ### Ronnaco
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Pergona | Ophir | 3 | N |
-| Khorshemish | Koth | 5 | SE |
 | Carnolla | Ophir | 6 | SO |
+| Khorshemish | Koth | 7 | SE |
 | Ianthe | Ophir | 10 | N |
 | Shamar | Aquilonia | 11 | NO |
-| Khrosha | Koth | 14 | SE |
+| Khrosha | Koth | 16 (>14) | SE |
 | Tarantia | Aquilonia | 17 (>14) | NO |
-| Pedassa | Aquilonia | 17 (>14) | NO |
-| Hanumar | Nemedia | 17 (>14) | N |
-| Cularío | Aquilonia | 19 (>14) | SO |
+| Pedassa | Aquilonia | 19 (>14) | NO |
+| Elymir | Aquilonia | 20 (>14) | NO |
+| Cularío | Aquilonia | 20 (>14) | SO |
 
 ### Carnolla
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Ronnaco | Ophir | 6 | NE |
-| Khorshemish | Koth | 8 | NE |
 | Pergona | Ophir | 9 | NE |
+| Khorshemish | Koth | 10 | NE |
 | Shamar | Aquilonia | 11 | N |
 | Ianthe | Ophir | 13 | N |
-| Pedassa | Aquilonia | 14 | NO |
-| Cularío | Aquilonia | 16 (>14) | NO |
 | Tarantia | Aquilonia | 17 (>14) | NO |
-| Elymir | Aquilonia | 17 (>14) | NO |
+| Pedassa | Aquilonia | 17 (>14) | NO |
+| Cularío | Aquilonia | 17 (>14) | NO |
 | Dan-Markah | Shem | 17 (>14) | S |
+| Khrosha | Koth | 17 (>14) | SE |
 
 ## Koth
 
@@ -1013,31 +990,31 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Ronnaco | Ophir | 7 | NO |
-| Carnolla | Ophir | 10 | SO |
-| Khrosha | Koth | 10 | SE |
-| Pergona | Ophir | 10 | NO |
-| Ianthe | Ophir | 13 | N |
-| Shamar | Aquilonia | 14 | NO |
-| Hanumar | Nemedia | 16 (>14) | N |
-| Anakia | Shem | 17 (>14) | S |
-| Belverus | Nemedia | 18 (>14) | N |
-| Tor | Nemedia | 19 (>14) | N |
+| Ronnaco | Ophir | 8 | NO |
+| Carnolla | Ophir | 11 | SO |
+| Pergona | Ophir | 11 | NO |
+| Ianthe | Ophir | 14 | N |
+| Khrosha | Koth | 14 | SE |
+| Shamar | Aquilonia | 15 (>14) | NO |
+| Anakia | Shem | 19 (>14) | S |
+| Hanumar | Nemedia | 20 (>14) | N |
+| Ghaza | Shem | 20 (>14) | S |
+| Lanjau † | Corinthia | 21 (>14) | NE |
 
 ### Khrosha
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Shumir | Shem | 10 | SE |
-| Khorshemish | Koth | 10 | NO |
 | Anakia | Shem | 11 | S |
 | Eruk | Shem | 14 | SE |
 | Buryat | Shem | 15 (>14) | S |
 | Akkharia | Shem | 15 (>14) | S |
+| Khorshemish | Koth | 15 (>14) | NO |
 | Nipor | Shem | 15 (>14) | SE |
-| Ronnaco | Ophir | 16 (>14) | NO |
 | Meshken | Khoraja | 16 (>14) | SE |
 | Lanjau † | Corinthia | 18 (>14) | N |
+| Khishtam | Corinthia | 18 (>14) | NE |
 
 ### Karvek
 
@@ -1111,11 +1088,11 @@
 |---|---|---:|:---:|
 | Koda | Zingara | 10 | N |
 | Jerida | Zingara | 12 | NO |
-| Varza | Zingara | 13 | N |
 | Messantia | Argos | 14 | SE |
 | Guarralio | Zingara | 15 (>14) | N |
 | Yorkin | Zingara | 16 (>14) | NO |
-| Cularío | Aquilonia | 20 (>14) | NE |
+| Varza | Zingara | 16 (>14) | N |
+| Cularío | Aquilonia | 22 (>14) | NE |
 | Kordava | Zingara | 22 (>14) | NO |
 | Dan-Markah | Shem | 22 (>14) | SE |
 | Asgalun | Shem | 22 (>14) | SE |
@@ -1128,12 +1105,12 @@
 | Dan-Markah | Shem | 12 | NE |
 | Venzia | Argos | 14 | NO |
 | Kyros | Shem | 14 | SE |
-| Cularío | Aquilonia | 19 (>14) | N |
-| Varza | Zingara | 20 (>14) | N |
+| Cularío | Aquilonia | 20 (>14) | N |
 | Khemi | Estigia | 21 (>14) | SE |
-| Pedassa | Aquilonia | 22 (>14) | N |
 | Koda | Zingara | 22 (>14) | NO |
 | Ghaza | Shem | 22 (>14) | SE |
+| Varza | Zingara | 23 (>14) | N |
+| Jerida | Zingara | 24 (>14) | NO |
 
 ## Zingara
 
@@ -1146,11 +1123,11 @@
 | Koda | Zingara | 16 (>14) | SE |
 | Guarralio | Zingara | 18 (>14) | NE |
 | Thandara | Aquilonia | 19 (>14) | NE |
-| Varza | Zingara | 21 (>14) | SE |
-| Lor | Aquilonia | 23 (>14) | NE |
 | Venzia | Argos | 23 (>14) | SE |
+| Varza | Zingara | 24 (>14) | SE |
+| Lor | Aquilonia | 25 (>14) | NE |
 | Elymir | Aquilonia | 25 (>14) | NE |
-| Cularío | Aquilonia | 26 (>14) | NE |
+| Cularío | Aquilonia | 27 (>14) | NE |
 
 ### Yorkin
 
@@ -1160,11 +1137,11 @@
 | Kordava | Zingara | 6 | NO |
 | Koda | Zingara | 10 | SE |
 | Guarralio | Zingara | 12 | NE |
-| Varza | Zingara | 15 (>14) | NE |
+| Thandara | Aquilonia | 16 (>14) | N |
 | Venzia | Argos | 17 (>14) | SE |
-| Thandara | Aquilonia | 18 (>14) | N |
+| Varza | Zingara | 18 (>14) | NE |
 | Elymir | Aquilonia | 20 (>14) | NE |
-| Cularío | Aquilonia | 20 (>14) | NE |
+| Cularío | Aquilonia | 21 (>14) | NE |
 | Lor | Aquilonia | 22 (>14) | NE |
 
 ### Jerida
@@ -1175,25 +1152,25 @@
 | Koda | Zingara | 6 | NE |
 | Guarralio | Zingara | 9 | NE |
 | Kordava | Zingara | 10 | NO |
-| Varza | Zingara | 11 | NE |
 | Venzia | Argos | 13 | SE |
-| Cularío | Aquilonia | 16 (>14) | NE |
-| Thandara | Aquilonia | 17 (>14) | N |
-| Pedassa | Aquilonia | 18 (>14) | NE |
+| Varza | Zingara | 14 | NE |
+| Thandara | Aquilonia | 15 (>14) | N |
+| Cularío | Aquilonia | 17 (>14) | NE |
 | Elymir | Aquilonia | 19 (>14) | NE |
+| Lor | Aquilonia | 21 (>14) | NE |
 
 ### Koda
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Varza | Zingara | 5 | NE |
 | Guarralio | Zingara | 5 | N |
 | Jerida | Zingara | 6 | SO |
-| Cularío | Aquilonia | 10 | NE |
+| Varza | Zingara | 8 | NE |
 | Yorkin | Zingara | 10 | NO |
 | Venzia | Argos | 11 | S |
-| Pedassa | Aquilonia | 14 | NE |
+| Cularío | Aquilonia | 13 | NE |
 | Elymir | Aquilonia | 15 (>14) | NE |
+| Thandara | Aquilonia | 15 (>14) | N |
 | Kordava | Zingara | 16 (>14) | NO |
 | Lor | Aquilonia | 17 (>14) | N |
 
@@ -1201,30 +1178,30 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Koda | Zingara | 5 | SO |
-| Guarralio | Zingara | 5 | NO |
-| Cularío | Aquilonia | 7 | NE |
-| Pedassa | Aquilonia | 11 | NE |
-| Jerida | Zingara | 11 | SO |
-| Elymir | Aquilonia | 12 | N |
-| Lor | Aquilonia | 14 | N |
-| Venzia | Argos | 14 | S |
-| Yorkin | Zingara | 15 (>14) | SO |
-| Dan-Markah | Shem | 18 (>14) | SE |
+| Koda | Zingara | 7 | SO |
+| Guarralio | Zingara | 7 | NO |
+| Cularío | Aquilonia | 10 | NE |
+| Jerida | Zingara | 13 | SO |
+| Elymir | Aquilonia | 14 | N |
+| Lor | Aquilonia | 16 (>14) | N |
+| Venzia | Argos | 16 (>14) | S |
+| Yorkin | Zingara | 17 (>14) | SO |
+| Pedassa | Aquilonia | 18 (>14) | NE |
+| Thandara | Aquilonia | 19 (>14) | NO |
 
 ### Guarralio
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Koda | Zingara | 5 | S |
-| Varza | Zingara | 5 | SE |
-| Cularío | Aquilonia | 8 | NE |
+| Varza | Zingara | 8 | SE |
+| Cularío | Aquilonia | 9 | NE |
 | Jerida | Zingara | 9 | SO |
 | Elymir | Aquilonia | 10 | NE |
-| Pedassa | Aquilonia | 10 | NE |
 | Lor | Aquilonia | 12 | N |
+| Thandara | Aquilonia | 12 | NO |
 | Yorkin | Zingara | 12 | SO |
-| Thandara | Aquilonia | 14 | NO |
+| Pedassa | Aquilonia | 15 (>14) | NE |
 | Venzia | Argos | 16 (>14) | S |
 
 ## Shem
@@ -1238,11 +1215,11 @@
 | Ghaza | Shem | 10 | SE |
 | Khemi | Estigia | 12 | SE |
 | Messantia | Argos | 13 | SO |
-| Cularío | Aquilonia | 17 (>14) | N |
 | Harakht | Estigia | 17 (>14) | SE |
-| Varza | Zingara | 18 (>14) | NO |
+| Cularío | Aquilonia | 18 (>14) | N |
 | Anakia | Shem | 18 (>14) | SE |
-| Pedassa | Aquilonia | 19 (>14) | N |
+| Carnolla | Ophir | 19 (>14) | N |
+| Buryat | Shem | 20 (>14) | SE |
 
 ### Asgalun
 
@@ -1253,11 +1230,11 @@
 | Messantia | Argos | 10 | NO |
 | Khemi | Estigia | 12 | SE |
 | Ghaza | Shem | 13 | NE |
-| Cularío | Aquilonia | 18 (>14) | N |
-| Varza | Zingara | 19 (>14) | NO |
-| Pedassa | Aquilonia | 20 (>14) | N |
+| Cularío | Aquilonia | 19 (>14) | N |
 | Harakht | Estigia | 20 (>14) | SE |
 | Anakia | Shem | 21 (>14) | NE |
+| Kheshatta | Estigia | 21 (>14) | SE |
+| Varza | Zingara | 22 (>14) | NO |
 
 ### Ghaza
 
@@ -2018,13 +1995,13 @@
 | Kushaf | Colchian / Ilbars (franja rosa al sur del desierto) | 10 | NE |
 | Anshan | Iranistán | 12 | NE |
 | Northern Capital | Zembabwei | 19 (>14) | SO |
-| Khawarizm | Turan | 27 (>14) | N |
-| Ghori | Turan | 27 (>14) | N |
-| Vezek | Desierto Oriental / Meridional (sin reino) | 29 (>14) | N |
-| Yueshi | Turan | 30 (>14) | N |
+| Khawarizm | Turan | 29 (>14) | N |
+| Ghori | Turan | 29 (>14) | N |
 | Bab-El-Shaitan | Desierto de Iranistán | 30 (>14) | NE |
-| Yukkub | Turan | 31 (>14) | N |
-| Kara-Sehr | Desierto de Iranistán | 31 (>14) | NE |
+| Vezek | Desierto Oriental / Meridional (sin reino) | 32 (>14) | N |
+| Yueshi | Turan | 32 (>14) | N |
+| New Zembabwei | Zembabwei | 32 (>14) | SO |
+| Kara-Sehr | Desierto de Iranistán | 33 (>14) | NE |
 
 ## Iranistán
 
@@ -2040,8 +2017,8 @@
 | Yueshi | Turan | 23 (>14) | N |
 | Kara-Sehr | Desierto de Iranistán | 23 (>14) | N |
 | Ashraf | Turan | 26 (>14) | N |
-| Vezek | Desierto Oriental / Meridional (sin reino) | 27 (>14) | NO |
-| Yukkub | Turan | 29 (>14) | N |
+| Vezek | Desierto Oriental / Meridional (sin reino) | 28 (>14) | NO |
+| Djemal | Hyrkania | 29 (>14) | N |
 
 ## Desierto de Iranistán
 
@@ -2088,9 +2065,9 @@
 | Bab-El-Shaitan | Desierto de Iranistán | 21 (>14) | NE |
 | Yueshi | Turan | 22 (>14) | N |
 | Kara-Sehr | Desierto de Iranistán | 23 (>14) | NE |
-| Vezek | Desierto Oriental / Meridional (sin reino) | 24 (>14) | N |
+| Vezek | Desierto Oriental / Meridional (sin reino) | 25 (>14) | N |
 | Ashraf | Turan | 25 (>14) | N |
-| Yukkub | Turan | 26 (>14) | N |
+| Yukkub | Turan | 27 (>14) | N |
 
 ## Desierto Oriental / Meridional (sin reino)
 
@@ -2995,13 +2972,13 @@
 |---|---|---:|:---:|
 | Chu-Chen | Khitai | 11 | NE |
 | Wantengri | Khitai | 14 | SE |
-| Shan-E-Sorkh | Khitai | 23 (>14) | S |
-| Paikang | Khitai | 27 (>14) | SE |
-| Shaulan | Khitai | 33 (>14) | S |
+| Shan-E-Sorkh | Khitai | 20 (>14) | S |
+| Paikang | Khitai | 24 (>14) | SE |
+| Shaulan | Khitai | 27 (>14) | S |
+| Ruo-Gen | Khitai | 36 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 43 (>14) | S |
 | Auzakia | Meru (región de Sumeru Tso) | 44 (>14) | S |
 | Pauana | Meru (región de Sumeru Tso) | 45 (>14) | S |
-| Ruo-Gen | Khitai | 46 (>14) | S |
 | Thogara | Meru (región de Sumeru Tso) | 48 (>14) | SO |
 
 ### Chu-Chen
@@ -3010,10 +2987,10 @@
 |---|---|---:|:---:|
 | Kusan | Khitai | 11 | SO |
 | Wantengri | Khitai | 12 | S |
-| Paikang | Khitai | 24 (>14) | S |
-| Shan-E-Sorkh | Khitai | 28 (>14) | S |
-| Shaulan | Khitai | 36 (>14) | S |
-| Ruo-Gen | Khitai | 48 (>14) | S |
+| Paikang | Khitai | 22 (>14) | S |
+| Shan-E-Sorkh | Khitai | 25 (>14) | S |
+| Shaulan | Khitai | 30 (>14) | S |
+| Ruo-Gen | Khitai | 38 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 51 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 53 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 53 (>14) | S |
@@ -3024,11 +3001,11 @@
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Chu-Chen | Khitai | 12 | N |
+| Paikang | Khitai | 13 | S |
+| Shan-E-Sorkh | Khitai | 13 | SO |
 | Kusan | Khitai | 14 | NO |
-| Paikang | Khitai | 16 (>14) | S |
-| Shan-E-Sorkh | Khitai | 16 (>14) | SO |
-| Shaulan | Khitai | 24 (>14) | S |
-| Ruo-Gen | Khitai | 36 (>14) | S |
+| Shaulan | Khitai | 18 (>14) | S |
+| Ruo-Gen | Khitai | 26 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 43 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 45 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 45 (>14) | SO |
@@ -3038,27 +3015,27 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Wantengri | Khitai | 14 | N |
-| Shan-E-Sorkh | Khitai | 20 (>14) | SO |
-| Shaulan | Khitai | 21 (>14) | SO |
-| Chu-Chen | Khitai | 22 (>14) | N |
-| Kusan | Khitai | 25 (>14) | NO |
-| Ruo-Gen | Khitai | 30 (>14) | S |
-| Issedon | Meru (región de Sumeru Tso) | 49 (>14) | SO |
-| Auzakia | Meru (región de Sumeru Tso) | 51 (>14) | SO |
-| Pauana | Meru (región de Sumeru Tso) | 51 (>14) | SO |
-| Thogara | Meru (región de Sumeru Tso) | 55 (>14) | SO |
+| Wantengri | Khitai | 12 | N |
+| Shaulan | Khitai | 14 | SO |
+| Shan-E-Sorkh | Khitai | 15 (>14) | SO |
+| Ruo-Gen | Khitai | 20 (>14) | S |
+| Chu-Chen | Khitai | 21 (>14) | N |
+| Kusan | Khitai | 23 (>14) | NO |
+| Issedon | Meru (región de Sumeru Tso) | 44 (>14) | SO |
+| Pauana | Meru (región de Sumeru Tso) | 46 (>14) | SO |
+| Auzakia | Meru (región de Sumeru Tso) | 47 (>14) | SO |
+| Thogara | Meru (región de Sumeru Tso) | 51 (>14) | SO |
 
 ### Shan-E-Sorkh
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shaulan | Khitai | 12 | SE |
-| Wantengri | Khitai | 14 | NE |
-| Paikang | Khitai | 20 (>14) | NE |
-| Kusan | Khitai | 21 (>14) | N |
-| Chu-Chen | Khitai | 26 (>14) | N |
-| Ruo-Gen | Khitai | 27 (>14) | S |
+| Shaulan | Khitai | 8 | SE |
+| Wantengri | Khitai | 12 | NE |
+| Paikang | Khitai | 15 (>14) | NE |
+| Ruo-Gen | Khitai | 18 (>14) | S |
+| Kusan | Khitai | 19 (>14) | N |
+| Chu-Chen | Khitai | 24 (>14) | N |
 | Issedon | Meru (región de Sumeru Tso) | 33 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 35 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 35 (>14) | SO |
@@ -3068,29 +3045,29 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shan-E-Sorkh | Khitai | 12 | NO |
-| Ruo-Gen | Khitai | 15 (>14) | S |
-| Paikang | Khitai | 21 (>14) | NE |
-| Wantengri | Khitai | 22 (>14) | N |
-| Kusan | Khitai | 31 (>14) | N |
-| Issedon | Meru (región de Sumeru Tso) | 32 (>14) | SO |
-| Pauana | Meru (región de Sumeru Tso) | 34 (>14) | SO |
-| Chu-Chen | Khitai | 34 (>14) | N |
-| Auzakia | Meru (región de Sumeru Tso) | 35 (>14) | SO |
-| Thogara | Meru (región de Sumeru Tso) | 39 (>14) | SO |
+| Shan-E-Sorkh | Khitai | 8 | NO |
+| Ruo-Gen | Khitai | 10 | S |
+| Paikang | Khitai | 14 | NE |
+| Wantengri | Khitai | 17 (>14) | N |
+| Kusan | Khitai | 26 (>14) | N |
+| Chu-Chen | Khitai | 29 (>14) | N |
+| Issedon | Meru (región de Sumeru Tso) | 31 (>14) | SO |
+| Pauana | Meru (región de Sumeru Tso) | 33 (>14) | SO |
+| Auzakia | Meru (región de Sumeru Tso) | 34 (>14) | SO |
+| Thogara | Meru (región de Sumeru Tso) | 38 (>14) | SO |
 
 ### Ruo-Gen
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shaulan | Khitai | 15 (>14) | N |
-| Shan-E-Sorkh | Khitai | 27 (>14) | N |
-| Paikang | Khitai | 30 (>14) | N |
-| Wantengri | Khitai | 34 (>14) | N |
-| Pauana | Meru (región de Sumeru Tso) | 36 (>14) | SO |
-| Issedon | Meru (región de Sumeru Tso) | 37 (>14) | SO |
-| Thrdana | Meru (región de Sumeru Tso) | 39 (>14) | SO |
-| Auzakia | Meru (región de Sumeru Tso) | 41 (>14) | SO |
-| Shamballa | Meru (región de Sumeru Tso) | 44 (>14) | SO |
-| Kusan | Khitai | 44 (>14) | N |
+| Shaulan | Khitai | 10 | N |
+| Shan-E-Sorkh | Khitai | 18 (>14) | N |
+| Paikang | Khitai | 20 (>14) | N |
+| Wantengri | Khitai | 25 (>14) | N |
+| Pauana | Meru (región de Sumeru Tso) | 34 (>14) | SO |
+| Issedon | Meru (región de Sumeru Tso) | 35 (>14) | SO |
+| Kusan | Khitai | 35 (>14) | N |
+| Thrdana | Meru (región de Sumeru Tso) | 37 (>14) | SO |
+| Chu-Chen | Khitai | 37 (>14) | N |
+| Auzakia | Meru (región de Sumeru Tso) | 38 (>14) | SO |
 

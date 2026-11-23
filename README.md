@@ -33,7 +33,7 @@ Los nombres admiten coincidencia parcial y sin tildes si es única.
 ## Reglas del modelo
 
 - Hexágono de 30 km vértice a vértice: lado 15 km, 25,98 km entre centros, ≈ 585 km².
-- Tierra, días por hexágono al que se entra: llanura 1; desierto, colinas y pantano 2; montaña y jungla 3. El agua no se cruza a pie. Los ríos no están modelados.
+- Tierra, días por hexágono al que se entra: llanura 1; desierto, colinas, pantano, bosque y tundra 2; montaña y jungla 3. El agua no se cruza a pie. Los ríos y los caminos no están modelados.
 - Mar: 3 hexágonos al día. Los barcos solo paran en ciudades costeras e islas.
 - Kilómetros estimados = hexágonos recorridos × 26 (25,98).
 - Red de ciudades: se enlazan las ciudades a menos de 14 días por tierra (coste direccional), más enlaces por mar y 10 «enlaces puente» para que la red sea una sola.

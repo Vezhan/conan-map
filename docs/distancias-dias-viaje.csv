@@ -1,480 +1,457 @@
 ﻿Origen;Reino origen;Destino;Reino destino;Días de viaje;Rumbo;Observaciones
-Lireigh;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;21;SE;>14 días
-Lireigh;Nordheim;Brutheim;Nordheim;26;SE;>14 días
-Lireigh;Nordheim;Tholeus;Aquilonia;31;S;>14 días
-Lireigh;Nordheim;Galparan;Aquilonia;35;S;>14 días
-Lireigh;Nordheim;Vicella;Aquilonia;36;SE;>14 días
-Lireigh;Nordheim;Aloe;Nordheim;37;SE;>14 días
-Lireigh;Nordheim;Velithua;Aquilonia;37;S;>14 días
-Lireigh;Nordheim;Rhmen;Cimmeria;38;SE;>14 días
-Lireigh;Nordheim;Khrat;Cimmeria;39;SE;>14 días
-Lireigh;Nordheim;Torh;Aquilonia;40;S;>14 días
-Aloe;Nordheim;Brutheim;Nordheim;11;SO;
-Aloe;Nordheim;Haloga;Hiperbórea;15;SE;>14 días
-Aloe;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;S;>14 días
-Aloe;Nordheim;Sistona;Hiperbórea;24;SE;>14 días
-Aloe;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;S;>14 días
-Aloe;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;S;>14 días
-Aloe;Nordheim;Pohiola;Hiperbórea;27;SE;>14 días
-Aloe;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;29;SO;>14 días
-Aloe;Nordheim;Amelius;Aquilonia;34;S;>14 días
-Aloe;Nordheim;Rhmen;Cimmeria;34;SO;>14 días
-Brutheim;Nordheim;Aloe;Nordheim;11;NE;
-Brutheim;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;18;SO;>14 días
-Brutheim;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);18;S;>14 días
-Brutheim;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;S;>14 días
-Brutheim;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;S;>14 días
-Brutheim;Nordheim;Lireigh;Nordheim;26;NO;>14 días
-Brutheim;Nordheim;Haloga;Hiperbórea;26;NE;>14 días
-Brutheim;Nordheim;Amelius;Aquilonia;28;S;>14 días
-Brutheim;Nordheim;Rhmen;Cimmeria;28;S;>14 días
-Brutheim;Nordheim;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);28;S;>14 días
-Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Brutheim;Nordheim;17;NE;>14 días
+Lireigh;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;34;SE;>14 días
+Lireigh;Nordheim;Tholeus;Aquilonia;41;S;>14 días
+Lireigh;Nordheim;Nuaowyddon;Pictland;43;S;>14 días
+Lireigh;Nordheim;Galparan;Aquilonia;45;S;>14 días
+Lireigh;Nordheim;Vicella;Aquilonia;46;SE;>14 días
+Lireigh;Nordheim;Rhmen;Cimmeria;48;SE;>14 días
+Lireigh;Nordheim;Khrat;Cimmeria;49;SE;>14 días
+Lireigh;Nordheim;Velithua;Aquilonia;50;S;>14 días
+Lireigh;Nordheim;Amelius;Aquilonia;50;SE;>14 días
+Lireigh;Nordheim;Brutheim;Nordheim;51;SE;>14 días
+Aloe;Nordheim;Haloga;Hiperbórea;20;SE;>14 días
+Aloe;Nordheim;Brutheim;Nordheim;22;SO;>14 días
+Aloe;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);30;S;>14 días
+Aloe;Nordheim;Pohiola;Hiperbórea;34;SE;>14 días
+Aloe;Nordheim;Sistona;Hiperbórea;34;SE;>14 días
+Aloe;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);37;S;>14 días
+Aloe;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);37;S;>14 días
+Aloe;Nordheim;Rhmen;Cimmeria;45;SO;>14 días
+Aloe;Nordheim;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);46;S;>14 días
+Aloe;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;47;SO;>14 días
+Brutheim;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;S;>14 días
+Brutheim;Nordheim;Aloe;Nordheim;22;NE;>14 días
+Brutheim;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;S;>14 días
+Brutheim;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;26;SO;>14 días
+Brutheim;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);30;S;>14 días
+Brutheim;Nordheim;Rhmen;Cimmeria;33;S;>14 días
+Brutheim;Nordheim;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;S;>14 días
+Brutheim;Nordheim;Amelius;Aquilonia;35;S;>14 días
+Brutheim;Nordheim;Vicella;Aquilonia;35;S;>14 días
+Brutheim;Nordheim;Thalia;Nemedia;35;S;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Khrat;Cimmeria;18;S;>14 días
-Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Lireigh;Nordheim;20;NO;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Vicella;Aquilonia;22;S;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Rhmen;Cimmeria;23;S;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Tholeus;Aquilonia;23;S;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Galparan;Aquilonia;25;S;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SE;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Brutheim;Nordheim;26;NE;>14 días
 Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Amelius;Aquilonia;27;S;>14 días
-Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);27;SE;>14 días
-Haloga;Hiperbórea;Aloe;Nordheim;14;NO;
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);28;SE;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);29;S;>14 días
 Haloga;Hiperbórea;Pohiola;Hiperbórea;18;SE;>14 días
+Haloga;Hiperbórea;Aloe;Nordheim;20;NO;>14 días
 Haloga;Hiperbórea;Sistona;Hiperbórea;20;S;>14 días
-Haloga;Hiperbórea;Brutheim;Nordheim;25;SO;>14 días
-Haloga;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SO;>14 días
-Haloga;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);29;SO;>14 días
-Haloga;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);30;SO;>14 días
-Haloga;Hiperbórea;Amelius;Aquilonia;38;SO;>14 días
-Haloga;Hiperbórea;Rhmen;Cimmeria;38;SO;>14 días
-Haloga;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);38;SO;>14 días
+Haloga;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);32;SO;>14 días
+Haloga;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);33;SO;>14 días
+Haloga;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);35;SO;>14 días
+Haloga;Hiperbórea;Brutheim;Nordheim;38;SO;>14 días
+Haloga;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);43;SO;>14 días
+Haloga;Hiperbórea;Amelius;Aquilonia;44;SO;>14 días
+Haloga;Hiperbórea;Thalia;Nemedia;44;SO;>14 días
 Pohiola;Hiperbórea;Sistona;Hiperbórea;10;SO;
 Pohiola;Hiperbórea;Haloga;Hiperbórea;18;NO;>14 días
-Pohiola;Hiperbórea;Aloe;Nordheim;26;NO;>14 días
-Pohiola;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);31;SO;>14 días
 Pohiola;Hiperbórea;Ashmir;Zamora;31;S;>14 días
-Pohiola;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);33;SO;>14 días
-Pohiola;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
-Pohiola;Hiperbórea;Brutheim;Nordheim;35;NO;>14 días
+Pohiola;Hiperbórea;Aloe;Nordheim;34;NO;>14 días
+Pohiola;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
+Pohiola;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
+Pohiola;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);36;SO;>14 días
 Pohiola;Hiperbórea;Komash;Zamora;38;S;>14 días
 Pohiola;Hiperbórea;Yaralet;Turan;38;SE;>14 días
-Nuaowyddon;Pictland;Gwawela;Pictland;30;S;>14 días
-Nuaowyddon;Pictland;Tholeus;Aquilonia;34;SE;>14 días
-Nuaowyddon;Pictland;Velithua;Aquilonia;36;SE;>14 días
-Nuaowyddon;Pictland;Galparan;Aquilonia;37;SE;>14 días
-Nuaowyddon;Pictland;Torh;Aquilonia;39;SE;>14 días
-Nuaowyddon;Pictland;Vicella;Aquilonia;39;SE;>14 días
-Nuaowyddon;Pictland;Rhmen;Cimmeria;41;SE;>14 días
-Nuaowyddon;Pictland;Skandag;Aquilonia;42;S;>14 días
-Nuaowyddon;Pictland;Khrat;Cimmeria;42;SE;>14 días
-Nuaowyddon;Pictland;Amelius;Aquilonia;43;SE;>14 días
-Gwawela;Pictland;Skandag;Aquilonia;12;SE;
-Gwawela;Pictland;Velithua;Aquilonia;13;NE;
+Pohiola;Hiperbórea;Kharsho;Zamora;42;S;>14 días
+Nuaowyddon;Pictland;Gwawela;Pictland;20;S;>14 días
+Nuaowyddon;Pictland;Velithua;Aquilonia;26;SE;>14 días
+Nuaowyddon;Pictland;Tholeus;Aquilonia;26;SE;>14 días
+Nuaowyddon;Pictland;Skandag;Aquilonia;28;S;>14 días
+Nuaowyddon;Pictland;Galparan;Aquilonia;29;SE;>14 días
+Nuaowyddon;Pictland;Vicella;Aquilonia;31;SE;>14 días
+Nuaowyddon;Pictland;Thenitea;Aquilonia;32;S;>14 días
+Nuaowyddon;Pictland;Torh;Aquilonia;33;SE;>14 días
+Nuaowyddon;Pictland;Rhmen;Cimmeria;33;SE;>14 días
+Nuaowyddon;Pictland;Khrat;Cimmeria;34;SE;>14 días
+Gwawela;Pictland;Skandag;Aquilonia;8;SE;
+Gwawela;Pictland;Velithua;Aquilonia;11;NE;
+Gwawela;Pictland;Thenitea;Aquilonia;12;S;
 Gwawela;Pictland;Torh;Aquilonia;14;SE;
-Gwawela;Pictland;Thenitea;Aquilonia;18;S;>14 días
-Gwawela;Pictland;Funirus;Aquilonia;20;SE;>14 días
-Gwawela;Pictland;Kormon;Aquilonia;22;SE;>14 días
-Gwawela;Pictland;Coyaga;Aquilonia;23;S;>14 días
-Gwawela;Pictland;Lor;Aquilonia;23;S;>14 días
-Gwawela;Pictland;Galparan;Aquilonia;24;NE;>14 días
-Gwawela;Pictland;Tholeus;Aquilonia;24;NE;>14 días
-Velithua;Aquilonia;Torh;Aquilonia;5;S;
-Velithua;Aquilonia;Skandag;Aquilonia;8;SO;
-Velithua;Aquilonia;Kormon;Aquilonia;11;SE;
-Velithua;Aquilonia;Funirus;Aquilonia;11;S;
-Velithua;Aquilonia;Tholeus;Aquilonia;11;NE;
-Velithua;Aquilonia;Galparan;Aquilonia;12;NE;
-Velithua;Aquilonia;Thenitea;Aquilonia;13;SO;
-Velithua;Aquilonia;Lor;Aquilonia;14;S;
-Velithua;Aquilonia;Gwawela;Pictland;15;SO;>14 días
-Velithua;Aquilonia;Vicella;Aquilonia;15;NE;>14 días
-Skandag;Aquilonia;Velithua;Aquilonia;6;NE;
-Skandag;Aquilonia;Torh;Aquilonia;6;SE;
-Skandag;Aquilonia;Thenitea;Aquilonia;9;SO;
-Skandag;Aquilonia;Funirus;Aquilonia;10;SE;
-Skandag;Aquilonia;Gwawela;Pictland;12;NO;
-Skandag;Aquilonia;Coyaga;Aquilonia;12;S;
+Gwawela;Pictland;Coyaga;Aquilonia;18;S;>14 días
+Gwawela;Pictland;Nuaowyddon;Pictland;20;N;>14 días
+Gwawela;Pictland;Lor;Aquilonia;20;S;>14 días
+Gwawela;Pictland;Schondara;Aquilonia;22;S;>14 días
+Gwawela;Pictland;Funirus;Aquilonia;23;SE;>14 días
+Gwawela;Pictland;Tarantia;Aquilonia;23;SE;>14 días
+Velithua;Aquilonia;Skandag;Aquilonia;7;SO;
+Velithua;Aquilonia;Torh;Aquilonia;9;S;
+Velithua;Aquilonia;Gwawela;Pictland;11;SO;
+Velithua;Aquilonia;Thenitea;Aquilonia;11;SO;
+Velithua;Aquilonia;Tholeus;Aquilonia;13;NE;
+Velithua;Aquilonia;Coyaga;Aquilonia;14;SO;
+Velithua;Aquilonia;Galparan;Aquilonia;15;NE;>14 días
+Velithua;Aquilonia;Lor;Aquilonia;15;S;>14 días
+Velithua;Aquilonia;Schondara;Aquilonia;18;SO;>14 días
+Velithua;Aquilonia;Funirus;Aquilonia;18;S;>14 días
+Skandag;Aquilonia;Velithua;Aquilonia;7;NE;
+Skandag;Aquilonia;Thenitea;Aquilonia;7;SO;
+Skandag;Aquilonia;Gwawela;Pictland;8;NO;
+Skandag;Aquilonia;Torh;Aquilonia;9;SE;
+Skandag;Aquilonia;Coyaga;Aquilonia;10;S;
 Skandag;Aquilonia;Lor;Aquilonia;13;S;
-Skandag;Aquilonia;Kormon;Aquilonia;14;SE;
-Skandag;Aquilonia;Galparan;Aquilonia;16;NE;>14 días
+Skandag;Aquilonia;Schondara;Aquilonia;14;SO;
+Skandag;Aquilonia;Funirus;Aquilonia;16;SE;>14 días
 Skandag;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
-Torh;Aquilonia;Velithua;Aquilonia;5;N;
-Torh;Aquilonia;Funirus;Aquilonia;6;SE;
-Torh;Aquilonia;Skandag;Aquilonia;8;NO;
-Torh;Aquilonia;Kormon;Aquilonia;8;SE;
-Torh;Aquilonia;Lor;Aquilonia;11;S;
+Skandag;Aquilonia;Elymir;Aquilonia;17;S;>14 días
+Torh;Aquilonia;Velithua;Aquilonia;9;N;
+Torh;Aquilonia;Skandag;Aquilonia;9;NO;
 Torh;Aquilonia;Thenitea;Aquilonia;12;SO;
-Torh;Aquilonia;Galparan;Aquilonia;12;NE;
-Torh;Aquilonia;Tarantia;Aquilonia;12;SE;
+Torh;Aquilonia;Funirus;Aquilonia;12;SE;
 Torh;Aquilonia;Coyaga;Aquilonia;13;SO;
-Torh;Aquilonia;Elymir;Aquilonia;13;S;
-Torh;Aquilonia;Tholeus;Aquilonia;14;NE;
-Thenitea;Aquilonia;Skandag;Aquilonia;9;NE;
-Thenitea;Aquilonia;Coyaga;Aquilonia;9;S;
-Thenitea;Aquilonia;Torh;Aquilonia;10;NE;
+Torh;Aquilonia;Gwawela;Pictland;14;NO;
+Torh;Aquilonia;Lor;Aquilonia;14;S;
+Torh;Aquilonia;Kormon;Aquilonia;16;SE;>14 días
+Torh;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
+Torh;Aquilonia;Schondara;Aquilonia;17;SO;>14 días
+Thenitea;Aquilonia;Coyaga;Aquilonia;6;S;
+Thenitea;Aquilonia;Skandag;Aquilonia;7;NE;
+Thenitea;Aquilonia;Schondara;Aquilonia;10;SO;
 Thenitea;Aquilonia;Velithua;Aquilonia;11;NE;
-Thenitea;Aquilonia;Lor;Aquilonia;13;SE;
-Thenitea;Aquilonia;Funirus;Aquilonia;14;SE;
-Thenitea;Aquilonia;Schondara;Aquilonia;15;SO;>14 días
-Thenitea;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
-Thenitea;Aquilonia;Elymir;Aquilonia;17;SE;>14 días
-Thenitea;Aquilonia;Gwawela;Pictland;18;N;>14 días
-Coyaga;Aquilonia;Schondara;Aquilonia;6;SO;
-Coyaga;Aquilonia;Thenitea;Aquilonia;9;N;
-Coyaga;Aquilonia;Torh;Aquilonia;11;NE;
-Coyaga;Aquilonia;Lor;Aquilonia;11;SE;
-Coyaga;Aquilonia;Skandag;Aquilonia;12;N;
-Coyaga;Aquilonia;Kwwyara;Aquilonia;12;SO;
+Thenitea;Aquilonia;Gwawela;Pictland;12;N;
+Thenitea;Aquilonia;Torh;Aquilonia;12;NE;
+Thenitea;Aquilonia;Kwwyara;Aquilonia;12;SO;
+Thenitea;Aquilonia;Lor;Aquilonia;12;SE;
+Thenitea;Aquilonia;Tarantia;Aquilonia;15;SE;>14 días
+Thenitea;Aquilonia;Funirus;Aquilonia;16;SE;>14 días
+Coyaga;Aquilonia;Schondara;Aquilonia;4;SO;
+Coyaga;Aquilonia;Thenitea;Aquilonia;6;N;
+Coyaga;Aquilonia;Kwwyara;Aquilonia;8;SO;
+Coyaga;Aquilonia;Skandag;Aquilonia;10;N;
+Coyaga;Aquilonia;Lor;Aquilonia;10;SE;
+Coyaga;Aquilonia;Torh;Aquilonia;13;NE;
 Coyaga;Aquilonia;Velithua;Aquilonia;14;NE;
-Coyaga;Aquilonia;Funirus;Aquilonia;15;SE;>14 días
-Coyaga;Aquilonia;Elymir;Aquilonia;15;SE;>14 días
-Coyaga;Aquilonia;Tarantia;Aquilonia;17;SE;>14 días
-Kwwyara;Aquilonia;Schondara;Aquilonia;6;NE;
-Kwwyara;Aquilonia;Coyaga;Aquilonia;12;NE;
-Kwwyara;Aquilonia;Thenitea;Aquilonia;18;NE;>14 días
-Kwwyara;Aquilonia;Lor;Aquilonia;19;SE;>14 días
-Kwwyara;Aquilonia;Torh;Aquilonia;23;NE;>14 días
-Kwwyara;Aquilonia;Elymir;Aquilonia;23;SE;>14 días
-Kwwyara;Aquilonia;Skandag;Aquilonia;24;NE;>14 días
-Kwwyara;Aquilonia;Thandara;Aquilonia;24;S;>14 días
-Kwwyara;Aquilonia;Funirus;Aquilonia;25;NE;>14 días
-Kwwyara;Aquilonia;Velithua;Aquilonia;26;NE;>14 días
-Schondara;Aquilonia;Coyaga;Aquilonia;6;NE;
-Schondara;Aquilonia;Kwwyara;Aquilonia;6;SO;
-Schondara;Aquilonia;Lor;Aquilonia;13;SE;
-Schondara;Aquilonia;Thenitea;Aquilonia;15;NE;>14 días
+Coyaga;Aquilonia;Elymir;Aquilonia;14;SE;
+Coyaga;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
+Coyaga;Aquilonia;Funirus;Aquilonia;17;SE;>14 días
+Kwwyara;Aquilonia;Schondara;Aquilonia;4;NE;
+Kwwyara;Aquilonia;Coyaga;Aquilonia;8;NE;
+Kwwyara;Aquilonia;Thenitea;Aquilonia;12;NE;
+Kwwyara;Aquilonia;Lor;Aquilonia;15;SE;>14 días
+Kwwyara;Aquilonia;Thandara;Aquilonia;16;S;>14 días
+Kwwyara;Aquilonia;Skandag;Aquilonia;18;NE;>14 días
+Kwwyara;Aquilonia;Elymir;Aquilonia;19;SE;>14 días
+Kwwyara;Aquilonia;Torh;Aquilonia;21;NE;>14 días
+Kwwyara;Aquilonia;Velithua;Aquilonia;22;NE;>14 días
+Kwwyara;Aquilonia;Guarralio;Zingara;22;S;>14 días
+Schondara;Aquilonia;Coyaga;Aquilonia;4;NE;
+Schondara;Aquilonia;Kwwyara;Aquilonia;4;SO;
+Schondara;Aquilonia;Thenitea;Aquilonia;10;NE;
+Schondara;Aquilonia;Lor;Aquilonia;11;SE;
+Schondara;Aquilonia;Skandag;Aquilonia;14;NE;
+Schondara;Aquilonia;Elymir;Aquilonia;15;SE;>14 días
 Schondara;Aquilonia;Torh;Aquilonia;17;NE;>14 días
-Schondara;Aquilonia;Elymir;Aquilonia;17;SE;>14 días
-Schondara;Aquilonia;Skandag;Aquilonia;18;NE;>14 días
-Schondara;Aquilonia;Funirus;Aquilonia;19;NE;>14 días
-Schondara;Aquilonia;Velithua;Aquilonia;20;NE;>14 días
-Schondara;Aquilonia;Guarralio;Zingara;20;S;>14 días
+Schondara;Aquilonia;Velithua;Aquilonia;18;NE;>14 días
+Schondara;Aquilonia;Thandara;Aquilonia;18;S;>14 días
+Schondara;Aquilonia;Guarralio;Zingara;18;S;>14 días
 Galparan;Aquilonia;Tholeus;Aquilonia;4;N;
 Galparan;Aquilonia;Vicella;Aquilonia;5;NE;
 Galparan;Aquilonia;Amelius;Aquilonia;7;NE;
 Galparan;Aquilonia;Rhmen;Cimmeria;7;NE;
 Galparan;Aquilonia;Khrat;Cimmeria;9;N;
-Galparan;Aquilonia;Kormon;Aquilonia;10;S;
-Galparan;Aquilonia;Palea;Aquilonia;11;SE;
 Galparan;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
-Galparan;Aquilonia;Velithua;Aquilonia;12;SO;
-Galparan;Aquilonia;Torh;Aquilonia;12;SO;
-Galparan;Aquilonia;Funirus;Aquilonia;14;S;
-Galparan;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;NE;
+Galparan;Aquilonia;Palea;Aquilonia;12;SE;
+Galparan;Aquilonia;Velithua;Aquilonia;16;SO;>14 días
+Galparan;Aquilonia;Castria;Aquilonia;16;SE;>14 días
+Galparan;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);16;NE;>14 días
 Amelius;Aquilonia;Vicella;Aquilonia;5;NO;
 Amelius;Aquilonia;Rhmen;Cimmeria;5;N;
 Amelius;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;NE;
 Amelius;Aquilonia;Galparan;Aquilonia;7;SO;
 Amelius;Aquilonia;Palea;Aquilonia;8;S;
-Amelius;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;NE;
 Amelius;Aquilonia;Tholeus;Aquilonia;9;NO;
 Amelius;Aquilonia;Khrat;Cimmeria;10;NO;
+Amelius;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;NE;
 Amelius;Aquilonia;Thalia;Nemedia;11;SE;
 Amelius;Aquilonia;Castria;Aquilonia;12;S;
-Amelius;Aquilonia;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
 Amelius;Aquilonia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
-Amelius;Aquilonia;Kormon;Aquilonia;14;SO;
 Palea;Aquilonia;Amelius;Aquilonia;6;N;
 Palea;Aquilonia;Castria;Aquilonia;7;S;
 Palea;Aquilonia;Thalia;Nemedia;8;NE;
-Palea;Aquilonia;Galparan;Aquilonia;9;NO;
-Palea;Aquilonia;Kormon;Aquilonia;10;SO;
+Palea;Aquilonia;Galparan;Aquilonia;10;NO;
 Palea;Aquilonia;Vicella;Aquilonia;11;N;
 Palea;Aquilonia;Rhmen;Cimmeria;11;N;
 Palea;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;N;
-Palea;Aquilonia;Belverus;Nemedia;12;SE;
 Palea;Aquilonia;Tholeus;Aquilonia;13;NO;
 Palea;Aquilonia;Ianthe;Ophir;13;S;
-Palea;Aquilonia;Funirus;Aquilonia;14;SO;
-Palea;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;NE;
-Kormon;Aquilonia;Funirus;Aquilonia;4;SO;
-Kormon;Aquilonia;Torh;Aquilonia;8;NO;
-Kormon;Aquilonia;Tarantia;Aquilonia;8;S;
-Kormon;Aquilonia;Galparan;Aquilonia;10;N;
-Kormon;Aquilonia;Velithua;Aquilonia;11;NO;
-Kormon;Aquilonia;Palea;Aquilonia;12;NE;
-Kormon;Aquilonia;Castria;Aquilonia;12;SE;
-Kormon;Aquilonia;Shamar;Aquilonia;12;S;
-Kormon;Aquilonia;Tholeus;Aquilonia;12;N;
-Kormon;Aquilonia;Lor;Aquilonia;13;SO;
-Kormon;Aquilonia;Ianthe;Ophir;13;SE;
-Kormon;Aquilonia;Amelius;Aquilonia;14;NE;
-Funirus;Aquilonia;Kormon;Aquilonia;4;NE;
-Funirus;Aquilonia;Torh;Aquilonia;6;NO;
-Funirus;Aquilonia;Tarantia;Aquilonia;6;S;
-Funirus;Aquilonia;Lor;Aquilonia;9;SO;
-Funirus;Aquilonia;Velithua;Aquilonia;11;N;
-Funirus;Aquilonia;Elymir;Aquilonia;11;S;
-Funirus;Aquilonia;Skandag;Aquilonia;12;NO;
-Funirus;Aquilonia;Shamar;Aquilonia;12;SE;
-Funirus;Aquilonia;Pedassa;Aquilonia;12;S;
-Funirus;Aquilonia;Galparan;Aquilonia;14;N;
-Funirus;Aquilonia;Ianthe;Ophir;14;SE;
+Palea;Aquilonia;Belverus;Nemedia;14;SE;
+Kormon;Aquilonia;Funirus;Aquilonia;8;SO;
+Kormon;Aquilonia;Tarantia;Aquilonia;11;S;
+Kormon;Aquilonia;Castria;Aquilonia;15;SE;>14 días
+Kormon;Aquilonia;Shamar;Aquilonia;15;S;>14 días
+Kormon;Aquilonia;Torh;Aquilonia;16;NO;>14 días
+Kormon;Aquilonia;Ianthe;Ophir;16;SE;>14 días
+Kormon;Aquilonia;Palea;Aquilonia;17;NE;>14 días
+Kormon;Aquilonia;Lor;Aquilonia;17;SO;>14 días
+Kormon;Aquilonia;Elymir;Aquilonia;18;SO;>14 días
+Kormon;Aquilonia;Galparan;Aquilonia;19;N;>14 días
+Funirus;Aquilonia;Tarantia;Aquilonia;7;S;
+Funirus;Aquilonia;Kormon;Aquilonia;8;NE;
+Funirus;Aquilonia;Lor;Aquilonia;10;SO;
+Funirus;Aquilonia;Torh;Aquilonia;12;NO;
+Funirus;Aquilonia;Elymir;Aquilonia;12;S;
+Funirus;Aquilonia;Shamar;Aquilonia;13;SE;
+Funirus;Aquilonia;Pedassa;Aquilonia;14;S;
+Funirus;Aquilonia;Skandag;Aquilonia;16;NO;>14 días
+Funirus;Aquilonia;Thenitea;Aquilonia;16;NO;>14 días
+Funirus;Aquilonia;Coyaga;Aquilonia;17;NO;>14 días
 Castria;Aquilonia;Palea;Aquilonia;7;N;
-Castria;Aquilonia;Belverus;Nemedia;9;SE;
 Castria;Aquilonia;Ianthe;Ophir;9;S;
 Castria;Aquilonia;Amelius;Aquilonia;10;N;
-Castria;Aquilonia;Kormon;Aquilonia;10;NO;
 Castria;Aquilonia;Thalia;Nemedia;11;NE;
 Castria;Aquilonia;Tor;Nemedia;11;SE;
-Castria;Aquilonia;Hanumar;Nemedia;11;SE;
 Castria;Aquilonia;Shamar;Aquilonia;12;S;
-Castria;Aquilonia;Galparan;Aquilonia;13;NO;
+Castria;Aquilonia;Belverus;Nemedia;12;SE;
 Castria;Aquilonia;Tarantia;Aquilonia;13;SO;
-Castria;Aquilonia;Funirus;Aquilonia;14;SO;
-Tarantia;Aquilonia;Funirus;Aquilonia;6;N;
+Castria;Aquilonia;Galparan;Aquilonia;14;NO;
+Castria;Aquilonia;Kormon;Aquilonia;14;NO;
 Tarantia;Aquilonia;Shamar;Aquilonia;7;SE;
 Tarantia;Aquilonia;Elymir;Aquilonia;7;SO;
-Tarantia;Aquilonia;Kormon;Aquilonia;8;N;
+Tarantia;Aquilonia;Funirus;Aquilonia;8;N;
 Tarantia;Aquilonia;Lor;Aquilonia;8;SO;
-Tarantia;Aquilonia;Pedassa;Aquilonia;8;S;
-Tarantia;Aquilonia;Torh;Aquilonia;12;NO;
-Tarantia;Aquilonia;Cularío;Aquilonia;12;S;
+Tarantia;Aquilonia;Pedassa;Aquilonia;9;S;
+Tarantia;Aquilonia;Kormon;Aquilonia;12;N;
 Tarantia;Aquilonia;Ianthe;Ophir;12;SE;
 Tarantia;Aquilonia;Castria;Aquilonia;15;NE;>14 días
+Tarantia;Aquilonia;Thenitea;Aquilonia;16;NO;>14 días
+Tarantia;Aquilonia;Cularío;Aquilonia;16;S;>14 días
 Lor;Aquilonia;Elymir;Aquilonia;4;S;
 Lor;Aquilonia;Tarantia;Aquilonia;8;NE;
-Lor;Aquilonia;Pedassa;Aquilonia;8;SE;
-Lor;Aquilonia;Funirus;Aquilonia;9;NE;
-Lor;Aquilonia;Cularío;Aquilonia;10;S;
-Lor;Aquilonia;Torh;Aquilonia;11;N;
+Lor;Aquilonia;Pedassa;Aquilonia;9;SE;
+Lor;Aquilonia;Coyaga;Aquilonia;11;NO;
+Lor;Aquilonia;Funirus;Aquilonia;11;NE;
+Lor;Aquilonia;Schondara;Aquilonia;12;NO;
 Lor;Aquilonia;Guarralio;Zingara;12;S;
-Lor;Aquilonia;Coyaga;Aquilonia;13;NO;
-Lor;Aquilonia;Kormon;Aquilonia;13;NE;
-Lor;Aquilonia;Velithua;Aquilonia;14;N;
-Lor;Aquilonia;Varza;Zingara;14;S;
+Lor;Aquilonia;Thenitea;Aquilonia;13;NO;
+Lor;Aquilonia;Skandag;Aquilonia;14;N;
+Lor;Aquilonia;Thandara;Aquilonia;14;SO;
+Lor;Aquilonia;Cularío;Aquilonia;14;S;
 Shamar;Aquilonia;Ianthe;Ophir;5;NE;
 Shamar;Aquilonia;Tarantia;Aquilonia;7;NO;
-Shamar;Aquilonia;Pedassa;Aquilonia;10;SO;
 Shamar;Aquilonia;Pergona;Ophir;10;SE;
-Shamar;Aquilonia;Kormon;Aquilonia;12;N;
-Shamar;Aquilonia;Funirus;Aquilonia;12;NO;
-Shamar;Aquilonia;Hanumar;Nemedia;12;NE;
+Shamar;Aquilonia;Pedassa;Aquilonia;12;SO;
 Shamar;Aquilonia;Elymir;Aquilonia;13;SO;
-Shamar;Aquilonia;Cularío;Aquilonia;13;SO;
 Shamar;Aquilonia;Carnolla;Ophir;13;S;
 Shamar;Aquilonia;Ronnaco;Ophir;13;SE;
+Shamar;Aquilonia;Funirus;Aquilonia;14;NO;
 Shamar;Aquilonia;Castria;Aquilonia;14;N;
-Shamar;Aquilonia;Belverus;Nemedia;14;NE;
-Shamar;Aquilonia;Tor;Nemedia;14;NE;
-Shamar;Aquilonia;Khorshemish;Koth;14;SE;
+Shamar;Aquilonia;Lor;Aquilonia;15;NO;>14 días
 Elymir;Aquilonia;Lor;Aquilonia;4;N;
-Elymir;Aquilonia;Pedassa;Aquilonia;4;SE;
-Elymir;Aquilonia;Cularío;Aquilonia;6;S;
+Elymir;Aquilonia;Pedassa;Aquilonia;5;SE;
 Elymir;Aquilonia;Tarantia;Aquilonia;7;NE;
+Elymir;Aquilonia;Cularío;Aquilonia;10;S;
 Elymir;Aquilonia;Guarralio;Zingara;10;SO;
-Elymir;Aquilonia;Funirus;Aquilonia;11;N;
-Elymir;Aquilonia;Varza;Zingara;12;S;
-Elymir;Aquilonia;Torh;Aquilonia;13;N;
+Elymir;Aquilonia;Funirus;Aquilonia;13;N;
 Elymir;Aquilonia;Shamar;Aquilonia;13;NE;
-Elymir;Aquilonia;Kormon;Aquilonia;15;NE;>14 días
-Thandara;Aquilonia;Guarralio;Zingara;12;SE;
-Thandara;Aquilonia;Lor;Aquilonia;14;NE;
-Thandara;Aquilonia;Jerida;Zingara;15;S;>14 días
-Thandara;Aquilonia;Koda;Zingara;15;S;>14 días
-Thandara;Aquilonia;Elymir;Aquilonia;16;SE;>14 días
-Thandara;Aquilonia;Yorkin;Zingara;16;S;>14 días
+Elymir;Aquilonia;Coyaga;Aquilonia;15;NO;>14 días
+Elymir;Aquilonia;Koda;Zingara;15;SO;>14 días
+Elymir;Aquilonia;Varza;Zingara;15;S;>14 días
+Thandara;Aquilonia;Guarralio;Zingara;11;SE;
+Thandara;Aquilonia;Lor;Aquilonia;13;NE;
+Thandara;Aquilonia;Jerida;Zingara;14;S;
+Thandara;Aquilonia;Koda;Zingara;14;S;
+Thandara;Aquilonia;Elymir;Aquilonia;15;SE;>14 días
+Thandara;Aquilonia;Yorkin;Zingara;15;S;>14 días
+Thandara;Aquilonia;Kwwyara;Aquilonia;16;N;>14 días
+Thandara;Aquilonia;Coyaga;Aquilonia;17;N;>14 días
 Thandara;Aquilonia;Cularío;Aquilonia;17;SE;>14 días
-Thandara;Aquilonia;Kordava;Zingara;17;SO;>14 días
-Thandara;Aquilonia;Varza;Zingara;17;SE;>14 días
-Thandara;Aquilonia;Pedassa;Aquilonia;19;SE;>14 días
+Thandara;Aquilonia;Schondara;Aquilonia;18;N;>14 días
 Pedassa;Aquilonia;Elymir;Aquilonia;4;NO;
-Pedassa;Aquilonia;Cularío;Aquilonia;4;SO;
 Pedassa;Aquilonia;Tarantia;Aquilonia;8;N;
 Pedassa;Aquilonia;Lor;Aquilonia;8;NO;
-Pedassa;Aquilonia;Shamar;Aquilonia;10;NE;
-Pedassa;Aquilonia;Guarralio;Zingara;10;SO;
-Pedassa;Aquilonia;Varza;Zingara;11;SO;
-Pedassa;Aquilonia;Funirus;Aquilonia;12;N;
-Pedassa;Aquilonia;Koda;Zingara;14;SO;
-Pedassa;Aquilonia;Ianthe;Ophir;15;NE;>14 días
-Cularío;Aquilonia;Pedassa;Aquilonia;4;NE;
-Cularío;Aquilonia;Elymir;Aquilonia;6;N;
-Cularío;Aquilonia;Varza;Zingara;7;SO;
+Pedassa;Aquilonia;Cularío;Aquilonia;8;SO;
+Pedassa;Aquilonia;Shamar;Aquilonia;11;NE;
+Pedassa;Aquilonia;Funirus;Aquilonia;14;N;
+Pedassa;Aquilonia;Guarralio;Zingara;14;SO;
+Pedassa;Aquilonia;Ianthe;Ophir;16;NE;>14 días
+Pedassa;Aquilonia;Varza;Zingara;18;SO;>14 días
+Pedassa;Aquilonia;Carnolla;Ophir;18;SE;>14 días
+Cularío;Aquilonia;Pedassa;Aquilonia;8;NE;
 Cularío;Aquilonia;Guarralio;Zingara;8;SO;
-Cularío;Aquilonia;Lor;Aquilonia;10;N;
-Cularío;Aquilonia;Koda;Zingara;10;SO;
-Cularío;Aquilonia;Tarantia;Aquilonia;12;N;
-Cularío;Aquilonia;Shamar;Aquilonia;13;NE;
-Cularío;Aquilonia;Funirus;Aquilonia;16;N;>14 días
+Cularío;Aquilonia;Elymir;Aquilonia;9;N;
+Cularío;Aquilonia;Varza;Zingara;10;SO;
+Cularío;Aquilonia;Koda;Zingara;12;SO;
+Cularío;Aquilonia;Lor;Aquilonia;13;N;
+Cularío;Aquilonia;Tarantia;Aquilonia;15;N;>14 días
+Cularío;Aquilonia;Shamar;Aquilonia;16;NE;>14 días
 Cularío;Aquilonia;Jerida;Zingara;16;SO;>14 días
+Cularío;Aquilonia;Thandara;Aquilonia;17;NO;>14 días
 Khrat;Cimmeria;Vicella;Aquilonia;4;S;
 Khrat;Cimmeria;Rhmen;Cimmeria;5;SE;
 Khrat;Cimmeria;Tholeus;Aquilonia;7;SO;
 Khrat;Cimmeria;Galparan;Aquilonia;8;S;
 Khrat;Cimmeria;Amelius;Aquilonia;9;SE;
 Khrat;Cimmeria;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;SE;
-Khrat;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;SE;
-Khrat;Cimmeria;Velithua;Aquilonia;17;SO;>14 días
+Khrat;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);16;SE;>14 días
 Khrat;Cimmeria;Palea;Aquilonia;17;S;>14 días
 Khrat;Cimmeria;Thalia;Nemedia;17;SE;>14 días
+Khrat;Cimmeria;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;18;N;>14 días
 Vicella;Aquilonia;Rhmen;Cimmeria;2;NE;
 Vicella;Aquilonia;Galparan;Aquilonia;5;SO;
 Vicella;Aquilonia;Amelius;Aquilonia;5;SE;
 Vicella;Aquilonia;Khrat;Cimmeria;5;N;
 Vicella;Aquilonia;Tholeus;Aquilonia;5;SO;
 Vicella;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;SE;
-Vicella;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
 Vicella;Aquilonia;Palea;Aquilonia;13;S;
+Vicella;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
 Vicella;Aquilonia;Thalia;Nemedia;14;SE;
-Vicella;Aquilonia;Velithua;Aquilonia;15;SO;>14 días
+Vicella;Aquilonia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);16;SE;>14 días
 Rhmen;Cimmeria;Vicella;Aquilonia;2;SO;
 Rhmen;Cimmeria;Amelius;Aquilonia;5;S;
 Rhmen;Cimmeria;Khrat;Cimmeria;6;NO;
 Rhmen;Cimmeria;Galparan;Aquilonia;7;SO;
 Rhmen;Cimmeria;Tholeus;Aquilonia;7;SO;
 Rhmen;Cimmeria;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;SE;
-Rhmen;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);9;SE;
+Rhmen;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;SE;
 Rhmen;Cimmeria;Thalia;Nemedia;12;SE;
 Rhmen;Cimmeria;Palea;Aquilonia;13;S;
-Rhmen;Cimmeria;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
 Rhmen;Cimmeria;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;SE;
 Tholeus;Aquilonia;Galparan;Aquilonia;4;S;
 Tholeus;Aquilonia;Vicella;Aquilonia;5;NE;
 Tholeus;Aquilonia;Rhmen;Cimmeria;7;NE;
 Tholeus;Aquilonia;Khrat;Cimmeria;8;NE;
 Tholeus;Aquilonia;Amelius;Aquilonia;9;SE;
-Tholeus;Aquilonia;Velithua;Aquilonia;11;SO;
-Tholeus;Aquilonia;Kormon;Aquilonia;12;S;
 Tholeus;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;SE;
-Tholeus;Aquilonia;Torh;Aquilonia;14;SO;
+Tholeus;Aquilonia;Velithua;Aquilonia;14;SO;
 Tholeus;Aquilonia;Palea;Aquilonia;15;SE;>14 días
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;S;
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;S;
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;13;SO;
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;13;SO;
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;SO;
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;15;SO;>14 días
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;15;S;>14 días
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Brutheim;Nordheim;18;N;>14 días
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;18;SO;>14 días
-Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;19;SO;>14 días
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;N;
+Tholeus;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);18;NE;>14 días
+Tholeus;Aquilonia;Castria;Aquilonia;19;SE;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;S;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;S;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;16;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);17;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;18;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;18;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;18;S;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Brutheim;Nordheim;22;N;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;22;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;22;SO;>14 días
 Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;SE;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;8;SO;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;SO;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;9;NO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;N;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);9;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;10;SO;
 Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;10;S;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;11;SO;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;14;SO;
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;15;NO;>14 días
-Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Palea;Aquilonia;16;SO;>14 días
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;11;NO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;13;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;16;SO;>14 días
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;17;NO;>14 días
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Palea;Aquilonia;18;SO;>14 días
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;NO;
-S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;N;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;N;
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;11;SO;
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);12;SO;
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;13;SO;
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;14;NO;
-S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Numalia;Nemedia;15;S;>14 días
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;16;NO;>14 días
-S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Belverus;Nemedia;17;S;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Numalia;Nemedia;18;S;>14 días
 S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;19;SO;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Belverus;Nemedia;19;S;>14 días
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;3;SO;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;5;NO;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;6;NO;
-Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);6;NE;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;NE;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;8;S;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;9;SO;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;10;NO;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;NE;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Palea;Aquilonia;11;S;
 Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Tholeus;Aquilonia;11;NO;
-Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
-Thalia;Nemedia;Belverus;Nemedia;7;S;
+Thalia;Nemedia;Belverus;Nemedia;9;S;
 Thalia;Nemedia;Palea;Aquilonia;10;SO;
 Thalia;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;N;
 Thalia;Nemedia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;N;
-Thalia;Nemedia;Hanumar;Nemedia;10;S;
 Thalia;Nemedia;Amelius;Aquilonia;11;NO;
 Thalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
-Thalia;Nemedia;Tor;Nemedia;11;S;
-Thalia;Nemedia;Numalia;Nemedia;11;SE;
 Thalia;Nemedia;Rhmen;Cimmeria;12;NO;
 Thalia;Nemedia;Castria;Aquilonia;13;SO;
 Thalia;Nemedia;Vicella;Aquilonia;14;NO;
-Belverus;Nemedia;Hanumar;Nemedia;3;S;
-Belverus;Nemedia;Tor;Nemedia;5;SO;
-Belverus;Nemedia;Numalia;Nemedia;6;SE;
-Belverus;Nemedia;Thalia;Nemedia;7;N;
-Belverus;Nemedia;Ianthe;Ophir;9;SO;
-Belverus;Nemedia;Castria;Aquilonia;11;NO;
-Belverus;Nemedia;Palea;Aquilonia;14;NO;
-Belverus;Nemedia;Shamar;Aquilonia;14;SO;
-Belverus;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);16;N;>14 días
-Belverus;Nemedia;Lanjau;Corinthia;16;SE;>14 días
-Tor;Nemedia;Belverus;Nemedia;3;NE;
-Tor;Nemedia;Hanumar;Nemedia;4;SE;
-Tor;Nemedia;Ianthe;Ophir;7;S;
-Tor;Nemedia;Thalia;Nemedia;9;N;
-Tor;Nemedia;Numalia;Nemedia;9;SE;
+Thalia;Nemedia;Tor;Nemedia;14;S;
+Thalia;Nemedia;Numalia;Nemedia;14;SE;
+Belverus;Nemedia;Hanumar;Nemedia;6;S;
+Belverus;Nemedia;Tor;Nemedia;7;SO;
+Belverus;Nemedia;Thalia;Nemedia;8;N;
+Belverus;Nemedia;Numalia;Nemedia;12;SE;
+Belverus;Nemedia;Castria;Aquilonia;13;NO;
+Belverus;Nemedia;Ianthe;Ophir;14;SO;
+Belverus;Nemedia;Palea;Aquilonia;15;NO;>14 días
+Belverus;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);17;N;>14 días
+Belverus;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);18;N;>14 días
+Belverus;Nemedia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);18;N;>14 días
+Tor;Nemedia;Belverus;Nemedia;6;NE;
+Tor;Nemedia;Hanumar;Nemedia;8;SE;
+Tor;Nemedia;Ianthe;Ophir;10;S;
 Tor;Nemedia;Castria;Aquilonia;11;NO;
-Tor;Nemedia;Shamar;Aquilonia;12;SO;
+Tor;Nemedia;Thalia;Nemedia;12;N;
+Tor;Nemedia;Shamar;Aquilonia;14;SO;
 Tor;Nemedia;Palea;Aquilonia;15;N;>14 días
-Tor;Nemedia;Kormon;Aquilonia;16;NO;>14 días
-Tor;Nemedia;Lanjau;Corinthia;16;SE;>14 días
-Numalia;Nemedia;Hanumar;Nemedia;5;SO;
-Numalia;Nemedia;Belverus;Nemedia;6;NO;
-Numalia;Nemedia;Lanjau;Corinthia;10;SE;
-Numalia;Nemedia;Thalia;Nemedia;11;NO;
-Numalia;Nemedia;Tor;Nemedia;11;NO;
-Numalia;Nemedia;Ianthe;Ophir;11;SO;
-Numalia;Nemedia;Khumar Rhun;Corinthia;13;SE;
-Numalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);15;N;>14 días
-Numalia;Nemedia;Shamar;Aquilonia;16;SO;>14 días
-Numalia;Nemedia;Castria;Aquilonia;17;NO;>14 días
-Hanumar;Nemedia;Belverus;Nemedia;3;N;
-Hanumar;Nemedia;Numalia;Nemedia;5;NE;
-Hanumar;Nemedia;Tor;Nemedia;6;NO;
-Hanumar;Nemedia;Ianthe;Ophir;7;SO;
-Hanumar;Nemedia;Thalia;Nemedia;10;N;
-Hanumar;Nemedia;Shamar;Aquilonia;12;SO;
-Hanumar;Nemedia;Castria;Aquilonia;13;NO;
-Hanumar;Nemedia;Lanjau;Corinthia;13;SE;
-Hanumar;Nemedia;Khumar Rhun;Corinthia;16;SE;>14 días
-Hanumar;Nemedia;Khorshemish;Koth;16;S;>14 días
+Tor;Nemedia;Amelius;Aquilonia;18;N;>14 días
+Tor;Nemedia;Tarantia;Aquilonia;18;SO;>14 días
+Tor;Nemedia;Numalia;Nemedia;18;SE;>14 días
+Numalia;Nemedia;Hanumar;Nemedia;10;SO;
+Numalia;Nemedia;Belverus;Nemedia;12;NO;
+Numalia;Nemedia;Thalia;Nemedia;13;NO;
+Numalia;Nemedia;Lanjau;Corinthia;13;SE;
+Numalia;Nemedia;Khumar Rhun;Corinthia;16;SE;>14 días
+Numalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);17;N;>14 días
+Numalia;Nemedia;Ianthe;Ophir;18;SO;>14 días
+Numalia;Nemedia;Tor;Nemedia;19;NO;>14 días
+Numalia;Nemedia;Ezar-Bar-Kum;Corinthia;20;NE;>14 días
+Numalia;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;N;>14 días
+Hanumar;Nemedia;Belverus;Nemedia;6;N;
+Hanumar;Nemedia;Tor;Nemedia;9;NO;
+Hanumar;Nemedia;Numalia;Nemedia;10;NE;
+Hanumar;Nemedia;Ianthe;Ophir;10;SO;
+Hanumar;Nemedia;Thalia;Nemedia;14;N;
+Hanumar;Nemedia;Shamar;Aquilonia;15;SO;>14 días
+Hanumar;Nemedia;Lanjau;Corinthia;16;SE;>14 días
+Hanumar;Nemedia;Castria;Aquilonia;17;NO;>14 días
+Hanumar;Nemedia;Pergona;Ophir;18;S;>14 días
+Hanumar;Nemedia;Khumar Rhun;Corinthia;19;SE;>14 días
 Ianthe;Ophir;Shamar;Aquilonia;5;SO;
-Ianthe;Ophir;Hanumar;Nemedia;7;NE;
-Ianthe;Ophir;Belverus;Nemedia;9;NE;
-Ianthe;Ophir;Tor;Nemedia;9;N;
 Ianthe;Ophir;Pergona;Ophir;9;S;
 Ianthe;Ophir;Castria;Aquilonia;11;N;
-Ianthe;Ophir;Numalia;Nemedia;11;NE;
+Ianthe;Ophir;Hanumar;Nemedia;11;NE;
 Ianthe;Ophir;Tarantia;Aquilonia;12;NO;
+Ianthe;Ophir;Tor;Nemedia;12;N;
 Ianthe;Ophir;Ronnaco;Ophir;12;S;
-Ianthe;Ophir;Kormon;Aquilonia;13;NO;
-Ianthe;Ophir;Khorshemish;Koth;13;S;
-Ianthe;Ophir;Funirus;Aquilonia;14;NO;
+Ianthe;Ophir;Palea;Aquilonia;15;N;>14 días
+Ianthe;Ophir;Belverus;Nemedia;15;NE;>14 días
+Ianthe;Ophir;Carnolla;Ophir;15;S;>14 días
 Sistona;Hiperbórea;Pohiola;Hiperbórea;10;NE;
 Sistona;Hiperbórea;Haloga;Hiperbórea;20;N;>14 días
-Sistona;Hiperbórea;Aloe;Nordheim;23;NO;>14 días
-Sistona;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);23;SO;>14 días
-Sistona;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SO;>14 días
-Sistona;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;SO;>14 días
-Sistona;Hiperbórea;Brutheim;Nordheim;27;NO;>14 días
-Sistona;Hiperbórea;Amelius;Aquilonia;34;SO;>14 días
-Sistona;Hiperbórea;Rhmen;Cimmeria;34;SO;>14 días
-Sistona;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
+Sistona;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;SO;>14 días
+Sistona;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;SO;>14 días
+Sistona;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);28;SO;>14 días
+Sistona;Hiperbórea;Aloe;Nordheim;34;NO;>14 días
+Sistona;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);36;SO;>14 días
+Sistona;Hiperbórea;Amelius;Aquilonia;37;SO;>14 días
+Sistona;Hiperbórea;Thalia;Nemedia;37;SO;>14 días
+Sistona;Hiperbórea;Brutheim;Nordheim;38;NO;>14 días
 Ezar-Bar-Kum;Corinthia;Khumar Rhun;Corinthia;3;SO;
 Ezar-Bar-Kum;Corinthia;Lanjau;Corinthia;6;SO;
 Ezar-Bar-Kum;Corinthia;Zahmahn;Corinthia;8;SE;
 Ezar-Bar-Kum;Corinthia;Kamalla;Corinthia;8;S;
 Ezar-Bar-Kum;Corinthia;Khishtam;Corinthia;12;S;
-Ezar-Bar-Kum;Corinthia;Numalia;Nemedia;16;SO;>14 días
 Ezar-Bar-Kum;Corinthia;Shadizar;Zamora;17;SE;>14 días
-Ezar-Bar-Kum;Corinthia;Hanumar;Nemedia;19;SO;>14 días
+Ezar-Bar-Kum;Corinthia;Numalia;Nemedia;20;SO;>14 días
 Ezar-Bar-Kum;Corinthia;Zamindi;Zamora;20;SE;>14 días
 Ezar-Bar-Kum;Corinthia;Karvek;Koth;20;SE;>14 días
+Ezar-Bar-Kum;Corinthia;Yezud;Zamora;21;NE;>14 días
 Khumar Rhun;Corinthia;Lanjau;Corinthia;3;SO;
 Khumar Rhun;Corinthia;Ezar-Bar-Kum;Corinthia;4;NE;
 Khumar Rhun;Corinthia;Kamalla;Corinthia;7;SE;
 Khumar Rhun;Corinthia;Zahmahn;Corinthia;9;SE;
 Khumar Rhun;Corinthia;Khishtam;Corinthia;11;S;
-Khumar Rhun;Corinthia;Numalia;Nemedia;13;NO;
-Khumar Rhun;Corinthia;Hanumar;Nemedia;16;NO;>14 días
 Khumar Rhun;Corinthia;Shadizar;Zamora;16;SE;>14 días
-Khumar Rhun;Corinthia;Belverus;Nemedia;19;NO;>14 días
+Khumar Rhun;Corinthia;Numalia;Nemedia;17;NO;>14 días
 Khumar Rhun;Corinthia;Zamindi;Zamora;19;SE;>14 días
+Khumar Rhun;Corinthia;Karvek;Koth;19;SE;>14 días
+Khumar Rhun;Corinthia;Hanumar;Nemedia;20;NO;>14 días
 Zahmahn;Corinthia;Kamalla;Corinthia;5;SO;
 Zahmahn;Corinthia;Ezar-Bar-Kum;Corinthia;9;NO;
 Zahmahn;Corinthia;Khumar Rhun;Corinthia;9;NO;
@@ -488,13 +465,13 @@ Zahmahn;Corinthia;Khesron;Zamora;15;NE;>14 días
 Lanjau;Corinthia;Khumar Rhun;Corinthia;3;NE;
 Lanjau;Corinthia;Ezar-Bar-Kum;Corinthia;7;NE;
 Lanjau;Corinthia;Kamalla;Corinthia;8;SE;
-Lanjau;Corinthia;Numalia;Nemedia;10;NO;
 Lanjau;Corinthia;Khishtam;Corinthia;11;SE;
 Lanjau;Corinthia;Zahmahn;Corinthia;12;SE;
-Lanjau;Corinthia;Hanumar;Nemedia;13;NO;
-Lanjau;Corinthia;Belverus;Nemedia;16;NO;>14 días
-Lanjau;Corinthia;Tor;Nemedia;18;NO;>14 días
+Lanjau;Corinthia;Numalia;Nemedia;14;NO;
+Lanjau;Corinthia;Hanumar;Nemedia;17;NO;>14 días
 Lanjau;Corinthia;Ianthe;Ophir;18;SO;>14 días
+Lanjau;Corinthia;Shadizar;Zamora;18;SE;>14 días
+Lanjau;Corinthia;Khrosha;Koth;18;S;>14 días
 Kamalla;Corinthia;Zahmahn;Corinthia;5;NE;
 Kamalla;Corinthia;Khumar Rhun;Corinthia;7;NO;
 Kamalla;Corinthia;Khishtam;Corinthia;7;SO;
@@ -827,81 +804,81 @@ Thrdana;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Gh
 Thrdana;Meru (región de Sumeru Tso);Secunderam;Kosala;22;SO;>14 días
 Kusan;Khitai;Chu-Chen;Khitai;11;NE;
 Kusan;Khitai;Wantengri;Khitai;14;SE;
-Kusan;Khitai;Shan-E-Sorkh;Khitai;23;S;>14 días
-Kusan;Khitai;Paikang;Khitai;27;SE;>14 días
-Kusan;Khitai;Shaulan;Khitai;33;S;>14 días
+Kusan;Khitai;Shan-E-Sorkh;Khitai;20;S;>14 días
+Kusan;Khitai;Paikang;Khitai;24;SE;>14 días
+Kusan;Khitai;Shaulan;Khitai;27;S;>14 días
+Kusan;Khitai;Ruo-Gen;Khitai;36;S;>14 días
 Kusan;Khitai;Issedon;Meru (región de Sumeru Tso);43;S;>14 días
 Kusan;Khitai;Auzakia;Meru (región de Sumeru Tso);44;S;>14 días
 Kusan;Khitai;Pauana;Meru (región de Sumeru Tso);45;S;>14 días
-Kusan;Khitai;Ruo-Gen;Khitai;46;S;>14 días
 Kusan;Khitai;Thogara;Meru (región de Sumeru Tso);48;SO;>14 días
 Chu-Chen;Khitai;Kusan;Khitai;11;SO;
 Chu-Chen;Khitai;Wantengri;Khitai;12;S;
-Chu-Chen;Khitai;Paikang;Khitai;24;S;>14 días
-Chu-Chen;Khitai;Shan-E-Sorkh;Khitai;28;S;>14 días
-Chu-Chen;Khitai;Shaulan;Khitai;36;S;>14 días
-Chu-Chen;Khitai;Ruo-Gen;Khitai;48;S;>14 días
+Chu-Chen;Khitai;Paikang;Khitai;22;S;>14 días
+Chu-Chen;Khitai;Shan-E-Sorkh;Khitai;25;S;>14 días
+Chu-Chen;Khitai;Shaulan;Khitai;30;S;>14 días
+Chu-Chen;Khitai;Ruo-Gen;Khitai;38;S;>14 días
 Chu-Chen;Khitai;Issedon;Meru (región de Sumeru Tso);51;SO;>14 días
 Chu-Chen;Khitai;Auzakia;Meru (región de Sumeru Tso);53;SO;>14 días
 Chu-Chen;Khitai;Pauana;Meru (región de Sumeru Tso);53;S;>14 días
 Chu-Chen;Khitai;Thogara;Meru (región de Sumeru Tso);57;SO;>14 días
 Wantengri;Khitai;Chu-Chen;Khitai;12;N;
+Wantengri;Khitai;Paikang;Khitai;13;S;
+Wantengri;Khitai;Shan-E-Sorkh;Khitai;13;SO;
 Wantengri;Khitai;Kusan;Khitai;14;NO;
-Wantengri;Khitai;Paikang;Khitai;16;S;>14 días
-Wantengri;Khitai;Shan-E-Sorkh;Khitai;16;SO;>14 días
-Wantengri;Khitai;Shaulan;Khitai;24;S;>14 días
-Wantengri;Khitai;Ruo-Gen;Khitai;36;S;>14 días
+Wantengri;Khitai;Shaulan;Khitai;18;S;>14 días
+Wantengri;Khitai;Ruo-Gen;Khitai;26;S;>14 días
 Wantengri;Khitai;Issedon;Meru (región de Sumeru Tso);43;SO;>14 días
 Wantengri;Khitai;Auzakia;Meru (región de Sumeru Tso);45;SO;>14 días
 Wantengri;Khitai;Pauana;Meru (región de Sumeru Tso);45;SO;>14 días
 Wantengri;Khitai;Thogara;Meru (región de Sumeru Tso);49;SO;>14 días
-Paikang;Khitai;Wantengri;Khitai;14;N;
-Paikang;Khitai;Shan-E-Sorkh;Khitai;20;SO;>14 días
-Paikang;Khitai;Shaulan;Khitai;21;SO;>14 días
-Paikang;Khitai;Chu-Chen;Khitai;22;N;>14 días
-Paikang;Khitai;Kusan;Khitai;25;NO;>14 días
-Paikang;Khitai;Ruo-Gen;Khitai;30;S;>14 días
-Paikang;Khitai;Issedon;Meru (región de Sumeru Tso);49;SO;>14 días
-Paikang;Khitai;Auzakia;Meru (región de Sumeru Tso);51;SO;>14 días
-Paikang;Khitai;Pauana;Meru (región de Sumeru Tso);51;SO;>14 días
-Paikang;Khitai;Thogara;Meru (región de Sumeru Tso);55;SO;>14 días
-Shan-E-Sorkh;Khitai;Shaulan;Khitai;12;SE;
-Shan-E-Sorkh;Khitai;Wantengri;Khitai;14;NE;
-Shan-E-Sorkh;Khitai;Paikang;Khitai;20;NE;>14 días
-Shan-E-Sorkh;Khitai;Kusan;Khitai;21;N;>14 días
-Shan-E-Sorkh;Khitai;Chu-Chen;Khitai;26;N;>14 días
-Shan-E-Sorkh;Khitai;Ruo-Gen;Khitai;27;S;>14 días
+Paikang;Khitai;Wantengri;Khitai;12;N;
+Paikang;Khitai;Shaulan;Khitai;14;SO;
+Paikang;Khitai;Shan-E-Sorkh;Khitai;15;SO;>14 días
+Paikang;Khitai;Ruo-Gen;Khitai;20;S;>14 días
+Paikang;Khitai;Chu-Chen;Khitai;21;N;>14 días
+Paikang;Khitai;Kusan;Khitai;23;NO;>14 días
+Paikang;Khitai;Issedon;Meru (región de Sumeru Tso);44;SO;>14 días
+Paikang;Khitai;Pauana;Meru (región de Sumeru Tso);46;SO;>14 días
+Paikang;Khitai;Auzakia;Meru (región de Sumeru Tso);47;SO;>14 días
+Paikang;Khitai;Thogara;Meru (región de Sumeru Tso);51;SO;>14 días
+Shan-E-Sorkh;Khitai;Shaulan;Khitai;8;SE;
+Shan-E-Sorkh;Khitai;Wantengri;Khitai;12;NE;
+Shan-E-Sorkh;Khitai;Paikang;Khitai;15;NE;>14 días
+Shan-E-Sorkh;Khitai;Ruo-Gen;Khitai;18;S;>14 días
+Shan-E-Sorkh;Khitai;Kusan;Khitai;19;N;>14 días
+Shan-E-Sorkh;Khitai;Chu-Chen;Khitai;24;N;>14 días
 Shan-E-Sorkh;Khitai;Issedon;Meru (región de Sumeru Tso);33;SO;>14 días
 Shan-E-Sorkh;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
 Shan-E-Sorkh;Khitai;Pauana;Meru (región de Sumeru Tso);35;SO;>14 días
 Shan-E-Sorkh;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
-Shaulan;Khitai;Shan-E-Sorkh;Khitai;12;NO;
-Shaulan;Khitai;Ruo-Gen;Khitai;15;S;>14 días
-Shaulan;Khitai;Paikang;Khitai;21;NE;>14 días
-Shaulan;Khitai;Wantengri;Khitai;22;N;>14 días
-Shaulan;Khitai;Kusan;Khitai;31;N;>14 días
-Shaulan;Khitai;Issedon;Meru (región de Sumeru Tso);32;SO;>14 días
-Shaulan;Khitai;Pauana;Meru (región de Sumeru Tso);34;SO;>14 días
-Shaulan;Khitai;Chu-Chen;Khitai;34;N;>14 días
-Shaulan;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
-Shaulan;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
-Ruo-Gen;Khitai;Shaulan;Khitai;15;N;>14 días
-Ruo-Gen;Khitai;Shan-E-Sorkh;Khitai;27;N;>14 días
-Ruo-Gen;Khitai;Paikang;Khitai;30;N;>14 días
-Ruo-Gen;Khitai;Wantengri;Khitai;34;N;>14 días
-Ruo-Gen;Khitai;Pauana;Meru (región de Sumeru Tso);36;SO;>14 días
-Ruo-Gen;Khitai;Issedon;Meru (región de Sumeru Tso);37;SO;>14 días
-Ruo-Gen;Khitai;Thrdana;Meru (región de Sumeru Tso);39;SO;>14 días
-Ruo-Gen;Khitai;Auzakia;Meru (región de Sumeru Tso);41;SO;>14 días
-Ruo-Gen;Khitai;Shamballa;Meru (región de Sumeru Tso);44;SO;>14 días
-Ruo-Gen;Khitai;Kusan;Khitai;44;N;>14 días
+Shaulan;Khitai;Shan-E-Sorkh;Khitai;8;NO;
+Shaulan;Khitai;Ruo-Gen;Khitai;10;S;
+Shaulan;Khitai;Paikang;Khitai;14;NE;
+Shaulan;Khitai;Wantengri;Khitai;17;N;>14 días
+Shaulan;Khitai;Kusan;Khitai;26;N;>14 días
+Shaulan;Khitai;Chu-Chen;Khitai;29;N;>14 días
+Shaulan;Khitai;Issedon;Meru (región de Sumeru Tso);31;SO;>14 días
+Shaulan;Khitai;Pauana;Meru (región de Sumeru Tso);33;SO;>14 días
+Shaulan;Khitai;Auzakia;Meru (región de Sumeru Tso);34;SO;>14 días
+Shaulan;Khitai;Thogara;Meru (región de Sumeru Tso);38;SO;>14 días
+Ruo-Gen;Khitai;Shaulan;Khitai;10;N;
+Ruo-Gen;Khitai;Shan-E-Sorkh;Khitai;18;N;>14 días
+Ruo-Gen;Khitai;Paikang;Khitai;20;N;>14 días
+Ruo-Gen;Khitai;Wantengri;Khitai;25;N;>14 días
+Ruo-Gen;Khitai;Pauana;Meru (región de Sumeru Tso);34;SO;>14 días
+Ruo-Gen;Khitai;Issedon;Meru (región de Sumeru Tso);35;SO;>14 días
+Ruo-Gen;Khitai;Kusan;Khitai;35;N;>14 días
+Ruo-Gen;Khitai;Thrdana;Meru (región de Sumeru Tso);37;SO;>14 días
+Ruo-Gen;Khitai;Chu-Chen;Khitai;37;N;>14 días
+Ruo-Gen;Khitai;Auzakia;Meru (región de Sumeru Tso);38;SO;>14 días
 Venzia;Argos;Koda;Zingara;10;N;
 Venzia;Argos;Jerida;Zingara;12;NO;
-Venzia;Argos;Varza;Zingara;13;N;
 Venzia;Argos;Messantia;Argos;14;SE;
 Venzia;Argos;Guarralio;Zingara;15;N;>14 días
 Venzia;Argos;Yorkin;Zingara;16;NO;>14 días
-Venzia;Argos;Cularío;Aquilonia;20;NE;>14 días
+Venzia;Argos;Varza;Zingara;16;N;>14 días
+Venzia;Argos;Cularío;Aquilonia;22;NE;>14 días
 Venzia;Argos;Kordava;Zingara;22;NO;>14 días
 Venzia;Argos;Dan-Markah;Shem;22;SE;>14 días
 Venzia;Argos;Asgalun;Shem;22;SE;>14 días
@@ -909,82 +886,82 @@ Messantia;Argos;Asgalun;Shem;9;SE;
 Messantia;Argos;Dan-Markah;Shem;12;NE;
 Messantia;Argos;Venzia;Argos;14;NO;
 Messantia;Argos;Kyros;Shem;14;SE;
-Messantia;Argos;Cularío;Aquilonia;19;N;>14 días
-Messantia;Argos;Varza;Zingara;20;N;>14 días
+Messantia;Argos;Cularío;Aquilonia;20;N;>14 días
 Messantia;Argos;Khemi;Estigia;21;SE;>14 días
-Messantia;Argos;Pedassa;Aquilonia;22;N;>14 días
 Messantia;Argos;Koda;Zingara;22;NO;>14 días
 Messantia;Argos;Ghaza;Shem;22;SE;>14 días
+Messantia;Argos;Varza;Zingara;23;N;>14 días
+Messantia;Argos;Jerida;Zingara;24;NO;>14 días
 Kordava;Zingara;Yorkin;Zingara;6;SE;
 Kordava;Zingara;Jerida;Zingara;10;SE;
 Kordava;Zingara;Koda;Zingara;16;SE;>14 días
 Kordava;Zingara;Guarralio;Zingara;18;NE;>14 días
 Kordava;Zingara;Thandara;Aquilonia;19;NE;>14 días
-Kordava;Zingara;Varza;Zingara;21;SE;>14 días
-Kordava;Zingara;Lor;Aquilonia;23;NE;>14 días
 Kordava;Zingara;Venzia;Argos;23;SE;>14 días
+Kordava;Zingara;Varza;Zingara;24;SE;>14 días
+Kordava;Zingara;Lor;Aquilonia;25;NE;>14 días
 Kordava;Zingara;Elymir;Aquilonia;25;NE;>14 días
-Kordava;Zingara;Cularío;Aquilonia;26;NE;>14 días
+Kordava;Zingara;Cularío;Aquilonia;27;NE;>14 días
 Yorkin;Zingara;Jerida;Zingara;4;SE;
 Yorkin;Zingara;Kordava;Zingara;6;NO;
 Yorkin;Zingara;Koda;Zingara;10;SE;
 Yorkin;Zingara;Guarralio;Zingara;12;NE;
-Yorkin;Zingara;Varza;Zingara;15;NE;>14 días
+Yorkin;Zingara;Thandara;Aquilonia;16;N;>14 días
 Yorkin;Zingara;Venzia;Argos;17;SE;>14 días
-Yorkin;Zingara;Thandara;Aquilonia;18;N;>14 días
+Yorkin;Zingara;Varza;Zingara;18;NE;>14 días
 Yorkin;Zingara;Elymir;Aquilonia;20;NE;>14 días
-Yorkin;Zingara;Cularío;Aquilonia;20;NE;>14 días
+Yorkin;Zingara;Cularío;Aquilonia;21;NE;>14 días
 Yorkin;Zingara;Lor;Aquilonia;22;NE;>14 días
 Jerida;Zingara;Yorkin;Zingara;4;NO;
 Jerida;Zingara;Koda;Zingara;6;NE;
 Jerida;Zingara;Guarralio;Zingara;9;NE;
 Jerida;Zingara;Kordava;Zingara;10;NO;
-Jerida;Zingara;Varza;Zingara;11;NE;
 Jerida;Zingara;Venzia;Argos;13;SE;
-Jerida;Zingara;Cularío;Aquilonia;16;NE;>14 días
-Jerida;Zingara;Thandara;Aquilonia;17;N;>14 días
-Jerida;Zingara;Pedassa;Aquilonia;18;NE;>14 días
+Jerida;Zingara;Varza;Zingara;14;NE;
+Jerida;Zingara;Thandara;Aquilonia;15;N;>14 días
+Jerida;Zingara;Cularío;Aquilonia;17;NE;>14 días
 Jerida;Zingara;Elymir;Aquilonia;19;NE;>14 días
-Koda;Zingara;Varza;Zingara;5;NE;
+Jerida;Zingara;Lor;Aquilonia;21;NE;>14 días
 Koda;Zingara;Guarralio;Zingara;5;N;
 Koda;Zingara;Jerida;Zingara;6;SO;
-Koda;Zingara;Cularío;Aquilonia;10;NE;
+Koda;Zingara;Varza;Zingara;8;NE;
 Koda;Zingara;Yorkin;Zingara;10;NO;
 Koda;Zingara;Venzia;Argos;11;S;
-Koda;Zingara;Pedassa;Aquilonia;14;NE;
+Koda;Zingara;Cularío;Aquilonia;13;NE;
 Koda;Zingara;Elymir;Aquilonia;15;NE;>14 días
+Koda;Zingara;Thandara;Aquilonia;15;N;>14 días
 Koda;Zingara;Kordava;Zingara;16;NO;>14 días
 Koda;Zingara;Lor;Aquilonia;17;N;>14 días
-Varza;Zingara;Koda;Zingara;5;SO;
-Varza;Zingara;Guarralio;Zingara;5;NO;
-Varza;Zingara;Cularío;Aquilonia;7;NE;
-Varza;Zingara;Pedassa;Aquilonia;11;NE;
-Varza;Zingara;Jerida;Zingara;11;SO;
-Varza;Zingara;Elymir;Aquilonia;12;N;
-Varza;Zingara;Lor;Aquilonia;14;N;
-Varza;Zingara;Venzia;Argos;14;S;
-Varza;Zingara;Yorkin;Zingara;15;SO;>14 días
-Varza;Zingara;Dan-Markah;Shem;18;SE;>14 días
+Varza;Zingara;Koda;Zingara;7;SO;
+Varza;Zingara;Guarralio;Zingara;7;NO;
+Varza;Zingara;Cularío;Aquilonia;10;NE;
+Varza;Zingara;Jerida;Zingara;13;SO;
+Varza;Zingara;Elymir;Aquilonia;14;N;
+Varza;Zingara;Lor;Aquilonia;16;N;>14 días
+Varza;Zingara;Venzia;Argos;16;S;>14 días
+Varza;Zingara;Yorkin;Zingara;17;SO;>14 días
+Varza;Zingara;Pedassa;Aquilonia;18;NE;>14 días
+Varza;Zingara;Thandara;Aquilonia;19;NO;>14 días
 Guarralio;Zingara;Koda;Zingara;5;S;
-Guarralio;Zingara;Varza;Zingara;5;SE;
-Guarralio;Zingara;Cularío;Aquilonia;8;NE;
+Guarralio;Zingara;Varza;Zingara;8;SE;
+Guarralio;Zingara;Cularío;Aquilonia;9;NE;
 Guarralio;Zingara;Jerida;Zingara;9;SO;
 Guarralio;Zingara;Elymir;Aquilonia;10;NE;
-Guarralio;Zingara;Pedassa;Aquilonia;10;NE;
 Guarralio;Zingara;Lor;Aquilonia;12;N;
+Guarralio;Zingara;Thandara;Aquilonia;12;NO;
 Guarralio;Zingara;Yorkin;Zingara;12;SO;
-Guarralio;Zingara;Thandara;Aquilonia;14;NO;
+Guarralio;Zingara;Pedassa;Aquilonia;15;NE;>14 días
 Guarralio;Zingara;Venzia;Argos;16;S;>14 días
 Dan-Markah;Shem;Asgalun;Shem;4;SO;
 Dan-Markah;Shem;Kyros;Shem;6;S;
 Dan-Markah;Shem;Ghaza;Shem;10;SE;
 Dan-Markah;Shem;Khemi;Estigia;12;SE;
 Dan-Markah;Shem;Messantia;Argos;13;SO;
-Dan-Markah;Shem;Cularío;Aquilonia;17;N;>14 días
 Dan-Markah;Shem;Harakht;Estigia;17;SE;>14 días
-Dan-Markah;Shem;Varza;Zingara;18;NO;>14 días
+Dan-Markah;Shem;Cularío;Aquilonia;18;N;>14 días
 Dan-Markah;Shem;Anakia;Shem;18;SE;>14 días
-Dan-Markah;Shem;Pedassa;Aquilonia;19;N;>14 días
+Dan-Markah;Shem;Carnolla;Ophir;19;N;>14 días
+Dan-Markah;Shem;Buryat;Shem;20;SE;>14 días
 Ghaza;Shem;Khemi;Estigia;6;S;
 Ghaza;Shem;Kyros;Shem;8;SO;
 Ghaza;Shem;Anakia;Shem;8;NE;
@@ -1000,11 +977,11 @@ Asgalun;Shem;Kyros;Shem;5;SE;
 Asgalun;Shem;Messantia;Argos;10;NO;
 Asgalun;Shem;Khemi;Estigia;12;SE;
 Asgalun;Shem;Ghaza;Shem;13;NE;
-Asgalun;Shem;Cularío;Aquilonia;18;N;>14 días
-Asgalun;Shem;Varza;Zingara;19;NO;>14 días
-Asgalun;Shem;Pedassa;Aquilonia;20;N;>14 días
+Asgalun;Shem;Cularío;Aquilonia;19;N;>14 días
 Asgalun;Shem;Harakht;Estigia;20;SE;>14 días
 Asgalun;Shem;Anakia;Shem;21;NE;>14 días
+Asgalun;Shem;Kheshatta;Estigia;21;SE;>14 días
+Asgalun;Shem;Varza;Zingara;22;NO;>14 días
 Kyros;Shem;Asgalun;Shem;5;NO;
 Kyros;Shem;Dan-Markah;Shem;6;N;
 Kyros;Shem;Khemi;Estigia;7;SE;
@@ -1065,55 +1042,55 @@ Akkharia;Shem;Akbitana;Shem;14;NE;
 Akkharia;Shem;Sabatea;Shem;14;SE;
 Akkharia;Shem;Rasht;Estigia;14;SE;
 Carnolla;Ophir;Ronnaco;Ophir;6;NE;
-Carnolla;Ophir;Khorshemish;Koth;8;NE;
 Carnolla;Ophir;Pergona;Ophir;9;NE;
+Carnolla;Ophir;Khorshemish;Koth;10;NE;
 Carnolla;Ophir;Shamar;Aquilonia;11;N;
 Carnolla;Ophir;Ianthe;Ophir;13;N;
-Carnolla;Ophir;Pedassa;Aquilonia;14;NO;
-Carnolla;Ophir;Cularío;Aquilonia;16;NO;>14 días
 Carnolla;Ophir;Tarantia;Aquilonia;17;NO;>14 días
-Carnolla;Ophir;Elymir;Aquilonia;17;NO;>14 días
+Carnolla;Ophir;Pedassa;Aquilonia;17;NO;>14 días
+Carnolla;Ophir;Cularío;Aquilonia;17;NO;>14 días
 Carnolla;Ophir;Dan-Markah;Shem;17;S;>14 días
+Carnolla;Ophir;Khrosha;Koth;17;SE;>14 días
 Khrosha;Koth;Shumir;Shem;10;SE;
-Khrosha;Koth;Khorshemish;Koth;10;NO;
 Khrosha;Koth;Anakia;Shem;11;S;
 Khrosha;Koth;Eruk;Shem;14;SE;
 Khrosha;Koth;Buryat;Shem;15;S;>14 días
 Khrosha;Koth;Akkharia;Shem;15;S;>14 días
+Khrosha;Koth;Khorshemish;Koth;15;NO;>14 días
 Khrosha;Koth;Nipor;Shem;15;SE;>14 días
-Khrosha;Koth;Ronnaco;Ophir;16;NO;>14 días
 Khrosha;Koth;Meshken;Khoraja;16;SE;>14 días
 Khrosha;Koth;Lanjau;Corinthia;18;N;>14 días
-Khorshemish;Koth;Ronnaco;Ophir;7;NO;
-Khorshemish;Koth;Carnolla;Ophir;10;SO;
-Khorshemish;Koth;Khrosha;Koth;10;SE;
-Khorshemish;Koth;Pergona;Ophir;10;NO;
-Khorshemish;Koth;Ianthe;Ophir;13;N;
-Khorshemish;Koth;Shamar;Aquilonia;14;NO;
-Khorshemish;Koth;Hanumar;Nemedia;16;N;>14 días
-Khorshemish;Koth;Anakia;Shem;17;S;>14 días
-Khorshemish;Koth;Belverus;Nemedia;18;N;>14 días
-Khorshemish;Koth;Tor;Nemedia;19;N;>14 días
+Khrosha;Koth;Khishtam;Corinthia;18;NE;>14 días
+Khorshemish;Koth;Ronnaco;Ophir;8;NO;
+Khorshemish;Koth;Carnolla;Ophir;11;SO;
+Khorshemish;Koth;Pergona;Ophir;11;NO;
+Khorshemish;Koth;Ianthe;Ophir;14;N;
+Khorshemish;Koth;Khrosha;Koth;14;SE;
+Khorshemish;Koth;Shamar;Aquilonia;15;NO;>14 días
+Khorshemish;Koth;Anakia;Shem;19;S;>14 días
+Khorshemish;Koth;Hanumar;Nemedia;20;N;>14 días
+Khorshemish;Koth;Ghaza;Shem;20;S;>14 días
+Khorshemish;Koth;Lanjau;Corinthia;21;NE;>14 días
 Pergona;Ophir;Ronnaco;Ophir;3;S;
 Pergona;Ophir;Ianthe;Ophir;7;N;
 Pergona;Ophir;Shamar;Aquilonia;8;NO;
-Pergona;Ophir;Khorshemish;Koth;8;SE;
 Pergona;Ophir;Carnolla;Ophir;9;SO;
+Pergona;Ophir;Khorshemish;Koth;10;SE;
 Pergona;Ophir;Tarantia;Aquilonia;14;NO;
-Pergona;Ophir;Hanumar;Nemedia;14;N;
-Pergona;Ophir;Pedassa;Aquilonia;15;NO;>14 días
-Pergona;Ophir;Belverus;Nemedia;16;N;>14 días
-Pergona;Ophir;Tor;Nemedia;16;N;>14 días
+Pergona;Ophir;Pedassa;Aquilonia;17;NO;>14 días
+Pergona;Ophir;Hanumar;Nemedia;17;N;>14 días
+Pergona;Ophir;Castria;Aquilonia;18;N;>14 días
+Pergona;Ophir;Elymir;Aquilonia;18;NO;>14 días
 Ronnaco;Ophir;Pergona;Ophir;3;N;
-Ronnaco;Ophir;Khorshemish;Koth;5;SE;
 Ronnaco;Ophir;Carnolla;Ophir;6;SO;
+Ronnaco;Ophir;Khorshemish;Koth;7;SE;
 Ronnaco;Ophir;Ianthe;Ophir;10;N;
 Ronnaco;Ophir;Shamar;Aquilonia;11;NO;
-Ronnaco;Ophir;Khrosha;Koth;14;SE;
+Ronnaco;Ophir;Khrosha;Koth;16;SE;>14 días
 Ronnaco;Ophir;Tarantia;Aquilonia;17;NO;>14 días
-Ronnaco;Ophir;Pedassa;Aquilonia;17;NO;>14 días
-Ronnaco;Ophir;Hanumar;Nemedia;17;N;>14 días
-Ronnaco;Ophir;Cularío;Aquilonia;19;SO;>14 días
+Ronnaco;Ophir;Pedassa;Aquilonia;19;NO;>14 días
+Ronnaco;Ophir;Elymir;Aquilonia;20;NO;>14 días
+Ronnaco;Ophir;Cularío;Aquilonia;20;SO;>14 días
 Khemi;Estigia;Ghaza;Shem;6;N;
 Khemi;Estigia;Kyros;Shem;7;NO;
 Khemi;Estigia;Harakht;Estigia;8;SE;
@@ -1596,9 +1573,9 @@ Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Ghori;Turan;20;N;>14 
 Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Bab-El-Shaitan;Desierto de Iranistán;21;NE;>14 días
 Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yueshi;Turan;22;N;>14 días
 Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Kara-Sehr;Desierto de Iranistán;23;NE;>14 días
-Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Vezek;Desierto Oriental / Meridional (sin reino);24;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Vezek;Desierto Oriental / Meridional (sin reino);25;N;>14 días
 Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Ashraf;Turan;25;N;>14 días
-Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yukkub;Turan;26;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yukkub;Turan;27;N;>14 días
 Anshan;Iranistán;Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);5;SO;
 Anshan;Iranistán;Yanadar;Druistán (Druistan);12;SO;
 Anshan;Iranistán;Bab-El-Shaitan;Desierto de Iranistán;18;N;>14 días
@@ -1607,18 +1584,18 @@ Anshan;Iranistán;Khawarizm;Turan;23;N;>14 días
 Anshan;Iranistán;Yueshi;Turan;23;N;>14 días
 Anshan;Iranistán;Kara-Sehr;Desierto de Iranistán;23;N;>14 días
 Anshan;Iranistán;Ashraf;Turan;26;N;>14 días
-Anshan;Iranistán;Vezek;Desierto Oriental / Meridional (sin reino);27;NO;>14 días
-Anshan;Iranistán;Yukkub;Turan;29;N;>14 días
+Anshan;Iranistán;Vezek;Desierto Oriental / Meridional (sin reino);28;NO;>14 días
+Anshan;Iranistán;Djemal;Hyrkania;29;N;>14 días
 Yanadar;Druistán (Druistan);Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);10;NE;
 Yanadar;Druistán (Druistan);Anshan;Iranistán;12;NE;
 Yanadar;Druistán (Druistan);Northern Capital;Zembabwei;19;SO;>14 días
-Yanadar;Druistán (Druistan);Khawarizm;Turan;27;N;>14 días
-Yanadar;Druistán (Druistan);Ghori;Turan;27;N;>14 días
-Yanadar;Druistán (Druistan);Vezek;Desierto Oriental / Meridional (sin reino);29;N;>14 días
-Yanadar;Druistán (Druistan);Yueshi;Turan;30;N;>14 días
+Yanadar;Druistán (Druistan);Khawarizm;Turan;29;N;>14 días
+Yanadar;Druistán (Druistan);Ghori;Turan;29;N;>14 días
 Yanadar;Druistán (Druistan);Bab-El-Shaitan;Desierto de Iranistán;30;NE;>14 días
-Yanadar;Druistán (Druistan);Yukkub;Turan;31;N;>14 días
-Yanadar;Druistán (Druistan);Kara-Sehr;Desierto de Iranistán;31;NE;>14 días
+Yanadar;Druistán (Druistan);Vezek;Desierto Oriental / Meridional (sin reino);32;N;>14 días
+Yanadar;Druistán (Druistan);Yueshi;Turan;32;N;>14 días
+Yanadar;Druistán (Druistan);New Zembabwei;Zembabwei;32;SO;>14 días
+Yanadar;Druistán (Druistan);Kara-Sehr;Desierto de Iranistán;33;NE;>14 días
 Alkmeenon;Keshan;Keshia;Keshan;7;SE;
 Alkmeenon;Keshan;Gazal;Estigia;13;NO;
 Alkmeenon;Keshan;Pteion;Estigia;14;N;

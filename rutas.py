@@ -8,14 +8,14 @@ Uso:
 HTML_RUTAS = rutas-hiboria.html del proyecto (lleva datos, mapa, red de ciudades y reglas incrustados).
 Por defecto: red de ciudades vecinas (X=14 dias) y viaje por mar permitido. --sin-red = ruta directa hex a hex; --sin-mar = solo tierra.
 Km estimados = hexagonos recorridos x 26 km (hexagono de 30 km vertice a vertice = 25,98 km entre centros).
-Modelo: 3 hex/dia en mar; tierra llanura 1 dia/hex, desierto/colinas/pantano 2, montana/jungla 3.
+Modelo: 3 hex/dia en mar; tierra llanura 1 dia/hex, desierto/colinas/pantano/bosque/tundra 2, montana/jungla 3.
 """
 import sys, re, json, io, base64, heapq, argparse, unicodedata
 from PIL import Image, ImageDraw, ImageFont
 
-NAMES = ['llanura', 'desierto', 'montaña', 'jungla', 'colinas', 'pantano']
-LC = [1, 2, 3, 3, 2, 2]
-SW = ['#d6c98a', '#e0b45c', '#6f6a66', '#1f6b33', '#a98650', '#5b8f86']
+NAMES = ['llanura', 'desierto', 'montaña', 'jungla', 'colinas', 'pantano', 'agua', 'bosque', 'tundra']
+LC = [1, 2, 3, 3, 2, 2, 0, 2, 2]
+SW = ['#d6c98a', '#e0b45c', '#6f6a66', '#1f6b33', '#a98650', '#5b8f86', '#6ccff5', '#78aa50', '#ecf2f6']
 
 
 def load(path):
@@ -67,10 +67,10 @@ class Net:
     def __init__(s, D):
         s.D = D; s.rows = D['rows']; s.cols = D['cols']
         s.N = s.rows * s.cols; s.K = len(D['nodes'])
-        t = [int(ch, 16) for ch in D['terr']]
+        t = [int(ch, 36) for ch in D['terr']]
         s.t = t
-        s.sea = [x >= 8 for x in t]
-        s.cost = [LC[x & 7] * 3 if (x & 7) < 6 else None for x in t]
+        s.sea = [x >= 16 for x in t]
+        s.cost = [LC[x & 15] * 3 if (x & 15) != 6 else None for x in t]
         s.landNodes = {}; s.seaNodes = {}; s.bH = set(); s.bN = set(); s.shade = set()
         for k, n in enumerate(D['nodes']):
             if n[4] >= 0: s.landNodes.setdefault(n[4], []).append(k)
@@ -266,7 +266,7 @@ class Net:
                 end = nk(v)
                 if seg:
                     sea = seg[0] >= N
-                    t = 0; counts = [0] * 6; acc = []; passed = []; hx = 0
+                    t = 0; counts = [0] * 9; acc = []; passed = []; hx = 0
                     if sea:
                         f0, l0 = seg[0] - N, seg[-1] - N
                         ca, cb = s.acc(start, f0), s.acc(end, l0)
@@ -278,7 +278,7 @@ class Net:
                     else:
                         for j, hh in enumerate(seg):
                             if j > 0:
-                                t += s.cost[hh]; counts[s.t[hh] & 7] += 1
+                                t += s.cost[hh]; counts[s.t[hh] & 15] += 1
                             if j > 0 and j < len(seg) - 1:
                                 for k in s.landNodes.get(hh, []):
                                     if k not in (start, end): passed.append(nodes[k][0])
@@ -386,7 +386,7 @@ def main():
     crop = img.crop(box)
 
     # ---------- panel de leyenda ----------
-    th = [0] * 6; sh = 0; st = 0; emb = 0; tl = 0
+    th = [0] * 9; sh = 0; st = 0; emb = 0; tl = 0
     for s in stages:
         for l in s[4]:
             if l['sea']: sh += l['hexes']; st += l['t'] - a.embarque * 3; emb += a.embarque * 3
