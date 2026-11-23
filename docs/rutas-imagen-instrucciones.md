@@ -41,6 +41,7 @@ Mapa recortado a la ruta con hexágonos rojos (tierra) y morados (mar y acceso a
 - Tierra, días por hexágono: llanura 1; desierto, colinas, pantano, bosque y tundra 2; montaña y jungla 3. El agua no se cruza a pie. Los ríos y los caminos no están modelados.
 - Los barcos solo paran en ciudades costeras e islas (no atraviesan puertos ni islas).
 - Terreno actualizado el 23/11/2026: se quitaron las colinas manuales del centro de Shem (ahora llanura) y se añadieron bosque y tundra (Pictland y Marcas Bossonianas pasan de jungla a bosque; Khitai pasa de jungla a bosque salvo «Lost Jungle»; bosques parciales en Aquilonia, Nemedia, Zingara, Gunderland, Pedassa, Koth y Colchian; tundra y taiga en el norte).
+- Ajuste del terreno según el capítulo 9 del libro básico (23/11/2026): Khitai vuelve a jungla (p. 191); bosques en el norte de Vendhya (p. 192) y en Corinthia (p. 177); taiga (bosque) y tundra en la franja norte de Hyrkania, entre x 1900-2900 y y 100-700 del mapa de 3850 px (p. 190). Reparto actual de la tierra: llanura 55,1 %, desierto 10,7 %, bosque 12,3 %, jungla 5,9 %, colinas 5,5 %, montaña 4,8 %, tundra 4,6 %, pantano 1,2 %.
 - Resultados de referencia: Venzia → Aghrapur 79,3 d directa / 87 d red; Asgalun ↔ Akbitana 37,7 d; Akbitana → Asgalun evitando Estigia 42,3 d (por Akkharia, Buryat, Ghaza y Kyros, y mar hasta Asgalun); Lireigh → Brutheim 51 d directa (tundra y taiga cuestan 2 d).
 
 ## Si falla

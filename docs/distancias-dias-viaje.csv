@@ -395,7 +395,7 @@ Tor;Nemedia;Numalia;Nemedia;18;SE;>14 días
 Numalia;Nemedia;Hanumar;Nemedia;10;SO;
 Numalia;Nemedia;Belverus;Nemedia;12;NO;
 Numalia;Nemedia;Thalia;Nemedia;13;NO;
-Numalia;Nemedia;Lanjau;Corinthia;13;SE;
+Numalia;Nemedia;Lanjau;Corinthia;14;SE;
 Numalia;Nemedia;Khumar Rhun;Corinthia;16;SE;>14 días
 Numalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);17;N;>14 días
 Numalia;Nemedia;Ianthe;Ophir;18;SO;>14 días
@@ -408,10 +408,10 @@ Hanumar;Nemedia;Numalia;Nemedia;10;NE;
 Hanumar;Nemedia;Ianthe;Ophir;10;SO;
 Hanumar;Nemedia;Thalia;Nemedia;14;N;
 Hanumar;Nemedia;Shamar;Aquilonia;15;SO;>14 días
-Hanumar;Nemedia;Lanjau;Corinthia;16;SE;>14 días
 Hanumar;Nemedia;Castria;Aquilonia;17;NO;>14 días
 Hanumar;Nemedia;Pergona;Ophir;18;S;>14 días
-Hanumar;Nemedia;Khumar Rhun;Corinthia;19;SE;>14 días
+Hanumar;Nemedia;Lanjau;Corinthia;19;SE;>14 días
+Hanumar;Nemedia;Khorshemish;Koth;20;S;>14 días
 Ianthe;Ophir;Shamar;Aquilonia;5;SO;
 Ianthe;Ophir;Pergona;Ophir;9;S;
 Ianthe;Ophir;Castria;Aquilonia;11;N;
@@ -433,65 +433,65 @@ Sistona;Hiperbórea;Amelius;Aquilonia;37;SO;>14 días
 Sistona;Hiperbórea;Thalia;Nemedia;37;SO;>14 días
 Sistona;Hiperbórea;Brutheim;Nordheim;38;NO;>14 días
 Ezar-Bar-Kum;Corinthia;Khumar Rhun;Corinthia;3;SO;
-Ezar-Bar-Kum;Corinthia;Lanjau;Corinthia;6;SO;
 Ezar-Bar-Kum;Corinthia;Zahmahn;Corinthia;8;SE;
-Ezar-Bar-Kum;Corinthia;Kamalla;Corinthia;8;S;
-Ezar-Bar-Kum;Corinthia;Khishtam;Corinthia;12;S;
-Ezar-Bar-Kum;Corinthia;Shadizar;Zamora;17;SE;>14 días
+Ezar-Bar-Kum;Corinthia;Lanjau;Corinthia;8;SO;
+Ezar-Bar-Kum;Corinthia;Kamalla;Corinthia;11;S;
+Ezar-Bar-Kum;Corinthia;Khishtam;Corinthia;18;S;>14 días
+Ezar-Bar-Kum;Corinthia;Shadizar;Zamora;18;SE;>14 días
 Ezar-Bar-Kum;Corinthia;Numalia;Nemedia;20;SO;>14 días
-Ezar-Bar-Kum;Corinthia;Zamindi;Zamora;20;SE;>14 días
-Ezar-Bar-Kum;Corinthia;Karvek;Koth;20;SE;>14 días
 Ezar-Bar-Kum;Corinthia;Yezud;Zamora;21;NE;>14 días
-Khumar Rhun;Corinthia;Lanjau;Corinthia;3;SO;
+Ezar-Bar-Kum;Corinthia;Khesron;Zamora;21;NE;>14 días
+Ezar-Bar-Kum;Corinthia;Zamindi;Zamora;21;SE;>14 días
 Khumar Rhun;Corinthia;Ezar-Bar-Kum;Corinthia;4;NE;
-Khumar Rhun;Corinthia;Kamalla;Corinthia;7;SE;
+Khumar Rhun;Corinthia;Lanjau;Corinthia;5;SO;
 Khumar Rhun;Corinthia;Zahmahn;Corinthia;9;SE;
-Khumar Rhun;Corinthia;Khishtam;Corinthia;11;S;
-Khumar Rhun;Corinthia;Shadizar;Zamora;16;SE;>14 días
+Khumar Rhun;Corinthia;Kamalla;Corinthia;11;SE;
+Khumar Rhun;Corinthia;Khishtam;Corinthia;16;S;>14 días
 Khumar Rhun;Corinthia;Numalia;Nemedia;17;NO;>14 días
-Khumar Rhun;Corinthia;Zamindi;Zamora;19;SE;>14 días
-Khumar Rhun;Corinthia;Karvek;Koth;19;SE;>14 días
-Khumar Rhun;Corinthia;Hanumar;Nemedia;20;NO;>14 días
-Zahmahn;Corinthia;Kamalla;Corinthia;5;SO;
+Khumar Rhun;Corinthia;Shadizar;Zamora;19;SE;>14 días
+Khumar Rhun;Corinthia;Hanumar;Nemedia;22;NO;>14 días
+Khumar Rhun;Corinthia;Yezud;Zamora;22;NE;>14 días
+Khumar Rhun;Corinthia;Khesron;Zamora;22;NE;>14 días
+Zahmahn;Corinthia;Kamalla;Corinthia;6;SO;
 Zahmahn;Corinthia;Ezar-Bar-Kum;Corinthia;9;NO;
 Zahmahn;Corinthia;Khumar Rhun;Corinthia;9;NO;
 Zahmahn;Corinthia;Shadizar;Zamora;10;SE;
-Zahmahn;Corinthia;Lanjau;Corinthia;12;NO;
-Zahmahn;Corinthia;Khishtam;Corinthia;12;SO;
 Zahmahn;Corinthia;Zamindi;Zamora;13;NE;
+Zahmahn;Corinthia;Lanjau;Corinthia;14;NO;
 Zahmahn;Corinthia;Larsha;Zamora;14;SE;
 Zahmahn;Corinthia;Yezud;Zamora;15;NE;>14 días
 Zahmahn;Corinthia;Khesron;Zamora;15;NE;>14 días
-Lanjau;Corinthia;Khumar Rhun;Corinthia;3;NE;
-Lanjau;Corinthia;Ezar-Bar-Kum;Corinthia;7;NE;
-Lanjau;Corinthia;Kamalla;Corinthia;8;SE;
-Lanjau;Corinthia;Khishtam;Corinthia;11;SE;
-Lanjau;Corinthia;Zahmahn;Corinthia;12;SE;
+Zahmahn;Corinthia;Karvek;Koth;16;S;>14 días
+Lanjau;Corinthia;Khumar Rhun;Corinthia;4;NE;
+Lanjau;Corinthia;Ezar-Bar-Kum;Corinthia;8;NE;
+Lanjau;Corinthia;Zahmahn;Corinthia;13;SE;
 Lanjau;Corinthia;Numalia;Nemedia;14;NO;
-Lanjau;Corinthia;Hanumar;Nemedia;17;NO;>14 días
-Lanjau;Corinthia;Ianthe;Ophir;18;SO;>14 días
-Lanjau;Corinthia;Shadizar;Zamora;18;SE;>14 días
-Lanjau;Corinthia;Khrosha;Koth;18;S;>14 días
-Kamalla;Corinthia;Zahmahn;Corinthia;5;NE;
-Kamalla;Corinthia;Khumar Rhun;Corinthia;7;NO;
-Kamalla;Corinthia;Khishtam;Corinthia;7;SO;
-Kamalla;Corinthia;Lanjau;Corinthia;8;NO;
-Kamalla;Corinthia;Ezar-Bar-Kum;Corinthia;9;N;
-Kamalla;Corinthia;Shadizar;Zamora;10;SE;
-Kamalla;Corinthia;Karvek;Koth;12;SE;
-Kamalla;Corinthia;Zamindi;Zamora;13;NE;
-Kamalla;Corinthia;Larsha;Zamora;14;SE;
-Kamalla;Corinthia;Khanyria;Khoraja;14;SE;
-Khishtam;Corinthia;Kamalla;Corinthia;5;NE;
-Khishtam;Corinthia;Khumar Rhun;Corinthia;9;N;
-Khishtam;Corinthia;Lanjau;Corinthia;9;NO;
-Khishtam;Corinthia;Zahmahn;Corinthia;10;NE;
-Khishtam;Corinthia;Ezar-Bar-Kum;Corinthia;11;N;
-Khishtam;Corinthia;Karvek;Koth;12;SE;
-Khishtam;Corinthia;Shadizar;Zamora;14;NE;
-Khishtam;Corinthia;Khanyria;Khoraja;14;SE;
+Lanjau;Corinthia;Kamalla;Corinthia;14;SE;
+Lanjau;Corinthia;Khishtam;Corinthia;17;SE;>14 días
+Lanjau;Corinthia;Hanumar;Nemedia;19;NO;>14 días
+Lanjau;Corinthia;Ianthe;Ophir;20;SO;>14 días
+Lanjau;Corinthia;Khrosha;Koth;21;S;>14 días
+Lanjau;Corinthia;Pergona;Ophir;22;SO;>14 días
+Kamalla;Corinthia;Zahmahn;Corinthia;6;NE;
+Kamalla;Corinthia;Khumar Rhun;Corinthia;11;NO;
+Kamalla;Corinthia;Khishtam;Corinthia;11;SO;
+Kamalla;Corinthia;Ezar-Bar-Kum;Corinthia;12;N;
+Kamalla;Corinthia;Shadizar;Zamora;12;SE;
+Kamalla;Corinthia;Karvek;Koth;14;SE;
+Kamalla;Corinthia;Lanjau;Corinthia;15;NO;>14 días
+Kamalla;Corinthia;Zamindi;Zamora;15;NE;>14 días
+Kamalla;Corinthia;Larsha;Zamora;16;SE;>14 días
+Kamalla;Corinthia;Khanyria;Khoraja;16;SE;>14 días
+Khishtam;Corinthia;Kamalla;Corinthia;9;NE;
+Khishtam;Corinthia;Khumar Rhun;Corinthia;14;N;
+Khishtam;Corinthia;Zahmahn;Corinthia;15;NE;>14 días
+Khishtam;Corinthia;Lanjau;Corinthia;16;NO;>14 días
 Khishtam;Corinthia;Khrosha;Koth;16;SO;>14 días
-Khishtam;Corinthia;Zamindi;Zamora;17;NE;>14 días
+Khishtam;Corinthia;Karvek;Koth;16;SE;>14 días
+Khishtam;Corinthia;Ezar-Bar-Kum;Corinthia;17;N;>14 días
+Khishtam;Corinthia;Khanyria;Khoraja;17;SE;>14 días
+Khishtam;Corinthia;Shadizar;Zamora;18;NE;>14 días
+Khishtam;Corinthia;Meshken;Khoraja;18;S;>14 días
 Yezud;Zamora;Kharsho;Zamora;2;SE;
 Yezud;Zamora;Khesron;Zamora;2;S;
 Yezud;Zamora;Komash;Zamora;8;SE;
@@ -500,8 +500,8 @@ Yezud;Zamora;Shadizar;Zamora;11;S;
 Yezud;Zamora;Larsha;Zamora;12;S;
 Yezud;Zamora;Zahmahn;Corinthia;14;SO;
 Yezud;Zamora;Arenjun;Zamora;16;SE;>14 días
-Yezud;Zamora;Kamalla;Corinthia;18;SO;>14 días
 Yezud;Zamora;Ashmir;Zamora;18;N;>14 días
+Yezud;Zamora;Khauran;Khauran;18;S;>14 días
 Kharsho;Zamora;Yezud;Zamora;2;NO;
 Kharsho;Zamora;Khesron;Zamora;4;SO;
 Kharsho;Zamora;Komash;Zamora;8;SE;
@@ -520,8 +520,8 @@ Khesron;Zamora;Shadizar;Zamora;9;S;
 Khesron;Zamora;Larsha;Zamora;10;S;
 Khesron;Zamora;Zahmahn;Corinthia;14;SO;
 Khesron;Zamora;Arenjun;Zamora;14;SE;
-Khesron;Zamora;Kamalla;Corinthia;16;SO;>14 días
 Khesron;Zamora;Khauran;Khauran;16;S;>14 días
+Khesron;Zamora;Ashmir;Zamora;17;N;>14 días
 Komash;Zamora;Zamindi;Zamora;4;SO;
 Komash;Zamora;Larsha;Zamora;7;S;
 Komash;Zamora;Khesron;Zamora;8;NO;
@@ -543,7 +543,6 @@ Zamindi;Zamora;Kharsho;Zamora;9;N;
 Zamindi;Zamora;Khauran;Khauran;10;S;
 Zamindi;Zamora;Kandah;Khauran;12;S;
 Zamindi;Zamora;Zahmahn;Corinthia;13;SO;
-Zamindi;Zamora;Kamalla;Corinthia;13;SO;
 Zamindi;Zamora;Karvek;Koth;14;S;
 Larsha;Zamora;Zamindi;Zamora;4;N;
 Larsha;Zamora;Shadizar;Zamora;4;NO;
@@ -557,7 +556,6 @@ Larsha;Zamora;Yezud;Zamora;13;N;
 Larsha;Zamora;Kharsho;Zamora;13;N;
 Larsha;Zamora;Khanyria;Khoraja;13;S;
 Larsha;Zamora;Zahmahn;Corinthia;14;NO;
-Larsha;Zamora;Kamalla;Corinthia;14;NO;
 Shadizar;Zamora;Larsha;Zamora;4;SE;
 Shadizar;Zamora;Zamindi;Zamora;5;NE;
 Shadizar;Zamora;Khauran;Khauran;8;SE;
@@ -565,10 +563,10 @@ Shadizar;Zamora;Komash;Zamora;9;NE;
 Shadizar;Zamora;Arenjun;Zamora;9;SE;
 Shadizar;Zamora;Karvek;Koth;9;S;
 Shadizar;Zamora;Zahmahn;Corinthia;10;NO;
-Shadizar;Zamora;Kamalla;Corinthia;10;NO;
 Shadizar;Zamora;Khesron;Zamora;10;N;
 Shadizar;Zamora;Kandah;Khauran;10;SE;
 Shadizar;Zamora;Khanyria;Khoraja;11;S;
+Shadizar;Zamora;Kamalla;Corinthia;12;NO;
 Shadizar;Zamora;Yezud;Zamora;12;N;
 Shadizar;Zamora;Kharsho;Zamora;13;N;
 Arenjun;Zamora;Larsha;Zamora;5;NO;
@@ -804,74 +802,74 @@ Thrdana;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Gh
 Thrdana;Meru (región de Sumeru Tso);Secunderam;Kosala;22;SO;>14 días
 Kusan;Khitai;Chu-Chen;Khitai;11;NE;
 Kusan;Khitai;Wantengri;Khitai;14;SE;
-Kusan;Khitai;Shan-E-Sorkh;Khitai;20;S;>14 días
-Kusan;Khitai;Paikang;Khitai;24;SE;>14 días
-Kusan;Khitai;Shaulan;Khitai;27;S;>14 días
-Kusan;Khitai;Ruo-Gen;Khitai;36;S;>14 días
+Kusan;Khitai;Shan-E-Sorkh;Khitai;23;S;>14 días
+Kusan;Khitai;Paikang;Khitai;27;SE;>14 días
+Kusan;Khitai;Shaulan;Khitai;33;S;>14 días
 Kusan;Khitai;Issedon;Meru (región de Sumeru Tso);43;S;>14 días
 Kusan;Khitai;Auzakia;Meru (región de Sumeru Tso);44;S;>14 días
 Kusan;Khitai;Pauana;Meru (región de Sumeru Tso);45;S;>14 días
+Kusan;Khitai;Ruo-Gen;Khitai;46;S;>14 días
 Kusan;Khitai;Thogara;Meru (región de Sumeru Tso);48;SO;>14 días
 Chu-Chen;Khitai;Kusan;Khitai;11;SO;
 Chu-Chen;Khitai;Wantengri;Khitai;12;S;
-Chu-Chen;Khitai;Paikang;Khitai;22;S;>14 días
-Chu-Chen;Khitai;Shan-E-Sorkh;Khitai;25;S;>14 días
-Chu-Chen;Khitai;Shaulan;Khitai;30;S;>14 días
-Chu-Chen;Khitai;Ruo-Gen;Khitai;38;S;>14 días
+Chu-Chen;Khitai;Paikang;Khitai;24;S;>14 días
+Chu-Chen;Khitai;Shan-E-Sorkh;Khitai;28;S;>14 días
+Chu-Chen;Khitai;Shaulan;Khitai;36;S;>14 días
+Chu-Chen;Khitai;Ruo-Gen;Khitai;48;S;>14 días
 Chu-Chen;Khitai;Issedon;Meru (región de Sumeru Tso);51;SO;>14 días
 Chu-Chen;Khitai;Auzakia;Meru (región de Sumeru Tso);53;SO;>14 días
 Chu-Chen;Khitai;Pauana;Meru (región de Sumeru Tso);53;S;>14 días
 Chu-Chen;Khitai;Thogara;Meru (región de Sumeru Tso);57;SO;>14 días
 Wantengri;Khitai;Chu-Chen;Khitai;12;N;
-Wantengri;Khitai;Paikang;Khitai;13;S;
-Wantengri;Khitai;Shan-E-Sorkh;Khitai;13;SO;
 Wantengri;Khitai;Kusan;Khitai;14;NO;
-Wantengri;Khitai;Shaulan;Khitai;18;S;>14 días
-Wantengri;Khitai;Ruo-Gen;Khitai;26;S;>14 días
+Wantengri;Khitai;Paikang;Khitai;16;S;>14 días
+Wantengri;Khitai;Shan-E-Sorkh;Khitai;16;SO;>14 días
+Wantengri;Khitai;Shaulan;Khitai;24;S;>14 días
+Wantengri;Khitai;Ruo-Gen;Khitai;36;S;>14 días
 Wantengri;Khitai;Issedon;Meru (región de Sumeru Tso);43;SO;>14 días
 Wantengri;Khitai;Auzakia;Meru (región de Sumeru Tso);45;SO;>14 días
 Wantengri;Khitai;Pauana;Meru (región de Sumeru Tso);45;SO;>14 días
 Wantengri;Khitai;Thogara;Meru (región de Sumeru Tso);49;SO;>14 días
-Paikang;Khitai;Wantengri;Khitai;12;N;
-Paikang;Khitai;Shaulan;Khitai;14;SO;
-Paikang;Khitai;Shan-E-Sorkh;Khitai;15;SO;>14 días
-Paikang;Khitai;Ruo-Gen;Khitai;20;S;>14 días
-Paikang;Khitai;Chu-Chen;Khitai;21;N;>14 días
-Paikang;Khitai;Kusan;Khitai;23;NO;>14 días
-Paikang;Khitai;Issedon;Meru (región de Sumeru Tso);44;SO;>14 días
-Paikang;Khitai;Pauana;Meru (región de Sumeru Tso);46;SO;>14 días
-Paikang;Khitai;Auzakia;Meru (región de Sumeru Tso);47;SO;>14 días
-Paikang;Khitai;Thogara;Meru (región de Sumeru Tso);51;SO;>14 días
-Shan-E-Sorkh;Khitai;Shaulan;Khitai;8;SE;
-Shan-E-Sorkh;Khitai;Wantengri;Khitai;12;NE;
-Shan-E-Sorkh;Khitai;Paikang;Khitai;15;NE;>14 días
-Shan-E-Sorkh;Khitai;Ruo-Gen;Khitai;18;S;>14 días
-Shan-E-Sorkh;Khitai;Kusan;Khitai;19;N;>14 días
-Shan-E-Sorkh;Khitai;Chu-Chen;Khitai;24;N;>14 días
+Paikang;Khitai;Wantengri;Khitai;14;N;
+Paikang;Khitai;Shan-E-Sorkh;Khitai;20;SO;>14 días
+Paikang;Khitai;Shaulan;Khitai;21;SO;>14 días
+Paikang;Khitai;Chu-Chen;Khitai;22;N;>14 días
+Paikang;Khitai;Kusan;Khitai;25;NO;>14 días
+Paikang;Khitai;Ruo-Gen;Khitai;30;S;>14 días
+Paikang;Khitai;Issedon;Meru (región de Sumeru Tso);49;SO;>14 días
+Paikang;Khitai;Auzakia;Meru (región de Sumeru Tso);51;SO;>14 días
+Paikang;Khitai;Pauana;Meru (región de Sumeru Tso);51;SO;>14 días
+Paikang;Khitai;Thogara;Meru (región de Sumeru Tso);55;SO;>14 días
+Shan-E-Sorkh;Khitai;Shaulan;Khitai;12;SE;
+Shan-E-Sorkh;Khitai;Wantengri;Khitai;14;NE;
+Shan-E-Sorkh;Khitai;Paikang;Khitai;20;NE;>14 días
+Shan-E-Sorkh;Khitai;Kusan;Khitai;21;N;>14 días
+Shan-E-Sorkh;Khitai;Chu-Chen;Khitai;26;N;>14 días
+Shan-E-Sorkh;Khitai;Ruo-Gen;Khitai;27;S;>14 días
 Shan-E-Sorkh;Khitai;Issedon;Meru (región de Sumeru Tso);33;SO;>14 días
 Shan-E-Sorkh;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
 Shan-E-Sorkh;Khitai;Pauana;Meru (región de Sumeru Tso);35;SO;>14 días
 Shan-E-Sorkh;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
-Shaulan;Khitai;Shan-E-Sorkh;Khitai;8;NO;
-Shaulan;Khitai;Ruo-Gen;Khitai;10;S;
-Shaulan;Khitai;Paikang;Khitai;14;NE;
-Shaulan;Khitai;Wantengri;Khitai;17;N;>14 días
-Shaulan;Khitai;Kusan;Khitai;26;N;>14 días
-Shaulan;Khitai;Chu-Chen;Khitai;29;N;>14 días
-Shaulan;Khitai;Issedon;Meru (región de Sumeru Tso);31;SO;>14 días
-Shaulan;Khitai;Pauana;Meru (región de Sumeru Tso);33;SO;>14 días
-Shaulan;Khitai;Auzakia;Meru (región de Sumeru Tso);34;SO;>14 días
-Shaulan;Khitai;Thogara;Meru (región de Sumeru Tso);38;SO;>14 días
-Ruo-Gen;Khitai;Shaulan;Khitai;10;N;
-Ruo-Gen;Khitai;Shan-E-Sorkh;Khitai;18;N;>14 días
-Ruo-Gen;Khitai;Paikang;Khitai;20;N;>14 días
-Ruo-Gen;Khitai;Wantengri;Khitai;25;N;>14 días
-Ruo-Gen;Khitai;Pauana;Meru (región de Sumeru Tso);34;SO;>14 días
-Ruo-Gen;Khitai;Issedon;Meru (región de Sumeru Tso);35;SO;>14 días
-Ruo-Gen;Khitai;Kusan;Khitai;35;N;>14 días
-Ruo-Gen;Khitai;Thrdana;Meru (región de Sumeru Tso);37;SO;>14 días
-Ruo-Gen;Khitai;Chu-Chen;Khitai;37;N;>14 días
-Ruo-Gen;Khitai;Auzakia;Meru (región de Sumeru Tso);38;SO;>14 días
+Shaulan;Khitai;Shan-E-Sorkh;Khitai;12;NO;
+Shaulan;Khitai;Ruo-Gen;Khitai;15;S;>14 días
+Shaulan;Khitai;Paikang;Khitai;21;NE;>14 días
+Shaulan;Khitai;Wantengri;Khitai;22;N;>14 días
+Shaulan;Khitai;Kusan;Khitai;31;N;>14 días
+Shaulan;Khitai;Issedon;Meru (región de Sumeru Tso);32;SO;>14 días
+Shaulan;Khitai;Pauana;Meru (región de Sumeru Tso);34;SO;>14 días
+Shaulan;Khitai;Chu-Chen;Khitai;34;N;>14 días
+Shaulan;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
+Shaulan;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
+Ruo-Gen;Khitai;Shaulan;Khitai;15;N;>14 días
+Ruo-Gen;Khitai;Shan-E-Sorkh;Khitai;27;N;>14 días
+Ruo-Gen;Khitai;Paikang;Khitai;30;N;>14 días
+Ruo-Gen;Khitai;Wantengri;Khitai;34;N;>14 días
+Ruo-Gen;Khitai;Pauana;Meru (región de Sumeru Tso);36;SO;>14 días
+Ruo-Gen;Khitai;Issedon;Meru (región de Sumeru Tso);37;SO;>14 días
+Ruo-Gen;Khitai;Thrdana;Meru (región de Sumeru Tso);39;SO;>14 días
+Ruo-Gen;Khitai;Auzakia;Meru (región de Sumeru Tso);41;SO;>14 días
+Ruo-Gen;Khitai;Shamballa;Meru (región de Sumeru Tso);44;SO;>14 días
+Ruo-Gen;Khitai;Kusan;Khitai;44;N;>14 días
 Venzia;Argos;Koda;Zingara;10;N;
 Venzia;Argos;Jerida;Zingara;12;NO;
 Venzia;Argos;Messantia;Argos;14;SE;
@@ -1059,8 +1057,8 @@ Khrosha;Koth;Akkharia;Shem;15;S;>14 días
 Khrosha;Koth;Khorshemish;Koth;15;NO;>14 días
 Khrosha;Koth;Nipor;Shem;15;SE;>14 días
 Khrosha;Koth;Meshken;Khoraja;16;SE;>14 días
-Khrosha;Koth;Lanjau;Corinthia;18;N;>14 días
 Khrosha;Koth;Khishtam;Corinthia;18;NE;>14 días
+Khrosha;Koth;Ghaza;Shem;18;SO;>14 días
 Khorshemish;Koth;Ronnaco;Ophir;8;NO;
 Khorshemish;Koth;Carnolla;Ophir;11;SO;
 Khorshemish;Koth;Pergona;Ophir;11;NO;
@@ -1070,7 +1068,7 @@ Khorshemish;Koth;Shamar;Aquilonia;15;NO;>14 días
 Khorshemish;Koth;Anakia;Shem;19;S;>14 días
 Khorshemish;Koth;Hanumar;Nemedia;20;N;>14 días
 Khorshemish;Koth;Ghaza;Shem;20;S;>14 días
-Khorshemish;Koth;Lanjau;Corinthia;21;NE;>14 días
+Khorshemish;Koth;Tarantia;Aquilonia;22;NO;>14 días
 Pergona;Ophir;Ronnaco;Ophir;3;S;
 Pergona;Ophir;Ianthe;Ophir;7;N;
 Pergona;Ophir;Shamar;Aquilonia;8;NO;
@@ -1217,9 +1215,8 @@ Karvek;Koth;Shadizar;Zamora;9;N;
 Karvek;Koth;Meshken;Khoraja;9;S;
 Karvek;Koth;Khoraja;Khoraja;10;S;
 Karvek;Koth;Larsha;Zamora;11;NE;
-Karvek;Koth;Kamalla;Corinthia;12;NO;
 Karvek;Koth;Arenjun;Zamora;12;NE;
-Karvek;Koth;Khishtam;Corinthia;14;NO;
+Karvek;Koth;Kamalla;Corinthia;14;NO;
 Karvek;Koth;Zamindi;Zamora;14;N;
 Karvek;Koth;Eruk;Shem;14;S;
 Khanyria;Khoraja;Karvek;Koth;1;N;
@@ -1229,9 +1226,9 @@ Khanyria;Khoraja;Meshken;Khoraja;8;SO;
 Khanyria;Khoraja;Khoraja;Khoraja;9;S;
 Khanyria;Khoraja;Shadizar;Zamora;10;N;
 Khanyria;Khoraja;Larsha;Zamora;12;N;
-Khanyria;Khoraja;Kamalla;Corinthia;13;NO;
 Khanyria;Khoraja;Arenjun;Zamora;13;NE;
 Khanyria;Khoraja;Eruk;Shem;13;SO;
+Khanyria;Khoraja;Kamalla;Corinthia;15;NO;>14 días
 Eruk;Shem;Shumir;Shem;4;SO;
 Eruk;Shem;Meshken;Khoraja;4;NE;
 Eruk;Shem;Nipor;Shem;5;S;
@@ -1749,14 +1746,14 @@ Ghor;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru
 Ghor;Montañas Himelianas (Afghulis / Ghulistán);Khurum;Montañas Himelianas (Afghulis / Ghulistán);21;SE;>14 días
 Ghor;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);23;N;>14 días
 Ghor;Montañas Himelianas (Afghulis / Ghulistán);Thogara;Meru (región de Sumeru Tso);24;N;>14 días
-Ghor;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;24;S;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;25;S;>14 días
 Ghor;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);27;N;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Khojur;Montañas Himelianas (Afghulis / Ghulistán);9;NE;
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Jugra;Montañas Himelianas (Afghulis / Ghulistán);12;SE;
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);20;NO;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);21;N;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Ghor;Montañas Himelianas (Afghulis / Ghulistán);21;NO;>14 días
-Khurum;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;21;S;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;22;S;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);24;N;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);25;NO;>14 días
 Khurum;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);28;N;>14 días
@@ -1775,82 +1772,82 @@ Jugra;Montañas Himelianas (Afghulis / Ghulistán);Khurum;Montañas Himelianas (
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Khojur;Montañas Himelianas (Afghulis / Ghulistán);12;NO;
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;16;S;>14 días
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);26;N;>14 días
-Jugra;Montañas Himelianas (Afghulis / Ghulistán);Shirakma;Vendhya;26;S;>14 días
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);27;NO;>14 días
-Jugra;Montañas Himelianas (Afghulis / Ghulistán);Bakharus;Vendhya;27;S;>14 días
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);29;N;>14 días
-Jugra;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;31;SO;>14 días
 Jugra;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);32;NO;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Shirakma;Vendhya;32;S;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);33;NO;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Ghor;Montañas Himelianas (Afghulis / Ghulistán);33;NO;>14 días
 Ayodha;Vendhya;Yota-Pong;Kosala;12;SO;
 Ayodha;Vendhya;Khorala;Vendhya;13;SO;
-Ayodha;Vendhya;Peshkauri;Vendhya;15;NE;>14 días
-Ayodha;Vendhya;Bakharus;Vendhya;18;SE;>14 días
 Ayodha;Vendhya;Secunderam;Kosala;19;NO;>14 días
-Ayodha;Vendhya;Shirakma;Vendhya;21;SE;>14 días
+Ayodha;Vendhya;Peshkauri;Vendhya;19;NE;>14 días
 Ayodha;Vendhya;Khorbul;Montañas Himelianas (Afghulis / Ghulistán);25;N;>14 días
-Ayodha;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);26;N;>14 días
+Ayodha;Vendhya;Bakharus;Vendhya;26;SE;>14 días
+Ayodha;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);27;N;>14 días
 Ayodha;Vendhya;Shomdakor;Meru (región de Sumeru Tso);28;N;>14 días
 Ayodha;Vendhya;Jhelai;Vendhya;28;S;>14 días
-Peshkauri;Vendhya;Bakharus;Vendhya;11;SO;
-Peshkauri;Vendhya;Shirakma;Vendhya;11;S;
-Peshkauri;Vendhya;Ayodha;Vendhya;15;SO;>14 días
+Ayodha;Vendhya;Shirakma;Vendhya;29;SE;>14 días
+Peshkauri;Vendhya;Shirakma;Vendhya;17;S;>14 días
 Peshkauri;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);18;N;>14 días
-Peshkauri;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);23;N;>14 días
-Peshkauri;Vendhya;Jhelai;Vendhya;25;SO;>14 días
+Peshkauri;Vendhya;Bakharus;Vendhya;18;SO;>14 días
+Peshkauri;Vendhya;Ayodha;Vendhya;19;SO;>14 días
+Peshkauri;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);24;N;>14 días
 Peshkauri;Vendhya;Khojur;Montañas Himelianas (Afghulis / Ghulistán);27;N;>14 días
-Peshkauri;Vendhya;Yota-Pong;Kosala;27;SO;>14 días
-Peshkauri;Vendhya;Khorala;Vendhya;28;SO;>14 días
-Peshkauri;Vendhya;Pauana;Meru (región de Sumeru Tso);31;N;>14 días
+Peshkauri;Vendhya;Jhelai;Vendhya;31;SO;>14 días
+Peshkauri;Vendhya;Yota-Pong;Kosala;31;SO;>14 días
+Peshkauri;Vendhya;Khorala;Vendhya;32;SO;>14 días
+Peshkauri;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);34;NO;>14 días
 Khorala;Vendhya;Yota-Pong;Kosala;9;SO;
 Khorala;Vendhya;Ayodha;Vendhya;11;NE;
 Khorala;Vendhya;Secunderam;Kosala;20;N;>14 días
 Khorala;Vendhya;Jhelai;Vendhya;21;S;>14 días
-Khorala;Vendhya;Peshkauri;Vendhya;26;NE;>14 días
 Khorala;Vendhya;Bakharus;Vendhya;26;SE;>14 días
 Khorala;Vendhya;Shomdakor;Meru (región de Sumeru Tso);29;N;>14 días
+Khorala;Vendhya;Peshkauri;Vendhya;30;NE;>14 días
 Khorala;Vendhya;Shamballa;Meru (región de Sumeru Tso);31;N;>14 días
-Khorala;Vendhya;Shirakma;Vendhya;32;SE;>14 días
 Khorala;Vendhya;Khorbul;Montañas Himelianas (Afghulis / Ghulistán);33;N;>14 días
+Khorala;Vendhya;Thogara;Meru (región de Sumeru Tso);34;N;>14 días
 Bakharus;Vendhya;Shirakma;Vendhya;9;SE;
-Bakharus;Vendhya;Peshkauri;Vendhya;11;NE;
 Bakharus;Vendhya;Jhelai;Vendhya;14;SO;
-Bakharus;Vendhya;Ayodha;Vendhya;18;NO;>14 días
+Bakharus;Vendhya;Peshkauri;Vendhya;18;NE;>14 días
+Bakharus;Vendhya;Ayodha;Vendhya;26;NO;>14 días
 Bakharus;Vendhya;Khorala;Vendhya;28;NO;>14 días
-Bakharus;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);29;N;>14 días
-Bakharus;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);30;N;>14 días
 Bakharus;Vendhya;Yota-Pong;Kosala;30;NO;>14 días
-Bakharus;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);36;N;>14 días
-Bakharus;Vendhya;Secunderam;Kosala;37;NO;>14 días
+Bakharus;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);35;N;>14 días
+Bakharus;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);36;N;>14 días
+Bakharus;Vendhya;Khojur;Montañas Himelianas (Afghulis / Ghulistán);42;N;>14 días
+Bakharus;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);43;N;>14 días
 Shirakma;Vendhya;Bakharus;Vendhya;9;NO;
-Shirakma;Vendhya;Peshkauri;Vendhya;11;N;
-Shirakma;Vendhya;Ayodha;Vendhya;21;NO;>14 días
+Shirakma;Vendhya;Peshkauri;Vendhya;17;N;>14 días
 Shirakma;Vendhya;Jhelai;Vendhya;21;SO;>14 días
-Shirakma;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);28;N;>14 días
-Shirakma;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);33;N;>14 días
-Shirakma;Vendhya;Yota-Pong;Kosala;33;NO;>14 días
-Shirakma;Vendhya;Khorala;Vendhya;34;NO;>14 días
-Shirakma;Vendhya;Pauana;Meru (región de Sumeru Tso);37;N;>14 días
-Shirakma;Vendhya;Khojur;Montañas Himelianas (Afghulis / Ghulistán);38;N;>14 días
+Shirakma;Vendhya;Ayodha;Vendhya;29;NO;>14 días
+Shirakma;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);34;N;>14 días
+Shirakma;Vendhya;Khorala;Vendhya;36;NO;>14 días
+Shirakma;Vendhya;Yota-Pong;Kosala;37;NO;>14 días
+Shirakma;Vendhya;Pauana;Meru (región de Sumeru Tso);38;N;>14 días
+Shirakma;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);38;N;>14 días
+Shirakma;Vendhya;Issedon;Meru (región de Sumeru Tso);41;N;>14 días
 Jhelai;Vendhya;Bakharus;Vendhya;12;NE;
 Jhelai;Vendhya;Shirakma;Vendhya;19;NE;>14 días
 Jhelai;Vendhya;Khorala;Vendhya;21;N;>14 días
-Jhelai;Vendhya;Peshkauri;Vendhya;23;NE;>14 días
 Jhelai;Vendhya;Yota-Pong;Kosala;23;NO;>14 días
 Jhelai;Vendhya;Ayodha;Vendhya;26;N;>14 días
+Jhelai;Vendhya;Peshkauri;Vendhya;29;NE;>14 días
 Jhelai;Vendhya;Secunderam;Kosala;38;N;>14 días
-Jhelai;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);41;NE;>14 días
-Jhelai;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);42;N;>14 días
 Jhelai;Vendhya;Shomdakor;Meru (región de Sumeru Tso);47;N;>14 días
+Jhelai;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);47;N;>14 días
+Jhelai;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);47;NE;>14 días
 Yota-Pong;Kosala;Khorala;Vendhya;11;NE;
 Yota-Pong;Kosala;Ayodha;Vendhya;12;NE;
 Yota-Pong;Kosala;Secunderam;Kosala;15;N;>14 días
 Yota-Pong;Kosala;Jhelai;Vendhya;25;SE;>14 días
 Yota-Pong;Kosala;Shomdakor;Meru (región de Sumeru Tso);26;N;>14 días
-Yota-Pong;Kosala;Peshkauri;Vendhya;27;NE;>14 días
 Yota-Pong;Kosala;Shamballa;Meru (región de Sumeru Tso);28;N;>14 días
 Yota-Pong;Kosala;Djemal;Hyrkania;29;NO;>14 días
 Yota-Pong;Kosala;Bakharus;Vendhya;30;SE;>14 días
 Yota-Pong;Kosala;Thogara;Meru (región de Sumeru Tso);31;N;>14 días
+Yota-Pong;Kosala;Peshkauri;Vendhya;31;NE;>14 días
 Djemal;Hyrkania;Ashraf;Turan;3;SO;
 Djemal;Hyrkania;Kara-Sehr;Desierto de Iranistán;6;SO;
 Djemal;Hyrkania;Nagrul;Hyrkania;7;NO;

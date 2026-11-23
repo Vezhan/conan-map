@@ -566,7 +566,7 @@
 | Hanumar | Nemedia | 10 | SO |
 | Belverus | Nemedia | 12 | NO |
 | Thalia | Nemedia | 13 | NO |
-| Lanjau † | Corinthia | 13 | SE |
+| Lanjau † | Corinthia | 14 | SE |
 | Khumar Rhun | Corinthia | 16 (>14) | SE |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 17 (>14) | N |
 | Ianthe | Ophir | 18 (>14) | SO |
@@ -584,10 +584,10 @@
 | Ianthe | Ophir | 10 | SO |
 | Thalia | Nemedia | 14 | N |
 | Shamar | Aquilonia | 15 (>14) | SO |
-| Lanjau † | Corinthia | 16 (>14) | SE |
 | Castria | Aquilonia | 17 (>14) | NO |
 | Pergona | Ophir | 18 (>14) | S |
-| Khumar Rhun | Corinthia | 19 (>14) | SE |
+| Lanjau † | Corinthia | 19 (>14) | SE |
+| Khorshemish | Koth | 20 (>14) | S |
 
 ## Reino Fronterizo (Border Kingdom, al este de Aquilonia)
 
@@ -658,90 +658,90 @@
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Khumar Rhun | Corinthia | 3 | SO |
-| Lanjau † | Corinthia | 6 | SO |
 | Zahmahn | Corinthia | 8 | SE |
-| Kamalla † | Corinthia | 8 | S |
-| Khishtam | Corinthia | 12 | S |
-| Shadizar | Zamora | 17 (>14) | SE |
+| Lanjau † | Corinthia | 8 | SO |
+| Kamalla † | Corinthia | 11 | S |
+| Khishtam | Corinthia | 18 (>14) | S |
+| Shadizar | Zamora | 18 (>14) | SE |
 | Numalia | Nemedia | 20 (>14) | SO |
-| Zamindi | Zamora | 20 (>14) | SE |
-| Karvek | Koth | 20 (>14) | SE |
 | Yezud | Zamora | 21 (>14) | NE |
+| Khesron | Zamora | 21 (>14) | NE |
+| Zamindi | Zamora | 21 (>14) | SE |
 
 ### Khumar Rhun
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Lanjau † | Corinthia | 3 | SO |
 | Ezar-Bar-Kum | Corinthia | 4 | NE |
-| Kamalla † | Corinthia | 7 | SE |
+| Lanjau † | Corinthia | 5 | SO |
 | Zahmahn | Corinthia | 9 | SE |
-| Khishtam | Corinthia | 11 | S |
-| Shadizar | Zamora | 16 (>14) | SE |
+| Kamalla † | Corinthia | 11 | SE |
+| Khishtam | Corinthia | 16 (>14) | S |
 | Numalia | Nemedia | 17 (>14) | NO |
-| Zamindi | Zamora | 19 (>14) | SE |
-| Karvek | Koth | 19 (>14) | SE |
-| Hanumar | Nemedia | 20 (>14) | NO |
+| Shadizar | Zamora | 19 (>14) | SE |
+| Hanumar | Nemedia | 22 (>14) | NO |
+| Yezud | Zamora | 22 (>14) | NE |
+| Khesron | Zamora | 22 (>14) | NE |
 
 ### Zahmahn
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Kamalla † | Corinthia | 5 | SO |
+| Kamalla † | Corinthia | 6 | SO |
 | Ezar-Bar-Kum | Corinthia | 9 | NO |
 | Khumar Rhun | Corinthia | 9 | NO |
 | Shadizar | Zamora | 10 | SE |
-| Lanjau † | Corinthia | 12 | NO |
-| Khishtam | Corinthia | 12 | SO |
 | Zamindi | Zamora | 13 | NE |
+| Lanjau † | Corinthia | 14 | NO |
 | Larsha † | Zamora | 14 | SE |
 | Yezud | Zamora | 15 (>14) | NE |
 | Khesron | Zamora | 15 (>14) | NE |
+| Karvek | Koth | 16 (>14) | S |
 
 ### Lanjau †
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Khumar Rhun | Corinthia | 3 | NE |
-| Ezar-Bar-Kum | Corinthia | 7 | NE |
-| Kamalla † | Corinthia | 8 | SE |
-| Khishtam | Corinthia | 11 | SE |
-| Zahmahn | Corinthia | 12 | SE |
+| Khumar Rhun | Corinthia | 4 | NE |
+| Ezar-Bar-Kum | Corinthia | 8 | NE |
+| Zahmahn | Corinthia | 13 | SE |
 | Numalia | Nemedia | 14 | NO |
-| Hanumar | Nemedia | 17 (>14) | NO |
-| Ianthe | Ophir | 18 (>14) | SO |
-| Shadizar | Zamora | 18 (>14) | SE |
-| Khrosha | Koth | 18 (>14) | S |
+| Kamalla † | Corinthia | 14 | SE |
+| Khishtam | Corinthia | 17 (>14) | SE |
+| Hanumar | Nemedia | 19 (>14) | NO |
+| Ianthe | Ophir | 20 (>14) | SO |
+| Khrosha | Koth | 21 (>14) | S |
+| Pergona | Ophir | 22 (>14) | SO |
 
 ### Kamalla †
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Zahmahn | Corinthia | 5 | NE |
-| Khumar Rhun | Corinthia | 7 | NO |
-| Khishtam | Corinthia | 7 | SO |
-| Lanjau † | Corinthia | 8 | NO |
-| Ezar-Bar-Kum | Corinthia | 9 | N |
-| Shadizar | Zamora | 10 | SE |
-| Karvek | Koth | 12 | SE |
-| Zamindi | Zamora | 13 | NE |
-| Larsha † | Zamora | 14 | SE |
-| Khanyria | Khoraja | 14 | SE |
+| Zahmahn | Corinthia | 6 | NE |
+| Khumar Rhun | Corinthia | 11 | NO |
+| Khishtam | Corinthia | 11 | SO |
+| Ezar-Bar-Kum | Corinthia | 12 | N |
+| Shadizar | Zamora | 12 | SE |
+| Karvek | Koth | 14 | SE |
+| Lanjau † | Corinthia | 15 (>14) | NO |
+| Zamindi | Zamora | 15 (>14) | NE |
+| Larsha † | Zamora | 16 (>14) | SE |
+| Khanyria | Khoraja | 16 (>14) | SE |
 
 ### Khishtam
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Kamalla † | Corinthia | 5 | NE |
-| Khumar Rhun | Corinthia | 9 | N |
-| Lanjau † | Corinthia | 9 | NO |
-| Zahmahn | Corinthia | 10 | NE |
-| Ezar-Bar-Kum | Corinthia | 11 | N |
-| Karvek | Koth | 12 | SE |
-| Shadizar | Zamora | 14 | NE |
-| Khanyria | Khoraja | 14 | SE |
+| Kamalla † | Corinthia | 9 | NE |
+| Khumar Rhun | Corinthia | 14 | N |
+| Zahmahn | Corinthia | 15 (>14) | NE |
+| Lanjau † | Corinthia | 16 (>14) | NO |
 | Khrosha | Koth | 16 (>14) | SO |
-| Zamindi | Zamora | 17 (>14) | NE |
+| Karvek | Koth | 16 (>14) | SE |
+| Ezar-Bar-Kum | Corinthia | 17 (>14) | N |
+| Khanyria | Khoraja | 17 (>14) | SE |
+| Shadizar | Zamora | 18 (>14) | NE |
+| Meshken | Khoraja | 18 (>14) | S |
 
 ## Zamora
 
@@ -757,8 +757,8 @@
 | Larsha † | Zamora | 12 | S |
 | Zahmahn | Corinthia | 14 | SO |
 | Arenjun | Zamora | 16 (>14) | SE |
-| Kamalla † | Corinthia | 18 (>14) | SO |
 | Ashmir | Zamora | 18 (>14) | N |
+| Khauran | Khauran | 18 (>14) | S |
 
 ### Kharsho
 
@@ -787,8 +787,8 @@
 | Larsha † | Zamora | 10 | S |
 | Zahmahn | Corinthia | 14 | SO |
 | Arenjun | Zamora | 14 | SE |
-| Kamalla † | Corinthia | 16 (>14) | SO |
 | Khauran | Khauran | 16 (>14) | S |
+| Ashmir | Zamora | 17 (>14) | N |
 
 ### Komash
 
@@ -820,7 +820,6 @@
 | Khauran | Khauran | 10 | S |
 | Kandah | Khauran | 12 | S |
 | Zahmahn | Corinthia | 13 | SO |
-| Kamalla † | Corinthia | 13 | SO |
 | Karvek | Koth | 14 | S |
 
 ### Larsha †
@@ -839,7 +838,6 @@
 | Kharsho | Zamora | 13 | N |
 | Khanyria | Khoraja | 13 | S |
 | Zahmahn | Corinthia | 14 | NO |
-| Kamalla † | Corinthia | 14 | NO |
 
 ### Shadizar
 
@@ -852,10 +850,10 @@
 | Arenjun | Zamora | 9 | SE |
 | Karvek | Koth | 9 | S |
 | Zahmahn | Corinthia | 10 | NO |
-| Kamalla † | Corinthia | 10 | NO |
 | Khesron | Zamora | 10 | N |
 | Kandah | Khauran | 10 | SE |
 | Khanyria | Khoraja | 11 | S |
+| Kamalla † | Corinthia | 12 | NO |
 | Yezud | Zamora | 12 | N |
 | Kharsho | Zamora | 13 | N |
 
@@ -999,7 +997,7 @@
 | Anakia | Shem | 19 (>14) | S |
 | Hanumar | Nemedia | 20 (>14) | N |
 | Ghaza | Shem | 20 (>14) | S |
-| Lanjau † | Corinthia | 21 (>14) | NE |
+| Tarantia | Aquilonia | 22 (>14) | NO |
 
 ### Khrosha
 
@@ -1013,8 +1011,8 @@
 | Khorshemish | Koth | 15 (>14) | NO |
 | Nipor | Shem | 15 (>14) | SE |
 | Meshken | Khoraja | 16 (>14) | SE |
-| Lanjau † | Corinthia | 18 (>14) | N |
 | Khishtam | Corinthia | 18 (>14) | NE |
+| Ghaza | Shem | 18 (>14) | SO |
 
 ### Karvek
 
@@ -1027,9 +1025,8 @@
 | Meshken | Khoraja | 9 | S |
 | Khoraja | Khoraja | 10 | S |
 | Larsha † | Zamora | 11 | NE |
-| Kamalla † | Corinthia | 12 | NO |
 | Arenjun | Zamora | 12 | NE |
-| Khishtam | Corinthia | 14 | NO |
+| Kamalla † | Corinthia | 14 | NO |
 | Zamindi | Zamora | 14 | N |
 | Eruk | Shem | 14 | S |
 
@@ -1076,9 +1073,9 @@
 | Khoraja | Khoraja | 9 | S |
 | Shadizar | Zamora | 10 | N |
 | Larsha † | Zamora | 12 | N |
-| Kamalla † | Corinthia | 13 | NO |
 | Arenjun | Zamora | 13 | NE |
 | Eruk | Shem | 13 | SO |
+| Kamalla † | Corinthia | 15 (>14) | NO |
 
 ## Argos
 
@@ -2667,11 +2664,11 @@
 | Secunderam | Kosala | 15 (>14) | N |
 | Jhelai | Vendhya | 25 (>14) | SE |
 | Shomdakor | Meru (región de Sumeru Tso) | 26 (>14) | N |
-| Peshkauri | Vendhya | 27 (>14) | NE |
 | Shamballa | Meru (región de Sumeru Tso) | 28 (>14) | N |
 | Djemal | Hyrkania | 29 (>14) | NO |
 | Bakharus | Vendhya | 30 (>14) | SE |
 | Thogara | Meru (región de Sumeru Tso) | 31 (>14) | N |
+| Peshkauri | Vendhya | 31 (>14) | NE |
 
 ### Secunderam
 
@@ -2717,7 +2714,7 @@
 | Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 21 (>14) | SE |
 | Issedon | Meru (región de Sumeru Tso) | 23 (>14) | N |
 | Thogara | Meru (región de Sumeru Tso) | 24 (>14) | N |
-| Ayodha | Vendhya | 24 (>14) | S |
+| Ayodha | Vendhya | 25 (>14) | S |
 | Auzakia | Meru (región de Sumeru Tso) | 27 (>14) | N |
 
 ### Khurum
@@ -2729,7 +2726,7 @@
 | Thrdana | Meru (región de Sumeru Tso) | 20 (>14) | NO |
 | Pauana | Meru (región de Sumeru Tso) | 21 (>14) | N |
 | Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 21 (>14) | NO |
-| Peshkauri | Vendhya | 21 (>14) | S |
+| Peshkauri | Vendhya | 22 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 24 (>14) | N |
 | Shamballa | Meru (región de Sumeru Tso) | 25 (>14) | NO |
 | Auzakia | Meru (región de Sumeru Tso) | 28 (>14) | N |
@@ -2758,12 +2755,12 @@
 | Khojur † | Montañas Himelianas (Afghulis / Ghulistán) | 12 | NO |
 | Peshkauri | Vendhya | 16 (>14) | S |
 | Pauana | Meru (región de Sumeru Tso) | 26 (>14) | N |
-| Shirakma | Vendhya | 26 (>14) | S |
 | Thrdana | Meru (región de Sumeru Tso) | 27 (>14) | NO |
-| Bakharus | Vendhya | 27 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 29 (>14) | N |
-| Ayodha | Vendhya | 31 (>14) | SO |
 | Shamballa | Meru (región de Sumeru Tso) | 32 (>14) | NO |
+| Shirakma | Vendhya | 32 (>14) | S |
+| Auzakia | Meru (región de Sumeru Tso) | 33 (>14) | NO |
+| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 33 (>14) | NO |
 
 ## Meru (región de Sumeru Tso)
 
@@ -2880,29 +2877,29 @@
 |---|---|---:|:---:|
 | Yota-Pong | Kosala | 12 | SO |
 | Khorala † | Vendhya | 13 | SO |
-| Peshkauri | Vendhya | 15 (>14) | NE |
-| Bakharus | Vendhya | 18 (>14) | SE |
 | Secunderam | Kosala | 19 (>14) | NO |
-| Shirakma | Vendhya | 21 (>14) | SE |
+| Peshkauri | Vendhya | 19 (>14) | NE |
 | Khorbul | Montañas Himelianas (Afghulis / Ghulistán) | 25 (>14) | N |
-| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 26 (>14) | N |
+| Bakharus | Vendhya | 26 (>14) | SE |
+| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 27 (>14) | N |
 | Shomdakor | Meru (región de Sumeru Tso) | 28 (>14) | N |
 | Jhelai | Vendhya | 28 (>14) | S |
+| Shirakma | Vendhya | 29 (>14) | SE |
 
 ### Peshkauri
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Bakharus | Vendhya | 11 | SO |
-| Shirakma | Vendhya | 11 | S |
-| Ayodha | Vendhya | 15 (>14) | SO |
+| Shirakma | Vendhya | 17 (>14) | S |
 | Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 18 (>14) | N |
-| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 23 (>14) | N |
-| Jhelai | Vendhya | 25 (>14) | SO |
+| Bakharus | Vendhya | 18 (>14) | SO |
+| Ayodha | Vendhya | 19 (>14) | SO |
+| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 24 (>14) | N |
 | Khojur † | Montañas Himelianas (Afghulis / Ghulistán) | 27 (>14) | N |
-| Yota-Pong | Kosala | 27 (>14) | SO |
-| Khorala † | Vendhya | 28 (>14) | SO |
-| Pauana | Meru (región de Sumeru Tso) | 31 (>14) | N |
+| Jhelai | Vendhya | 31 (>14) | SO |
+| Yota-Pong | Kosala | 31 (>14) | SO |
+| Khorala † | Vendhya | 32 (>14) | SO |
+| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 34 (>14) | NO |
 
 ### Khorala †
 
@@ -2912,42 +2909,42 @@
 | Ayodha | Vendhya | 11 | NE |
 | Secunderam | Kosala | 20 (>14) | N |
 | Jhelai | Vendhya | 21 (>14) | S |
-| Peshkauri | Vendhya | 26 (>14) | NE |
 | Bakharus | Vendhya | 26 (>14) | SE |
 | Shomdakor | Meru (región de Sumeru Tso) | 29 (>14) | N |
+| Peshkauri | Vendhya | 30 (>14) | NE |
 | Shamballa | Meru (región de Sumeru Tso) | 31 (>14) | N |
-| Shirakma | Vendhya | 32 (>14) | SE |
 | Khorbul | Montañas Himelianas (Afghulis / Ghulistán) | 33 (>14) | N |
+| Thogara | Meru (región de Sumeru Tso) | 34 (>14) | N |
 
 ### Bakharus
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Shirakma | Vendhya | 9 | SE |
-| Peshkauri | Vendhya | 11 | NE |
 | Jhelai | Vendhya | 14 | SO |
-| Ayodha | Vendhya | 18 (>14) | NO |
+| Peshkauri | Vendhya | 18 (>14) | NE |
+| Ayodha | Vendhya | 26 (>14) | NO |
 | Khorala † | Vendhya | 28 (>14) | NO |
-| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 29 (>14) | N |
-| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 30 (>14) | N |
 | Yota-Pong | Kosala | 30 (>14) | NO |
-| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 36 (>14) | N |
-| Secunderam | Kosala | 37 (>14) | NO |
+| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 35 (>14) | N |
+| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 36 (>14) | N |
+| Khojur † | Montañas Himelianas (Afghulis / Ghulistán) | 42 (>14) | N |
+| Ghor | Montañas Himelianas (Afghulis / Ghulistán) | 43 (>14) | N |
 
 ### Shirakma
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Bakharus | Vendhya | 9 | NO |
-| Peshkauri | Vendhya | 11 | N |
-| Ayodha | Vendhya | 21 (>14) | NO |
+| Peshkauri | Vendhya | 17 (>14) | N |
 | Jhelai | Vendhya | 21 (>14) | SO |
-| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 28 (>14) | N |
-| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 33 (>14) | N |
-| Yota-Pong | Kosala | 33 (>14) | NO |
-| Khorala † | Vendhya | 34 (>14) | NO |
-| Pauana | Meru (región de Sumeru Tso) | 37 (>14) | N |
-| Khojur † | Montañas Himelianas (Afghulis / Ghulistán) | 38 (>14) | N |
+| Ayodha | Vendhya | 29 (>14) | NO |
+| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 34 (>14) | N |
+| Khorala † | Vendhya | 36 (>14) | NO |
+| Yota-Pong | Kosala | 37 (>14) | NO |
+| Pauana | Meru (región de Sumeru Tso) | 38 (>14) | N |
+| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 38 (>14) | N |
+| Issedon | Meru (región de Sumeru Tso) | 41 (>14) | N |
 
 ### Jhelai
 
@@ -2956,13 +2953,13 @@
 | Bakharus | Vendhya | 12 | NE |
 | Shirakma | Vendhya | 19 (>14) | NE |
 | Khorala † | Vendhya | 21 (>14) | N |
-| Peshkauri | Vendhya | 23 (>14) | NE |
 | Yota-Pong | Kosala | 23 (>14) | NO |
 | Ayodha | Vendhya | 26 (>14) | N |
+| Peshkauri | Vendhya | 29 (>14) | NE |
 | Secunderam | Kosala | 38 (>14) | N |
-| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 41 (>14) | NE |
-| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 42 (>14) | N |
 | Shomdakor | Meru (región de Sumeru Tso) | 47 (>14) | N |
+| Khurum | Montañas Himelianas (Afghulis / Ghulistán) | 47 (>14) | N |
+| Jugra | Montañas Himelianas (Afghulis / Ghulistán) | 47 (>14) | NE |
 
 ## Khitai
 
@@ -2972,13 +2969,13 @@
 |---|---|---:|:---:|
 | Chu-Chen | Khitai | 11 | NE |
 | Wantengri | Khitai | 14 | SE |
-| Shan-E-Sorkh | Khitai | 20 (>14) | S |
-| Paikang | Khitai | 24 (>14) | SE |
-| Shaulan | Khitai | 27 (>14) | S |
-| Ruo-Gen | Khitai | 36 (>14) | S |
+| Shan-E-Sorkh | Khitai | 23 (>14) | S |
+| Paikang | Khitai | 27 (>14) | SE |
+| Shaulan | Khitai | 33 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 43 (>14) | S |
 | Auzakia | Meru (región de Sumeru Tso) | 44 (>14) | S |
 | Pauana | Meru (región de Sumeru Tso) | 45 (>14) | S |
+| Ruo-Gen | Khitai | 46 (>14) | S |
 | Thogara | Meru (región de Sumeru Tso) | 48 (>14) | SO |
 
 ### Chu-Chen
@@ -2987,10 +2984,10 @@
 |---|---|---:|:---:|
 | Kusan | Khitai | 11 | SO |
 | Wantengri | Khitai | 12 | S |
-| Paikang | Khitai | 22 (>14) | S |
-| Shan-E-Sorkh | Khitai | 25 (>14) | S |
-| Shaulan | Khitai | 30 (>14) | S |
-| Ruo-Gen | Khitai | 38 (>14) | S |
+| Paikang | Khitai | 24 (>14) | S |
+| Shan-E-Sorkh | Khitai | 28 (>14) | S |
+| Shaulan | Khitai | 36 (>14) | S |
+| Ruo-Gen | Khitai | 48 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 51 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 53 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 53 (>14) | S |
@@ -3001,11 +2998,11 @@
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
 | Chu-Chen | Khitai | 12 | N |
-| Paikang | Khitai | 13 | S |
-| Shan-E-Sorkh | Khitai | 13 | SO |
 | Kusan | Khitai | 14 | NO |
-| Shaulan | Khitai | 18 (>14) | S |
-| Ruo-Gen | Khitai | 26 (>14) | S |
+| Paikang | Khitai | 16 (>14) | S |
+| Shan-E-Sorkh | Khitai | 16 (>14) | SO |
+| Shaulan | Khitai | 24 (>14) | S |
+| Ruo-Gen | Khitai | 36 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 43 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 45 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 45 (>14) | SO |
@@ -3015,27 +3012,27 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Wantengri | Khitai | 12 | N |
-| Shaulan | Khitai | 14 | SO |
-| Shan-E-Sorkh | Khitai | 15 (>14) | SO |
-| Ruo-Gen | Khitai | 20 (>14) | S |
-| Chu-Chen | Khitai | 21 (>14) | N |
-| Kusan | Khitai | 23 (>14) | NO |
-| Issedon | Meru (región de Sumeru Tso) | 44 (>14) | SO |
-| Pauana | Meru (región de Sumeru Tso) | 46 (>14) | SO |
-| Auzakia | Meru (región de Sumeru Tso) | 47 (>14) | SO |
-| Thogara | Meru (región de Sumeru Tso) | 51 (>14) | SO |
+| Wantengri | Khitai | 14 | N |
+| Shan-E-Sorkh | Khitai | 20 (>14) | SO |
+| Shaulan | Khitai | 21 (>14) | SO |
+| Chu-Chen | Khitai | 22 (>14) | N |
+| Kusan | Khitai | 25 (>14) | NO |
+| Ruo-Gen | Khitai | 30 (>14) | S |
+| Issedon | Meru (región de Sumeru Tso) | 49 (>14) | SO |
+| Auzakia | Meru (región de Sumeru Tso) | 51 (>14) | SO |
+| Pauana | Meru (región de Sumeru Tso) | 51 (>14) | SO |
+| Thogara | Meru (región de Sumeru Tso) | 55 (>14) | SO |
 
 ### Shan-E-Sorkh
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shaulan | Khitai | 8 | SE |
-| Wantengri | Khitai | 12 | NE |
-| Paikang | Khitai | 15 (>14) | NE |
-| Ruo-Gen | Khitai | 18 (>14) | S |
-| Kusan | Khitai | 19 (>14) | N |
-| Chu-Chen | Khitai | 24 (>14) | N |
+| Shaulan | Khitai | 12 | SE |
+| Wantengri | Khitai | 14 | NE |
+| Paikang | Khitai | 20 (>14) | NE |
+| Kusan | Khitai | 21 (>14) | N |
+| Chu-Chen | Khitai | 26 (>14) | N |
+| Ruo-Gen | Khitai | 27 (>14) | S |
 | Issedon | Meru (región de Sumeru Tso) | 33 (>14) | SO |
 | Auzakia | Meru (región de Sumeru Tso) | 35 (>14) | SO |
 | Pauana | Meru (región de Sumeru Tso) | 35 (>14) | SO |
@@ -3045,29 +3042,29 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shan-E-Sorkh | Khitai | 8 | NO |
-| Ruo-Gen | Khitai | 10 | S |
-| Paikang | Khitai | 14 | NE |
-| Wantengri | Khitai | 17 (>14) | N |
-| Kusan | Khitai | 26 (>14) | N |
-| Chu-Chen | Khitai | 29 (>14) | N |
-| Issedon | Meru (región de Sumeru Tso) | 31 (>14) | SO |
-| Pauana | Meru (región de Sumeru Tso) | 33 (>14) | SO |
-| Auzakia | Meru (región de Sumeru Tso) | 34 (>14) | SO |
-| Thogara | Meru (región de Sumeru Tso) | 38 (>14) | SO |
+| Shan-E-Sorkh | Khitai | 12 | NO |
+| Ruo-Gen | Khitai | 15 (>14) | S |
+| Paikang | Khitai | 21 (>14) | NE |
+| Wantengri | Khitai | 22 (>14) | N |
+| Kusan | Khitai | 31 (>14) | N |
+| Issedon | Meru (región de Sumeru Tso) | 32 (>14) | SO |
+| Pauana | Meru (región de Sumeru Tso) | 34 (>14) | SO |
+| Chu-Chen | Khitai | 34 (>14) | N |
+| Auzakia | Meru (región de Sumeru Tso) | 35 (>14) | SO |
+| Thogara | Meru (región de Sumeru Tso) | 39 (>14) | SO |
 
 ### Ruo-Gen
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shaulan | Khitai | 10 | N |
-| Shan-E-Sorkh | Khitai | 18 (>14) | N |
-| Paikang | Khitai | 20 (>14) | N |
-| Wantengri | Khitai | 25 (>14) | N |
-| Pauana | Meru (región de Sumeru Tso) | 34 (>14) | SO |
-| Issedon | Meru (región de Sumeru Tso) | 35 (>14) | SO |
-| Kusan | Khitai | 35 (>14) | N |
-| Thrdana | Meru (región de Sumeru Tso) | 37 (>14) | SO |
-| Chu-Chen | Khitai | 37 (>14) | N |
-| Auzakia | Meru (región de Sumeru Tso) | 38 (>14) | SO |
+| Shaulan | Khitai | 15 (>14) | N |
+| Shan-E-Sorkh | Khitai | 27 (>14) | N |
+| Paikang | Khitai | 30 (>14) | N |
+| Wantengri | Khitai | 34 (>14) | N |
+| Pauana | Meru (región de Sumeru Tso) | 36 (>14) | SO |
+| Issedon | Meru (región de Sumeru Tso) | 37 (>14) | SO |
+| Thrdana | Meru (región de Sumeru Tso) | 39 (>14) | SO |
+| Auzakia | Meru (región de Sumeru Tso) | 41 (>14) | SO |
+| Shamballa | Meru (región de Sumeru Tso) | 44 (>14) | SO |
+| Kusan | Khitai | 44 (>14) | N |
 
