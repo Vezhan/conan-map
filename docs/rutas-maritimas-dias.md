@@ -1,6 +1,6 @@
 # Rutas marinas entre puertos e islas de la Era Hiboria
 
-**Método:** rejilla hexagonal de 30 km; 3 hexágonos de mar por día (1 hexágono = 1/3 de día). Se cuentan todos los hexágonos del trayecto, incluidos los que separan cada ciudad del mar (hasta 2 hexágonos). Los barcos no atraviesan puertos ni islas intermedios. Ciudades costeras = a menos de unos 2 hexágonos del mar (el trazo grueso de la costa del mapa impide exigir adyacencia estricta). Todas las islas del Baacha (incluida Tortage) cuentan como una sola. Las redes de mar no se conectan entre sí en el mapa. Valores en días de viaje.
+**Método:** rejilla hexagonal de 30 millas (≈ 48 km); 3 hexágonos de mar por día (1 hexágono = 1/3 de día). Se cuentan todos los hexágonos del trayecto, incluidos los que separan cada ciudad del mar (hasta 2 hexágonos). Los barcos no atraviesan puertos ni islas intermedios. Ciudades costeras = a menos de unos 2 hexágonos del mar (el trazo grueso de la costa del mapa impide exigir adyacencia estricta). Todas las islas del Baacha (incluida Tortage) cuentan como una sola. Las redes de mar no se conectan entre sí en el mapa. Valores en días de viaje.
 
 
 ## Océano occidental (25 puertos/islas)

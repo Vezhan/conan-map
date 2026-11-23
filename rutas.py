@@ -7,7 +7,8 @@ Uso:
 
 HTML_RUTAS = rutas-hiboria.html del proyecto (lleva datos, mapa, red de ciudades y reglas incrustados).
 Por defecto: red de ciudades vecinas (X=14 dias) y viaje por mar permitido. --sin-red = ruta directa hex a hex; --sin-mar = solo tierra.
-Km estimados = hexagonos recorridos x 26 km (hexagono de 30 km vertice a vertice = 25,98 km entre centros).
+Distancia estimada = hexagonos recorridos x 26 millas (hexagono de 30 millas vertice a vertice = 25,98 millas entre centros).
+Por defecto se muestra en millas; con --km se convierte a kilometros (1 milla = 1,609344 km).
 Modelo: 3 hex/dia en mar; tierra llanura 1 dia/hex, desierto/colinas/pantano/bosque/tundra 2, montana/jungla 3.
 """
 import sys, re, json, io, base64, heapq, argparse, unicodedata
@@ -291,8 +292,13 @@ class Net:
         return out
 
 
+UNIT_KM = '--km' in sys.argv
+if UNIT_KM:
+    sys.argv.remove('--km')
+
 def km(n):
-    return f'{round(n * 15 * 3 ** .5):,}'.replace(',', '.') + ' km'
+    v = n * 15 * 3 ** .5 * (1.609344 if UNIT_KM else 1)
+    return f'{round(v):,}'.replace(',', '.') + (' km' if UNIT_KM else ' mi')
 
 
 def fmt(t):

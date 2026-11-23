@@ -1,8 +1,8 @@
 # Rutas de la Era Hiboria
 
-Calculadora de días y kilómetros de viaje para campañas de *Conan: La Era Hiboria* (Monolith), sobre un mapa de hexágonos de 30 km (vértice a vértice).
+Calculadora de días y millas (o kilómetros) de viaje para campañas de *Conan: La Era Hiboria* (Monolith), sobre un mapa de hexágonos de 30 millas (vértice a vértice).
 
-- **Página web:** `index.html`. Elige origen, destino, hasta 5 paradas, ciudades o países a evitar y si se viaja por mar. Muestra el recorrido sobre el mapa, los días por tipo de terreno y los km.
+- **Página web:** `index.html`. Elige origen, destino, hasta 5 paradas, ciudades o países a evitar y si se viaja por mar. Muestra el recorrido sobre el mapa, los días por tipo de terreno y las distancias, con un interruptor para verlas en millas (por defecto) o en kilómetros.
 - **Script:** `rutas.py`. Hace lo mismo desde la terminal y guarda una imagen PNG con la ruta.
 - **Tablas:** `docs/` (distancias entre ciudades por tierra y mar, localizaciones).
 
@@ -25,17 +25,17 @@ Por defecto usa la red de ciudades vecinas y permite el mar. Ejemplo:
 
 ```
 python3 rutas.py index.html ruta.png Akbitana Asgalun --evitar Estigia
-# 42,3 dias, ~1.221 km
+# 42,3 dias, ~1.221 mi   (añade --km para kilómetros)
 ```
 
 Los nombres admiten coincidencia parcial y sin tildes si es única.
 
 ## Reglas del modelo
 
-- Hexágono de 30 km vértice a vértice: lado 15 km, 25,98 km entre centros, ≈ 585 km².
+- Hexágono de 30 millas vértice a vértice: lado 15 millas, 25,98 millas entre centros, ≈ 585 mi² (≈ 48 km vértice a vértice, 42 km entre centros, ≈ 1.515 km²). La barra de escala del mapa no imprime la unidad; se asume millas.
 - Tierra, días por hexágono al que se entra: llanura 1; desierto, colinas, pantano, bosque y tundra 2; montaña y jungla 3. El agua no se cruza a pie. Los ríos y los caminos no están modelados.
 - Mar: 3 hexágonos al día. Los barcos solo paran en ciudades costeras e islas.
-- Kilómetros estimados = hexágonos recorridos × 26 (25,98).
+- Millas estimadas = hexágonos recorridos × 26 (25,98); en kilómetros, × 1,609344.
 - Red de ciudades: se enlazan las ciudades a menos de 14 días por tierra (coste direccional), más enlaces por mar y 10 «enlaces puente» para que la red sea una sola.
 - Evitar un país bloquea sus ciudades y los hexágonos de tierra contiguos del mismo color en el mapa (aproximación: reinos vecinos del mismo color se bloquean juntos). El mar sigue permitido.
 - Si con las exclusiones no hay ruta, en modo red se llega a la ciudad alcanzable más cercana al destino y se avisa.

@@ -41,6 +41,10 @@ button:hover{border-color:var(--accent)}
 .check{display:flex;gap:10px;align-items:center;font-weight:600}
 .check input{width:20px;height:20px;accent-color:var(--accent)}
 .opts{display:grid;gap:10px}
+.unit{display:flex;align-items:center;gap:6px;font-weight:600}
+.unit span{margin-right:4px}
+.unit button{padding:6px 12px}
+.unit button[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
 .opts .sub{display:grid;grid-template-columns:1fr 110px;gap:10px;align-items:center;font-size:14px;color:var(--muted)}
 #result{display:grid;gap:14px}
 .total{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
@@ -109,7 +113,7 @@ canvas{display:block;width:100%;height:auto;border-radius:8px;border:1px solid v
 <div class="wrap">
 <header>
   <h1>Rutas de la Era Hiboria</h1>
-  <p>Elige origen y destino para ver los días de viaje sobre la rejilla de hexágonos de 30 km de vértice a vértice (26 km por hexágono, un día de camino en llanura), con la ruta marcada en el mapa.</p>
+  <p id="intro"></p>
 </header>
 <main>
   <section class="card" aria-label="Ruta">
@@ -124,6 +128,7 @@ canvas{display:block;width:100%;height:auto;border-radius:8px;border:1px solid v
         <button type="button" id="swap" title="Intercambiar origen y destino" aria-label="Intercambiar origen y destino">&#8645;</button>
       </div>
       <div class="opts">
+        <div class="unit" role="group" aria-label="Unidad de distancia"><span>Distancias en</span><button type="button" id="u-mi" aria-pressed="true">Millas</button><button type="button" id="u-km" aria-pressed="false">Kilómetros</button></div>
         <label class="check" for="sea"><input type="checkbox" id="sea" checked>Incluir viaje por mar</label>
         <label class="check" for="net"><input type="checkbox" id="net">Usar red de ciudades vecinas (saltos de hasta 14 días)</label>
         <div class="sub"><label for="extra" style="font-weight:400;color:var(--muted)">Días extra por cada embarque</label><input type="number" id="extra" min="0" max="10" step="0.5" value="0"></div>
@@ -418,7 +423,10 @@ function legs(path,extra){
   }
   return out;
 }
-const KMH=15*Math.sqrt(3),fkm=n=>Math.round(n*KMH).toLocaleString('es-ES',{useGrouping:'always'})+' km';
+const MIH=15*Math.sqrt(3),MI2KM=1.609344;let UNIT='mi';try{if(localStorage.getItem('unit')==='km')UNIT='km';}catch(e){}
+const fkm=n=>Math.round(n*MIH*(UNIT==='km'?MI2KM:1)).toLocaleString('es-ES',{useGrouping:'always'})+(UNIT==='km'?' km':' mi');
+function setIntro(){const k=UNIT==='km',f=v=>Math.round(v*(k?MI2KM:1)),u=k?'km':'millas';$('intro').textContent='Elige origen y destino para ver los días de viaje sobre la rejilla de hexágonos de '+f(30)+' '+u+' de vértice a vértice ('+f(26)+' '+u+' por hexágono, un día de camino en llanura), con la ruta marcada en el mapa.';}
+setIntro();
 function plural(n,s,p){return n+' '+(n===1?s:p);}
 let stops=[];
 function renderStops(){
@@ -546,6 +554,9 @@ function draw(){
   dot(D.nodes[cur.a],'#14733f',true,true);dot(D.nodes[cur.b],'#111',true,true);
 }
 ['sea','extra','net'].forEach(id=>$(id).addEventListener('input',render));
+function setUnit(u){UNIT=u;try{localStorage.setItem('unit',u);}catch(e){}$('u-mi').setAttribute('aria-pressed',u==='mi');$('u-km').setAttribute('aria-pressed',u==='km');setIntro();render();}
+$('u-mi').addEventListener('click',()=>setUnit('mi'));$('u-km').addEventListener('click',()=>setUnit('km'));
+$('u-mi').setAttribute('aria-pressed',UNIT==='mi');$('u-km').setAttribute('aria-pressed',UNIT==='km');
 $('swap').addEventListener('click',()=>{const t=fromPick.value;fromPick.value=toPick.value;toPick.value=t;stops.reverse();renderStops();render();});
 $('addstop').addEventListener('click',()=>{if(stops.length<5){stops.push(fromPick.value);renderStops();render();}});
 $('fit').addEventListener('click',()=>{fitView();draw();});

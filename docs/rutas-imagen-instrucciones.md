@@ -35,8 +35,8 @@ Cuando el usuario pida «la ruta de A a B» (o una imagen de ella), generar un P
 Mapa recortado a la ruta con hexágonos rojos (tierra) y morados (mar y acceso a puerto), marcadores A/B y paradas numeradas, y un panel con total de días, días por tipo de terreno y desglose por tramo (cada tramo es una conexión entre ciudades vecinas).
 
 ## Reglas del modelo (por si hay que explicarlas)
-- Hexágono de 30 km de vértice a vértice (lado 15 km, 25,98 km entre centros, ≈ 585 km²). Un día de camino en llanura = 1 hexágono ≈ 26 km. Mar: 3 hexágonos/día.
-- Kilómetros estimados = hexágonos recorridos × 26 km (25,98) (tierra, mar y total). La imagen y la página los muestran junto a los días. Es una estimación: no cuenta rodeos dentro del hexágono.
+- Hexágono de 30 millas de vértice a vértice (lado 15 millas, 25,98 millas entre centros, ≈ 585 mi²; ≈ 48 km, 42 km y ≈ 1.515 km²). Un día de camino en llanura = 1 hexágono ≈ 26 millas (42 km). Mar: 3 hexágonos/día.
+- Millas estimadas = hexágonos recorridos × 26 (25,98) (tierra, mar y total); en kilómetros, × 1,609344. La imagen (por defecto millas, `--km` para kilómetros) y la página (interruptor millas/kilómetros) las muestran junto a los días. Es una estimación: no cuenta rodeos dentro del hexágono.
 - Tierra, días por hexágono: llanura 1; desierto, colinas, pantano, bosque y tundra 2; montaña y jungla 3. El agua no se cruza a pie. Los ríos y los caminos no están modelados.
 - Los barcos solo paran en ciudades costeras e islas (no atraviesan puertos ni islas).
 - Terreno actualizado el 23/11/2026: se quitaron las colinas manuales del centro de Shem (ahora llanura) y se añadieron bosque y tundra (Pictland y Marcas Bossonianas pasan de jungla a bosque; Khitai pasa de jungla a bosque salvo «Lost Jungle»; bosques parciales en Aquilonia, Nemedia, Zingara, Gunderland, Pedassa, Koth y Colchian; tundra y taiga en el norte).

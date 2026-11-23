@@ -1,6 +1,6 @@
 # Distancias en días de viaje por tierra entre ciudades de la Era Hiboria
 
-**Método:** rejilla hexagonal de 30 km vértice a vértice; ruta de menor coste; cada hexágono al que se entra cuesta 1 día (llanura), 2 días (desierto, colinas, pantano, bosque, tundra) o 3 días (jungla, montaña). El mar y los lagos no se cruzan. † = ciudad muerta.
+**Método:** rejilla hexagonal de 30 millas (≈ 48 km) vértice a vértice; ruta de menor coste; cada hexágono al que se entra cuesta 1 día (llanura), 2 días (desierto, colinas, pantano, bosque, tundra) o 3 días (jungla, montaña). El mar y los lagos no se cruzan. † = ciudad muerta.
 
 **Rumbo:** dirección aproximada del destino respecto al origen (N, NE, SE, S, SO, NO). Las filas marcadas «>14 días» se añaden solo cuando la ciudad tiene menos de 10 vecinos dentro de 14 días.
 
