@@ -9,7 +9,8 @@ Cuando el usuario pida «la ruta de A a B» (o una imagen de ella), generar un P
 ## Pasos
 1. `project_read` de `claude/rutas-hiboria.html` y de `claude/rutas.py`. Al ser grande, la herramienta guarda el HTML en un archivo local y devuelve su ruta. El script llega como texto: guardarlo como `rutas.py`.
 2. Ver nombres válidos si hay dudas: `python3 rutas.py RUTA_HTML --lista` (formato `Ciudad | Reino`). Admite coincidencia parcial sin tildes si es única.
-3. Generar: `python3 rutas.py RUTA_HTML salida.png ORIGEN DESTINO [--paradas "A,B"] [--evitar "Ghaza,Argos"] [--sin-mar] [--sin-red] [--embarque DIAS]`
+3. Generar: `python3 rutas.py RUTA_HTML salida.png ORIGEN DESTINO [--paradas "A,B"] [--evitar "Ghaza,Argos"] [--sin-mar] [--sin-red] [--embarque DIAS] [--ritmo pie|caravana|ejercito|caballo|MILLAS] [--km]`
+   - `--ritmo`: ritmo en tierra, en millas/día en llanura. Pie 26 (por defecto), caravana 18, ejército 18, caballo 40. Los días de tierra se multiplican por 26/ritmo; el mar no cambia. La red de ciudades vecinas se define a ritmo de a pie.
    - Hasta 5 paradas intermedias obligatorias, en orden.
    - **Por defecto usa la red de ciudades vecinas y permite el mar.**
    - `--sin-red`: ruta directa hex a hex (la más corta posible, sin pasar por ciudades vecinas).

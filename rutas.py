@@ -65,13 +65,14 @@ def hline(a, b, rows):
 
 
 class Net:
-    def __init__(s, D):
+    def __init__(s, D, pf=1.0):
+        s.pf = pf
         s.D = D; s.rows = D['rows']; s.cols = D['cols']
         s.N = s.rows * s.cols; s.K = len(D['nodes'])
         t = [int(ch, 36) for ch in D['terr']]
         s.t = t
         s.sea = [x >= 16 for x in t]
-        s.cost = [LC[x & 15] * 3 if (x & 15) != 6 else None for x in t]
+        s.cost = [LC[x & 15] * 3 * pf if (x & 15) != 6 else None for x in t]
         s.landNodes = {}; s.seaNodes = {}; s.bH = set(); s.bN = set(); s.shade = set()
         for k, n in enumerate(D['nodes']):
             if n[4] >= 0: s.landNodes.setdefault(n[4], []).append(k)
@@ -193,7 +194,7 @@ class Net:
     # ---- red de ciudades vecinas ----
     def net_init(s, E, EP):
         s.E = E; K = s.K
-        s.LE = [(e[0], e[1], [e[2] * 3, e[3] * 3], EP[i]) for i, e in enumerate(E['land'])]
+        s.LE = [(e[0], e[1], [e[2] * 3 * s.pf, e[3] * 3 * s.pf], EP[i]) for i, e in enumerate(E['land'])]
         s.ADJL = [[] for _ in range(K)]; s.ADJS = [[] for _ in range(K)]; s.BR = set()
         for i, e in enumerate(E['land']):
             s.ADJL[e[0]].append((e[1], i, 0)); s.ADJL[e[1]].append((e[0], i, 1))
@@ -313,6 +314,7 @@ def main():
     ap.add_argument('--embarque', type=float, default=0.0); ap.add_argument('--lista', action='store_true')
     ap.add_argument('--evitar', default='', help='ciudades o paises a evitar, separados por comas')
     ap.add_argument('--escala', type=float, default=1.0, help='escala del mapa (1 = 3850 px de ancho)')
+    ap.add_argument('--ritmo', default='pie', help='ritmo en tierra: pie (26 mi/dia), caravana (18), ejercito (18), caballo (40) o un numero de millas/dia')
     a = ap.parse_args()
     D, img0, E, EP = load(a.html)
     nodes = D['nodes']
@@ -328,7 +330,12 @@ def main():
         sys.exit(f'Nombre no valido o ambiguo: {q!r} ({[nodes[i][0] for i in c][:6]})')
     pts = [find(a.origen)] + [find(x) for x in a.paradas.split(',') if x.strip()] + [find(a.destino)]
     if len(pts) > 7: sys.exit('Maximo 5 paradas')
-    P = Net(D); use_sea = not a.sin_mar
+    RITMOS = {'pie': 26, 'caravana': 18, 'ejercito': 18, 'ejército': 18, 'caballo': 40}
+    try: mpd = RITMOS.get(norm(a.ritmo)) or float(a.ritmo)
+    except ValueError: sys.exit(f'--ritmo no valido: {a.ritmo!r} (pie, caravana, ejercito, caballo o millas/dia)')
+    if mpd <= 0: sys.exit('--ritmo debe ser positivo')
+    PF = 26 / mpd
+    P = Net(D, PF); use_sea = not a.sin_mar
     net_on = not a.sin_red
     if net_on and E is None:
         print('AVISO: el HTML no lleva la red de ciudades; uso ruta directa.', file=sys.stderr); net_on = False
@@ -407,11 +414,11 @@ def main():
     lines = [('t', f"{nodes[pts[0]][0]} → {nodes[pts[-1]][0]}"),
              ('b', f"{fmt(tot)} días  ·  ≈ {km(hl + sh)}" + (f"  ·  {len(pts)-2} parada(s)" if len(pts) > 2 else '')),
              ('s', f"Tierra {fmt(tl)} d ({km(hl)})  ·  Mar {fmt(st)} d ({km(sh)})" + (f"  ·  Embarque {fmt(emb)} d" if emb else ''))]
-    lines.append(('s', 'Red de ciudades vecinas' if net_on else 'Ruta directa'))
+    lines.append(('s', ('Red de ciudades vecinas' if net_on else 'Ruta directa') + f"  ·  Ritmo en tierra: {mpd:g} {'km' if UNIT_KM else 'mi'}/día".replace(f'{mpd:g} km', f'{round(mpd * 1.609344)} km')))
     if desc_ev: lines.append(('s', 'Evitado: ' + '; '.join(desc_ev)))
     rows_t = []
     for i, n in enumerate(th):
-        if n: rows_t.append((SW[i], NAMES[i].capitalize(), f'{n} hex. · {km(n)}', f'{fmt(n * LC[i] * 3)} d'))
+        if n: rows_t.append((SW[i], NAMES[i].capitalize(), f'{n} hex. · {km(n)}', f'{fmt(n * LC[i] * 3 * PF)} d'))
     if sh: rows_t.append(('#6ccff5', 'Mar', f'{sh} hex. · {km(sh)}', f'{fmt(st)} d'))
     if emb: rows_t.append(('#999999', 'Embarque', '', f'{fmt(emb)} d'))
     steps = []

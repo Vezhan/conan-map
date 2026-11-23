@@ -25,7 +25,7 @@ Por defecto usa la red de ciudades vecinas y permite el mar. Ejemplo:
 
 ```
 python3 rutas.py index.html ruta.png Akbitana Asgalun --evitar Estigia
-# 42,3 dias, ~1.221 mi   (añade --km para kilómetros)
+# 42,3 dias, ~1.221 mi   (añade --km para kilómetros; --ritmo pie|caravana|ejercito|caballo|MILLAS)
 ```
 
 Los nombres admiten coincidencia parcial y sin tildes si es única.
