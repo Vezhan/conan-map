@@ -144,7 +144,7 @@ canvas{display:block;width:100%;height:auto;border-radius:8px;border:1px solid v
   </section>
   <section class="card" aria-label="Mapa">
     <div class="maphead">
-      <div class="legend"><span><i style="background:#d92d20"></i>Hexágonos por tierra</span><span><i style="background:#b45309"></i>Paradas</span><span><i style="background:#6d28d9"></i>Hexágonos por mar</span><span><i style="background:#14733f"></i>Origen</span><span><i style="background:#111"></i>Destino</span><span><i style="background:#555"></i>Evitado</span></div>
+      <div class="legend"><span><i style="background:#fff;border:3px solid #d92d20"></i>Hexágonos por tierra (borde)</span><span><i style="background:#b45309"></i>Paradas</span><span><i style="background:#6ccff5;border:3px solid #6d28d9"></i>Hexágonos por mar (borde)</span><span><i style="background:#14733f"></i>Origen</span><span><i style="background:#111"></i>Destino</span><span><i style="background:#555"></i>Evitado</span></div>
       <div class="btns"><button type="button" id="fit">Ajustar a la ruta</button><button type="button" id="full">Mapa completo</button></div>
     </div>
     <canvas id="map" width="1100" height="760"></canvas>
@@ -537,10 +537,10 @@ function draw(){
   cur.paths.forEach(p=>p.forEach(v=>{
     if(v>=2*N)return;
     const sea=v>=N;hexPath(ctx,sea?v-N:v,k);
-    ctx.fillStyle=sea?'rgba(109,40,217,.55)':'rgba(217,45,32,.6)';ctx.fill();
-    ctx.lineWidth=Math.max(1,k*1.2);ctx.strokeStyle=sea?'#3b0f8c':'#7a130c';ctx.stroke();
+    ctx.globalAlpha=.85;ctx.fillStyle=sea?SW[6]:SW[parseInt(D.terr[v],36)&15];ctx.fill();ctx.globalAlpha=1;
+    ctx.lineWidth=Math.max(1.5,k*1.6);ctx.strokeStyle=sea?'#6d28d9':'#d92d20';ctx.stroke();
   }));
-  cur.legs.forEach(l=>{if(l.acc)l.acc.forEach(v=>{hexPath(ctx,v,k);ctx.fillStyle='rgba(109,40,217,.55)';ctx.fill();ctx.lineWidth=Math.max(1,k*1.2);ctx.strokeStyle='#3b0f8c';ctx.stroke();});});
+  cur.legs.forEach(l=>{if(l.acc)l.acc.forEach(v=>{hexPath(ctx,v,k);ctx.globalAlpha=.85;ctx.fillStyle=SW[6];ctx.fill();ctx.globalAlpha=1;ctx.lineWidth=Math.max(1.5,k*1.6);ctx.strokeStyle='#6d28d9';ctx.stroke();});});
   const dot=(n,fillc,label,big,num)=>{
     const x=(n[2]-view.x)*k,y=(n[3]-view.y)*k;
     ctx.beginPath();ctx.arc(x,y,big?9:5,0,7);ctx.fillStyle=fillc;ctx.fill();ctx.lineWidth=2.5;ctx.strokeStyle='#fff';ctx.stroke();

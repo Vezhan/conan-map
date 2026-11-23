@@ -364,7 +364,11 @@ def main():
     allv = []
     for v in P.shade: dr.polygon(hexv(v), fill=(40, 40, 40, 70))
     def paint(v, sea):
-        dr.polygon(hexv(v), fill=(109, 40, 217, 150) if sea else (217, 45, 32, 160), outline=(59, 15, 140, 255) if sea else (122, 19, 12, 255))
+        c = SW[6] if sea else SW[P.t[v] & 15]
+        rgb = tuple(int(c[i:i + 2], 16) for i in (1, 3, 5))
+        pts_ = hexv(v)
+        dr.polygon(pts_, fill=rgb + (215,))
+        dr.line(pts_ + [pts_[0]], fill=(109, 40, 217, 255) if sea else (217, 45, 32, 255), width=3, joint='curve')
         allv.append(v)
     for _, _, _, path, legs in stages:
         for v in path:
