@@ -1,0 +1,2036 @@
+﻿Origen;Reino origen;Destino;Reino destino;Días de viaje;Rumbo;Observaciones
+Lireigh;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;21;SE;>14 días
+Lireigh;Nordheim;Brutheim;Nordheim;26;SE;>14 días
+Lireigh;Nordheim;Tholeus;Aquilonia;31;S;>14 días
+Lireigh;Nordheim;Galparan;Aquilonia;35;S;>14 días
+Lireigh;Nordheim;Vicella;Aquilonia;36;SE;>14 días
+Lireigh;Nordheim;Aloe;Nordheim;37;SE;>14 días
+Lireigh;Nordheim;Velithua;Aquilonia;37;S;>14 días
+Lireigh;Nordheim;Rhmen;Cimmeria;38;SE;>14 días
+Lireigh;Nordheim;Khrat;Cimmeria;39;SE;>14 días
+Lireigh;Nordheim;Torh;Aquilonia;40;S;>14 días
+Aloe;Nordheim;Brutheim;Nordheim;11;SO;
+Aloe;Nordheim;Haloga;Hiperbórea;15;SE;>14 días
+Aloe;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;S;>14 días
+Aloe;Nordheim;Sistona;Hiperbórea;24;SE;>14 días
+Aloe;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;S;>14 días
+Aloe;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;S;>14 días
+Aloe;Nordheim;Pohiola;Hiperbórea;27;SE;>14 días
+Aloe;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;29;SO;>14 días
+Aloe;Nordheim;Amelius;Aquilonia;34;S;>14 días
+Aloe;Nordheim;Rhmen;Cimmeria;34;SO;>14 días
+Brutheim;Nordheim;Aloe;Nordheim;11;NE;
+Brutheim;Nordheim;Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;18;SO;>14 días
+Brutheim;Nordheim;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);18;S;>14 días
+Brutheim;Nordheim;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);21;S;>14 días
+Brutheim;Nordheim;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;S;>14 días
+Brutheim;Nordheim;Lireigh;Nordheim;26;NO;>14 días
+Brutheim;Nordheim;Haloga;Hiperbórea;26;NE;>14 días
+Brutheim;Nordheim;Amelius;Aquilonia;28;S;>14 días
+Brutheim;Nordheim;Rhmen;Cimmeria;28;S;>14 días
+Brutheim;Nordheim;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);28;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Brutheim;Nordheim;17;NE;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Khrat;Cimmeria;18;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Lireigh;Nordheim;20;NO;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Vicella;Aquilonia;22;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Rhmen;Cimmeria;23;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Tholeus;Aquilonia;23;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Galparan;Aquilonia;25;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SE;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Amelius;Aquilonia;27;S;>14 días
+Aldea del nacimiento de Conan (Village of Conan's Birth);Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);27;SE;>14 días
+Haloga;Hiperbórea;Aloe;Nordheim;14;NO;
+Haloga;Hiperbórea;Pohiola;Hiperbórea;18;SE;>14 días
+Haloga;Hiperbórea;Sistona;Hiperbórea;20;S;>14 días
+Haloga;Hiperbórea;Brutheim;Nordheim;25;SO;>14 días
+Haloga;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SO;>14 días
+Haloga;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);29;SO;>14 días
+Haloga;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);30;SO;>14 días
+Haloga;Hiperbórea;Amelius;Aquilonia;38;SO;>14 días
+Haloga;Hiperbórea;Rhmen;Cimmeria;38;SO;>14 días
+Haloga;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);38;SO;>14 días
+Pohiola;Hiperbórea;Sistona;Hiperbórea;10;SO;
+Pohiola;Hiperbórea;Haloga;Hiperbórea;18;NO;>14 días
+Pohiola;Hiperbórea;Aloe;Nordheim;26;NO;>14 días
+Pohiola;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);31;SO;>14 días
+Pohiola;Hiperbórea;Ashmir;Zamora;31;S;>14 días
+Pohiola;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);33;SO;>14 días
+Pohiola;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
+Pohiola;Hiperbórea;Brutheim;Nordheim;35;NO;>14 días
+Pohiola;Hiperbórea;Komash;Zamora;38;S;>14 días
+Pohiola;Hiperbórea;Yaralet;Turan;38;SE;>14 días
+Nuaowyddon;Pictland;Gwawela;Pictland;30;S;>14 días
+Nuaowyddon;Pictland;Tholeus;Aquilonia;34;SE;>14 días
+Nuaowyddon;Pictland;Velithua;Aquilonia;36;SE;>14 días
+Nuaowyddon;Pictland;Galparan;Aquilonia;37;SE;>14 días
+Nuaowyddon;Pictland;Torh;Aquilonia;39;SE;>14 días
+Nuaowyddon;Pictland;Vicella;Aquilonia;39;SE;>14 días
+Nuaowyddon;Pictland;Rhmen;Cimmeria;41;SE;>14 días
+Nuaowyddon;Pictland;Skandag;Aquilonia;42;S;>14 días
+Nuaowyddon;Pictland;Khrat;Cimmeria;42;SE;>14 días
+Nuaowyddon;Pictland;Amelius;Aquilonia;43;SE;>14 días
+Gwawela;Pictland;Skandag;Aquilonia;12;SE;
+Gwawela;Pictland;Velithua;Aquilonia;13;NE;
+Gwawela;Pictland;Torh;Aquilonia;14;SE;
+Gwawela;Pictland;Thenitea;Aquilonia;18;S;>14 días
+Gwawela;Pictland;Funirus;Aquilonia;20;SE;>14 días
+Gwawela;Pictland;Kormon;Aquilonia;22;SE;>14 días
+Gwawela;Pictland;Coyaga;Aquilonia;23;S;>14 días
+Gwawela;Pictland;Lor;Aquilonia;23;S;>14 días
+Gwawela;Pictland;Galparan;Aquilonia;24;NE;>14 días
+Gwawela;Pictland;Tholeus;Aquilonia;24;NE;>14 días
+Velithua;Aquilonia;Torh;Aquilonia;5;S;
+Velithua;Aquilonia;Skandag;Aquilonia;8;SO;
+Velithua;Aquilonia;Kormon;Aquilonia;11;SE;
+Velithua;Aquilonia;Funirus;Aquilonia;11;S;
+Velithua;Aquilonia;Tholeus;Aquilonia;11;NE;
+Velithua;Aquilonia;Galparan;Aquilonia;12;NE;
+Velithua;Aquilonia;Thenitea;Aquilonia;13;SO;
+Velithua;Aquilonia;Lor;Aquilonia;14;S;
+Velithua;Aquilonia;Gwawela;Pictland;15;SO;>14 días
+Velithua;Aquilonia;Vicella;Aquilonia;15;NE;>14 días
+Skandag;Aquilonia;Velithua;Aquilonia;6;NE;
+Skandag;Aquilonia;Torh;Aquilonia;6;SE;
+Skandag;Aquilonia;Thenitea;Aquilonia;9;SO;
+Skandag;Aquilonia;Funirus;Aquilonia;10;SE;
+Skandag;Aquilonia;Gwawela;Pictland;12;NO;
+Skandag;Aquilonia;Coyaga;Aquilonia;12;S;
+Skandag;Aquilonia;Lor;Aquilonia;13;S;
+Skandag;Aquilonia;Kormon;Aquilonia;14;SE;
+Skandag;Aquilonia;Galparan;Aquilonia;16;NE;>14 días
+Skandag;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
+Torh;Aquilonia;Velithua;Aquilonia;5;N;
+Torh;Aquilonia;Funirus;Aquilonia;6;SE;
+Torh;Aquilonia;Skandag;Aquilonia;8;NO;
+Torh;Aquilonia;Kormon;Aquilonia;8;SE;
+Torh;Aquilonia;Lor;Aquilonia;11;S;
+Torh;Aquilonia;Thenitea;Aquilonia;12;SO;
+Torh;Aquilonia;Galparan;Aquilonia;12;NE;
+Torh;Aquilonia;Tarantia;Aquilonia;12;SE;
+Torh;Aquilonia;Coyaga;Aquilonia;13;SO;
+Torh;Aquilonia;Elymir;Aquilonia;13;S;
+Torh;Aquilonia;Tholeus;Aquilonia;14;NE;
+Thenitea;Aquilonia;Skandag;Aquilonia;9;NE;
+Thenitea;Aquilonia;Coyaga;Aquilonia;9;S;
+Thenitea;Aquilonia;Torh;Aquilonia;10;NE;
+Thenitea;Aquilonia;Velithua;Aquilonia;11;NE;
+Thenitea;Aquilonia;Lor;Aquilonia;13;SE;
+Thenitea;Aquilonia;Funirus;Aquilonia;14;SE;
+Thenitea;Aquilonia;Schondara;Aquilonia;15;SO;>14 días
+Thenitea;Aquilonia;Tarantia;Aquilonia;16;SE;>14 días
+Thenitea;Aquilonia;Elymir;Aquilonia;17;SE;>14 días
+Thenitea;Aquilonia;Gwawela;Pictland;18;N;>14 días
+Coyaga;Aquilonia;Schondara;Aquilonia;6;SO;
+Coyaga;Aquilonia;Thenitea;Aquilonia;9;N;
+Coyaga;Aquilonia;Torh;Aquilonia;11;NE;
+Coyaga;Aquilonia;Lor;Aquilonia;11;SE;
+Coyaga;Aquilonia;Skandag;Aquilonia;12;N;
+Coyaga;Aquilonia;Kwwyara;Aquilonia;12;SO;
+Coyaga;Aquilonia;Velithua;Aquilonia;14;NE;
+Coyaga;Aquilonia;Funirus;Aquilonia;15;SE;>14 días
+Coyaga;Aquilonia;Elymir;Aquilonia;15;SE;>14 días
+Coyaga;Aquilonia;Tarantia;Aquilonia;17;SE;>14 días
+Kwwyara;Aquilonia;Schondara;Aquilonia;6;NE;
+Kwwyara;Aquilonia;Coyaga;Aquilonia;12;NE;
+Kwwyara;Aquilonia;Thenitea;Aquilonia;18;NE;>14 días
+Kwwyara;Aquilonia;Lor;Aquilonia;19;SE;>14 días
+Kwwyara;Aquilonia;Torh;Aquilonia;23;NE;>14 días
+Kwwyara;Aquilonia;Elymir;Aquilonia;23;SE;>14 días
+Kwwyara;Aquilonia;Skandag;Aquilonia;24;NE;>14 días
+Kwwyara;Aquilonia;Thandara;Aquilonia;24;S;>14 días
+Kwwyara;Aquilonia;Funirus;Aquilonia;25;NE;>14 días
+Kwwyara;Aquilonia;Velithua;Aquilonia;26;NE;>14 días
+Schondara;Aquilonia;Coyaga;Aquilonia;6;NE;
+Schondara;Aquilonia;Kwwyara;Aquilonia;6;SO;
+Schondara;Aquilonia;Lor;Aquilonia;13;SE;
+Schondara;Aquilonia;Thenitea;Aquilonia;15;NE;>14 días
+Schondara;Aquilonia;Torh;Aquilonia;17;NE;>14 días
+Schondara;Aquilonia;Elymir;Aquilonia;17;SE;>14 días
+Schondara;Aquilonia;Skandag;Aquilonia;18;NE;>14 días
+Schondara;Aquilonia;Funirus;Aquilonia;19;NE;>14 días
+Schondara;Aquilonia;Velithua;Aquilonia;20;NE;>14 días
+Schondara;Aquilonia;Guarralio;Zingara;20;S;>14 días
+Galparan;Aquilonia;Tholeus;Aquilonia;4;N;
+Galparan;Aquilonia;Vicella;Aquilonia;5;NE;
+Galparan;Aquilonia;Amelius;Aquilonia;7;NE;
+Galparan;Aquilonia;Rhmen;Cimmeria;7;NE;
+Galparan;Aquilonia;Khrat;Cimmeria;9;N;
+Galparan;Aquilonia;Kormon;Aquilonia;10;S;
+Galparan;Aquilonia;Palea;Aquilonia;11;SE;
+Galparan;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
+Galparan;Aquilonia;Velithua;Aquilonia;12;SO;
+Galparan;Aquilonia;Torh;Aquilonia;12;SO;
+Galparan;Aquilonia;Funirus;Aquilonia;14;S;
+Galparan;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;NE;
+Amelius;Aquilonia;Vicella;Aquilonia;5;NO;
+Amelius;Aquilonia;Rhmen;Cimmeria;5;N;
+Amelius;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;NE;
+Amelius;Aquilonia;Galparan;Aquilonia;7;SO;
+Amelius;Aquilonia;Palea;Aquilonia;8;S;
+Amelius;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;NE;
+Amelius;Aquilonia;Tholeus;Aquilonia;9;NO;
+Amelius;Aquilonia;Khrat;Cimmeria;10;NO;
+Amelius;Aquilonia;Thalia;Nemedia;11;SE;
+Amelius;Aquilonia;Castria;Aquilonia;12;S;
+Amelius;Aquilonia;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
+Amelius;Aquilonia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
+Amelius;Aquilonia;Kormon;Aquilonia;14;SO;
+Palea;Aquilonia;Amelius;Aquilonia;6;N;
+Palea;Aquilonia;Castria;Aquilonia;7;S;
+Palea;Aquilonia;Thalia;Nemedia;8;NE;
+Palea;Aquilonia;Galparan;Aquilonia;9;NO;
+Palea;Aquilonia;Kormon;Aquilonia;10;SO;
+Palea;Aquilonia;Vicella;Aquilonia;11;N;
+Palea;Aquilonia;Rhmen;Cimmeria;11;N;
+Palea;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;N;
+Palea;Aquilonia;Belverus;Nemedia;12;SE;
+Palea;Aquilonia;Tholeus;Aquilonia;13;NO;
+Palea;Aquilonia;Ianthe;Ophir;13;S;
+Palea;Aquilonia;Funirus;Aquilonia;14;SO;
+Palea;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;NE;
+Kormon;Aquilonia;Funirus;Aquilonia;4;SO;
+Kormon;Aquilonia;Torh;Aquilonia;8;NO;
+Kormon;Aquilonia;Tarantia;Aquilonia;8;S;
+Kormon;Aquilonia;Galparan;Aquilonia;10;N;
+Kormon;Aquilonia;Velithua;Aquilonia;11;NO;
+Kormon;Aquilonia;Palea;Aquilonia;12;NE;
+Kormon;Aquilonia;Castria;Aquilonia;12;SE;
+Kormon;Aquilonia;Shamar;Aquilonia;12;S;
+Kormon;Aquilonia;Tholeus;Aquilonia;12;N;
+Kormon;Aquilonia;Lor;Aquilonia;13;SO;
+Kormon;Aquilonia;Ianthe;Ophir;13;SE;
+Kormon;Aquilonia;Amelius;Aquilonia;14;NE;
+Funirus;Aquilonia;Kormon;Aquilonia;4;NE;
+Funirus;Aquilonia;Torh;Aquilonia;6;NO;
+Funirus;Aquilonia;Tarantia;Aquilonia;6;S;
+Funirus;Aquilonia;Lor;Aquilonia;9;SO;
+Funirus;Aquilonia;Velithua;Aquilonia;11;N;
+Funirus;Aquilonia;Elymir;Aquilonia;11;S;
+Funirus;Aquilonia;Skandag;Aquilonia;12;NO;
+Funirus;Aquilonia;Shamar;Aquilonia;12;SE;
+Funirus;Aquilonia;Pedassa;Aquilonia;12;S;
+Funirus;Aquilonia;Galparan;Aquilonia;14;N;
+Funirus;Aquilonia;Ianthe;Ophir;14;SE;
+Castria;Aquilonia;Palea;Aquilonia;7;N;
+Castria;Aquilonia;Belverus;Nemedia;9;SE;
+Castria;Aquilonia;Ianthe;Ophir;9;S;
+Castria;Aquilonia;Amelius;Aquilonia;10;N;
+Castria;Aquilonia;Kormon;Aquilonia;10;NO;
+Castria;Aquilonia;Thalia;Nemedia;11;NE;
+Castria;Aquilonia;Tor;Nemedia;11;SE;
+Castria;Aquilonia;Hanumar;Nemedia;11;SE;
+Castria;Aquilonia;Shamar;Aquilonia;12;S;
+Castria;Aquilonia;Galparan;Aquilonia;13;NO;
+Castria;Aquilonia;Tarantia;Aquilonia;13;SO;
+Castria;Aquilonia;Funirus;Aquilonia;14;SO;
+Tarantia;Aquilonia;Funirus;Aquilonia;6;N;
+Tarantia;Aquilonia;Shamar;Aquilonia;7;SE;
+Tarantia;Aquilonia;Elymir;Aquilonia;7;SO;
+Tarantia;Aquilonia;Kormon;Aquilonia;8;N;
+Tarantia;Aquilonia;Lor;Aquilonia;8;SO;
+Tarantia;Aquilonia;Pedassa;Aquilonia;8;S;
+Tarantia;Aquilonia;Torh;Aquilonia;12;NO;
+Tarantia;Aquilonia;Cularío;Aquilonia;12;S;
+Tarantia;Aquilonia;Ianthe;Ophir;12;SE;
+Tarantia;Aquilonia;Castria;Aquilonia;15;NE;>14 días
+Lor;Aquilonia;Elymir;Aquilonia;4;S;
+Lor;Aquilonia;Tarantia;Aquilonia;8;NE;
+Lor;Aquilonia;Pedassa;Aquilonia;8;SE;
+Lor;Aquilonia;Funirus;Aquilonia;9;NE;
+Lor;Aquilonia;Cularío;Aquilonia;10;S;
+Lor;Aquilonia;Torh;Aquilonia;11;N;
+Lor;Aquilonia;Guarralio;Zingara;12;S;
+Lor;Aquilonia;Coyaga;Aquilonia;13;NO;
+Lor;Aquilonia;Kormon;Aquilonia;13;NE;
+Lor;Aquilonia;Velithua;Aquilonia;14;N;
+Lor;Aquilonia;Varza;Zingara;14;S;
+Shamar;Aquilonia;Ianthe;Ophir;5;NE;
+Shamar;Aquilonia;Tarantia;Aquilonia;7;NO;
+Shamar;Aquilonia;Pedassa;Aquilonia;10;SO;
+Shamar;Aquilonia;Pergona;Ophir;10;SE;
+Shamar;Aquilonia;Kormon;Aquilonia;12;N;
+Shamar;Aquilonia;Funirus;Aquilonia;12;NO;
+Shamar;Aquilonia;Hanumar;Nemedia;12;NE;
+Shamar;Aquilonia;Elymir;Aquilonia;13;SO;
+Shamar;Aquilonia;Cularío;Aquilonia;13;SO;
+Shamar;Aquilonia;Carnolla;Ophir;13;S;
+Shamar;Aquilonia;Ronnaco;Ophir;13;SE;
+Shamar;Aquilonia;Castria;Aquilonia;14;N;
+Shamar;Aquilonia;Belverus;Nemedia;14;NE;
+Shamar;Aquilonia;Tor;Nemedia;14;NE;
+Shamar;Aquilonia;Khorshemish;Koth;14;SE;
+Elymir;Aquilonia;Lor;Aquilonia;4;N;
+Elymir;Aquilonia;Pedassa;Aquilonia;4;SE;
+Elymir;Aquilonia;Cularío;Aquilonia;6;S;
+Elymir;Aquilonia;Tarantia;Aquilonia;7;NE;
+Elymir;Aquilonia;Guarralio;Zingara;10;SO;
+Elymir;Aquilonia;Funirus;Aquilonia;11;N;
+Elymir;Aquilonia;Varza;Zingara;12;S;
+Elymir;Aquilonia;Torh;Aquilonia;13;N;
+Elymir;Aquilonia;Shamar;Aquilonia;13;NE;
+Elymir;Aquilonia;Kormon;Aquilonia;15;NE;>14 días
+Thandara;Aquilonia;Guarralio;Zingara;12;SE;
+Thandara;Aquilonia;Lor;Aquilonia;14;NE;
+Thandara;Aquilonia;Jerida;Zingara;15;S;>14 días
+Thandara;Aquilonia;Koda;Zingara;15;S;>14 días
+Thandara;Aquilonia;Elymir;Aquilonia;16;SE;>14 días
+Thandara;Aquilonia;Yorkin;Zingara;16;S;>14 días
+Thandara;Aquilonia;Cularío;Aquilonia;17;SE;>14 días
+Thandara;Aquilonia;Kordava;Zingara;17;SO;>14 días
+Thandara;Aquilonia;Varza;Zingara;17;SE;>14 días
+Thandara;Aquilonia;Pedassa;Aquilonia;19;SE;>14 días
+Pedassa;Aquilonia;Elymir;Aquilonia;4;NO;
+Pedassa;Aquilonia;Cularío;Aquilonia;4;SO;
+Pedassa;Aquilonia;Tarantia;Aquilonia;8;N;
+Pedassa;Aquilonia;Lor;Aquilonia;8;NO;
+Pedassa;Aquilonia;Shamar;Aquilonia;10;NE;
+Pedassa;Aquilonia;Guarralio;Zingara;10;SO;
+Pedassa;Aquilonia;Varza;Zingara;11;SO;
+Pedassa;Aquilonia;Funirus;Aquilonia;12;N;
+Pedassa;Aquilonia;Koda;Zingara;14;SO;
+Pedassa;Aquilonia;Ianthe;Ophir;15;NE;>14 días
+Cularío;Aquilonia;Pedassa;Aquilonia;4;NE;
+Cularío;Aquilonia;Elymir;Aquilonia;6;N;
+Cularío;Aquilonia;Varza;Zingara;7;SO;
+Cularío;Aquilonia;Guarralio;Zingara;8;SO;
+Cularío;Aquilonia;Lor;Aquilonia;10;N;
+Cularío;Aquilonia;Koda;Zingara;10;SO;
+Cularío;Aquilonia;Tarantia;Aquilonia;12;N;
+Cularío;Aquilonia;Shamar;Aquilonia;13;NE;
+Cularío;Aquilonia;Funirus;Aquilonia;16;N;>14 días
+Cularío;Aquilonia;Jerida;Zingara;16;SO;>14 días
+Khrat;Cimmeria;Vicella;Aquilonia;4;S;
+Khrat;Cimmeria;Rhmen;Cimmeria;5;SE;
+Khrat;Cimmeria;Tholeus;Aquilonia;7;SO;
+Khrat;Cimmeria;Galparan;Aquilonia;8;S;
+Khrat;Cimmeria;Amelius;Aquilonia;9;SE;
+Khrat;Cimmeria;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;SE;
+Khrat;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;SE;
+Khrat;Cimmeria;Velithua;Aquilonia;17;SO;>14 días
+Khrat;Cimmeria;Palea;Aquilonia;17;S;>14 días
+Khrat;Cimmeria;Thalia;Nemedia;17;SE;>14 días
+Vicella;Aquilonia;Rhmen;Cimmeria;2;NE;
+Vicella;Aquilonia;Galparan;Aquilonia;5;SO;
+Vicella;Aquilonia;Amelius;Aquilonia;5;SE;
+Vicella;Aquilonia;Khrat;Cimmeria;5;N;
+Vicella;Aquilonia;Tholeus;Aquilonia;5;SO;
+Vicella;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;SE;
+Vicella;Aquilonia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
+Vicella;Aquilonia;Palea;Aquilonia;13;S;
+Vicella;Aquilonia;Thalia;Nemedia;14;SE;
+Vicella;Aquilonia;Velithua;Aquilonia;15;SO;>14 días
+Rhmen;Cimmeria;Vicella;Aquilonia;2;SO;
+Rhmen;Cimmeria;Amelius;Aquilonia;5;S;
+Rhmen;Cimmeria;Khrat;Cimmeria;6;NO;
+Rhmen;Cimmeria;Galparan;Aquilonia;7;SO;
+Rhmen;Cimmeria;Tholeus;Aquilonia;7;SO;
+Rhmen;Cimmeria;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;SE;
+Rhmen;Cimmeria;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);9;SE;
+Rhmen;Cimmeria;Thalia;Nemedia;12;SE;
+Rhmen;Cimmeria;Palea;Aquilonia;13;S;
+Rhmen;Cimmeria;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;NE;
+Rhmen;Cimmeria;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);14;SE;
+Tholeus;Aquilonia;Galparan;Aquilonia;4;S;
+Tholeus;Aquilonia;Vicella;Aquilonia;5;NE;
+Tholeus;Aquilonia;Rhmen;Cimmeria;7;NE;
+Tholeus;Aquilonia;Khrat;Cimmeria;8;NE;
+Tholeus;Aquilonia;Amelius;Aquilonia;9;SE;
+Tholeus;Aquilonia;Velithua;Aquilonia;11;SO;
+Tholeus;Aquilonia;Kormon;Aquilonia;12;S;
+Tholeus;Aquilonia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;SE;
+Tholeus;Aquilonia;Torh;Aquilonia;14;SO;
+Tholeus;Aquilonia;Palea;Aquilonia;15;SE;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;S;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;S;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;13;SO;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;13;SO;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);13;SO;
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;15;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;15;S;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Brutheim;Nordheim;18;N;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;18;SO;>14 días
+Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;19;SO;>14 días
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;N;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;SE;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;8;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);8;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;9;NO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;10;S;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;11;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;14;SO;
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;15;NO;>14 días
+Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Palea;Aquilonia;16;SO;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);5;NO;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);7;N;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;11;SO;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);12;SO;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;13;SO;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;14;NO;
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Numalia;Nemedia;15;S;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;16;NO;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Belverus;Nemedia;17;S;>14 días
+S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;19;SO;>14 días
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Amelius;Aquilonia;3;SO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Rhmen;Cimmeria;5;NO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Vicella;Aquilonia;6;NO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);6;NE;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Thalia;Nemedia;8;S;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Galparan;Aquilonia;9;SO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Khrat;Cimmeria;10;NO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;NE;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Palea;Aquilonia;11;S;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Tholeus;Aquilonia;11;NO;
+Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
+Thalia;Nemedia;Belverus;Nemedia;7;S;
+Thalia;Nemedia;Palea;Aquilonia;10;SO;
+Thalia;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;N;
+Thalia;Nemedia;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);10;N;
+Thalia;Nemedia;Hanumar;Nemedia;10;S;
+Thalia;Nemedia;Amelius;Aquilonia;11;NO;
+Thalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);11;NE;
+Thalia;Nemedia;Tor;Nemedia;11;S;
+Thalia;Nemedia;Numalia;Nemedia;11;SE;
+Thalia;Nemedia;Rhmen;Cimmeria;12;NO;
+Thalia;Nemedia;Castria;Aquilonia;13;SO;
+Thalia;Nemedia;Vicella;Aquilonia;14;NO;
+Belverus;Nemedia;Hanumar;Nemedia;3;S;
+Belverus;Nemedia;Tor;Nemedia;5;SO;
+Belverus;Nemedia;Numalia;Nemedia;6;SE;
+Belverus;Nemedia;Thalia;Nemedia;7;N;
+Belverus;Nemedia;Ianthe;Ophir;9;SO;
+Belverus;Nemedia;Castria;Aquilonia;11;NO;
+Belverus;Nemedia;Palea;Aquilonia;14;NO;
+Belverus;Nemedia;Shamar;Aquilonia;14;SO;
+Belverus;Nemedia;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);16;N;>14 días
+Belverus;Nemedia;Lanjau;Corinthia;16;SE;>14 días
+Tor;Nemedia;Belverus;Nemedia;3;NE;
+Tor;Nemedia;Hanumar;Nemedia;4;SE;
+Tor;Nemedia;Ianthe;Ophir;7;S;
+Tor;Nemedia;Thalia;Nemedia;9;N;
+Tor;Nemedia;Numalia;Nemedia;9;SE;
+Tor;Nemedia;Castria;Aquilonia;11;NO;
+Tor;Nemedia;Shamar;Aquilonia;12;SO;
+Tor;Nemedia;Palea;Aquilonia;15;N;>14 días
+Tor;Nemedia;Kormon;Aquilonia;16;NO;>14 días
+Tor;Nemedia;Lanjau;Corinthia;16;SE;>14 días
+Numalia;Nemedia;Hanumar;Nemedia;5;SO;
+Numalia;Nemedia;Belverus;Nemedia;6;NO;
+Numalia;Nemedia;Lanjau;Corinthia;10;SE;
+Numalia;Nemedia;Thalia;Nemedia;11;NO;
+Numalia;Nemedia;Tor;Nemedia;11;NO;
+Numalia;Nemedia;Ianthe;Ophir;11;SO;
+Numalia;Nemedia;Khumar Rhun;Corinthia;13;SE;
+Numalia;Nemedia;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);15;N;>14 días
+Numalia;Nemedia;Shamar;Aquilonia;16;SO;>14 días
+Numalia;Nemedia;Castria;Aquilonia;17;NO;>14 días
+Hanumar;Nemedia;Belverus;Nemedia;3;N;
+Hanumar;Nemedia;Numalia;Nemedia;5;NE;
+Hanumar;Nemedia;Tor;Nemedia;6;NO;
+Hanumar;Nemedia;Ianthe;Ophir;7;SO;
+Hanumar;Nemedia;Thalia;Nemedia;10;N;
+Hanumar;Nemedia;Shamar;Aquilonia;12;SO;
+Hanumar;Nemedia;Castria;Aquilonia;13;NO;
+Hanumar;Nemedia;Lanjau;Corinthia;13;SE;
+Hanumar;Nemedia;Khumar Rhun;Corinthia;16;SE;>14 días
+Hanumar;Nemedia;Khorshemish;Koth;16;S;>14 días
+Ianthe;Ophir;Shamar;Aquilonia;5;SO;
+Ianthe;Ophir;Hanumar;Nemedia;7;NE;
+Ianthe;Ophir;Belverus;Nemedia;9;NE;
+Ianthe;Ophir;Tor;Nemedia;9;N;
+Ianthe;Ophir;Pergona;Ophir;9;S;
+Ianthe;Ophir;Castria;Aquilonia;11;N;
+Ianthe;Ophir;Numalia;Nemedia;11;NE;
+Ianthe;Ophir;Tarantia;Aquilonia;12;NO;
+Ianthe;Ophir;Ronnaco;Ophir;12;S;
+Ianthe;Ophir;Kormon;Aquilonia;13;NO;
+Ianthe;Ophir;Khorshemish;Koth;13;S;
+Ianthe;Ophir;Funirus;Aquilonia;14;NO;
+Sistona;Hiperbórea;Pohiola;Hiperbórea;10;NE;
+Sistona;Hiperbórea;Haloga;Hiperbórea;20;N;>14 días
+Sistona;Hiperbórea;Aloe;Nordheim;23;NO;>14 días
+Sistona;Hiperbórea;Lucerthen;Reino Fronterizo (Border Kingdom, al este de Aquilonia);23;SO;>14 días
+Sistona;Hiperbórea;S'Fanol;Reino Fronterizo (Border Kingdom, al este de Aquilonia);25;SO;>14 días
+Sistona;Hiperbórea;Alkarkon;Reino Fronterizo (Border Kingdom, al este de Aquilonia);26;SO;>14 días
+Sistona;Hiperbórea;Brutheim;Nordheim;27;NO;>14 días
+Sistona;Hiperbórea;Amelius;Aquilonia;34;SO;>14 días
+Sistona;Hiperbórea;Rhmen;Cimmeria;34;SO;>14 días
+Sistona;Hiperbórea;Ravengard;Reino Fronterizo (Border Kingdom, al este de Aquilonia);34;SO;>14 días
+Ezar-Bar-Kum;Corinthia;Khumar Rhun;Corinthia;3;SO;
+Ezar-Bar-Kum;Corinthia;Lanjau;Corinthia;6;SO;
+Ezar-Bar-Kum;Corinthia;Zahmahn;Corinthia;8;SE;
+Ezar-Bar-Kum;Corinthia;Kamalla;Corinthia;8;S;
+Ezar-Bar-Kum;Corinthia;Khishtam;Corinthia;12;S;
+Ezar-Bar-Kum;Corinthia;Numalia;Nemedia;16;SO;>14 días
+Ezar-Bar-Kum;Corinthia;Shadizar;Zamora;17;SE;>14 días
+Ezar-Bar-Kum;Corinthia;Hanumar;Nemedia;19;SO;>14 días
+Ezar-Bar-Kum;Corinthia;Zamindi;Zamora;20;SE;>14 días
+Ezar-Bar-Kum;Corinthia;Karvek;Koth;20;SE;>14 días
+Khumar Rhun;Corinthia;Lanjau;Corinthia;3;SO;
+Khumar Rhun;Corinthia;Ezar-Bar-Kum;Corinthia;4;NE;
+Khumar Rhun;Corinthia;Kamalla;Corinthia;7;SE;
+Khumar Rhun;Corinthia;Zahmahn;Corinthia;9;SE;
+Khumar Rhun;Corinthia;Khishtam;Corinthia;11;S;
+Khumar Rhun;Corinthia;Numalia;Nemedia;13;NO;
+Khumar Rhun;Corinthia;Hanumar;Nemedia;16;NO;>14 días
+Khumar Rhun;Corinthia;Shadizar;Zamora;16;SE;>14 días
+Khumar Rhun;Corinthia;Belverus;Nemedia;19;NO;>14 días
+Khumar Rhun;Corinthia;Zamindi;Zamora;19;SE;>14 días
+Zahmahn;Corinthia;Kamalla;Corinthia;5;SO;
+Zahmahn;Corinthia;Ezar-Bar-Kum;Corinthia;9;NO;
+Zahmahn;Corinthia;Khumar Rhun;Corinthia;9;NO;
+Zahmahn;Corinthia;Shadizar;Zamora;10;SE;
+Zahmahn;Corinthia;Lanjau;Corinthia;12;NO;
+Zahmahn;Corinthia;Khishtam;Corinthia;12;SO;
+Zahmahn;Corinthia;Zamindi;Zamora;13;NE;
+Zahmahn;Corinthia;Larsha;Zamora;14;SE;
+Zahmahn;Corinthia;Yezud;Zamora;15;NE;>14 días
+Zahmahn;Corinthia;Khesron;Zamora;15;NE;>14 días
+Lanjau;Corinthia;Khumar Rhun;Corinthia;3;NE;
+Lanjau;Corinthia;Ezar-Bar-Kum;Corinthia;7;NE;
+Lanjau;Corinthia;Kamalla;Corinthia;8;SE;
+Lanjau;Corinthia;Numalia;Nemedia;10;NO;
+Lanjau;Corinthia;Khishtam;Corinthia;11;SE;
+Lanjau;Corinthia;Zahmahn;Corinthia;12;SE;
+Lanjau;Corinthia;Hanumar;Nemedia;13;NO;
+Lanjau;Corinthia;Belverus;Nemedia;16;NO;>14 días
+Lanjau;Corinthia;Tor;Nemedia;18;NO;>14 días
+Lanjau;Corinthia;Ianthe;Ophir;18;SO;>14 días
+Kamalla;Corinthia;Zahmahn;Corinthia;5;NE;
+Kamalla;Corinthia;Khumar Rhun;Corinthia;7;NO;
+Kamalla;Corinthia;Khishtam;Corinthia;7;SO;
+Kamalla;Corinthia;Lanjau;Corinthia;8;NO;
+Kamalla;Corinthia;Ezar-Bar-Kum;Corinthia;9;N;
+Kamalla;Corinthia;Shadizar;Zamora;10;SE;
+Kamalla;Corinthia;Karvek;Koth;12;SE;
+Kamalla;Corinthia;Zamindi;Zamora;13;NE;
+Kamalla;Corinthia;Larsha;Zamora;14;SE;
+Kamalla;Corinthia;Khanyria;Khoraja;14;SE;
+Khishtam;Corinthia;Kamalla;Corinthia;5;NE;
+Khishtam;Corinthia;Khumar Rhun;Corinthia;9;N;
+Khishtam;Corinthia;Lanjau;Corinthia;9;NO;
+Khishtam;Corinthia;Zahmahn;Corinthia;10;NE;
+Khishtam;Corinthia;Ezar-Bar-Kum;Corinthia;11;N;
+Khishtam;Corinthia;Karvek;Koth;12;SE;
+Khishtam;Corinthia;Shadizar;Zamora;14;NE;
+Khishtam;Corinthia;Khanyria;Khoraja;14;SE;
+Khishtam;Corinthia;Khrosha;Koth;16;SO;>14 días
+Khishtam;Corinthia;Zamindi;Zamora;17;NE;>14 días
+Yezud;Zamora;Kharsho;Zamora;2;SE;
+Yezud;Zamora;Khesron;Zamora;2;S;
+Yezud;Zamora;Komash;Zamora;8;SE;
+Yezud;Zamora;Zamindi;Zamora;8;S;
+Yezud;Zamora;Shadizar;Zamora;11;S;
+Yezud;Zamora;Larsha;Zamora;12;S;
+Yezud;Zamora;Zahmahn;Corinthia;14;SO;
+Yezud;Zamora;Arenjun;Zamora;16;SE;>14 días
+Yezud;Zamora;Kamalla;Corinthia;18;SO;>14 días
+Yezud;Zamora;Ashmir;Zamora;18;N;>14 días
+Kharsho;Zamora;Yezud;Zamora;2;NO;
+Kharsho;Zamora;Khesron;Zamora;4;SO;
+Kharsho;Zamora;Komash;Zamora;8;SE;
+Kharsho;Zamora;Zamindi;Zamora;8;S;
+Kharsho;Zamora;Larsha;Zamora;12;S;
+Kharsho;Zamora;Shadizar;Zamora;12;S;
+Kharsho;Zamora;Zahmahn;Corinthia;16;SO;>14 días
+Kharsho;Zamora;Arenjun;Zamora;16;SE;>14 días
+Kharsho;Zamora;Ashmir;Zamora;16;N;>14 días
+Kharsho;Zamora;Yaralet;Turan;18;NE;>14 días
+Khesron;Zamora;Yezud;Zamora;2;N;
+Khesron;Zamora;Kharsho;Zamora;4;NE;
+Khesron;Zamora;Zamindi;Zamora;6;S;
+Khesron;Zamora;Komash;Zamora;7;SE;
+Khesron;Zamora;Shadizar;Zamora;9;S;
+Khesron;Zamora;Larsha;Zamora;10;S;
+Khesron;Zamora;Zahmahn;Corinthia;14;SO;
+Khesron;Zamora;Arenjun;Zamora;14;SE;
+Khesron;Zamora;Kamalla;Corinthia;16;SO;>14 días
+Khesron;Zamora;Khauran;Khauran;16;S;>14 días
+Komash;Zamora;Zamindi;Zamora;4;SO;
+Komash;Zamora;Larsha;Zamora;7;S;
+Komash;Zamora;Khesron;Zamora;8;NO;
+Komash;Zamora;Arenjun;Zamora;8;S;
+Komash;Zamora;Yezud;Zamora;9;NO;
+Komash;Zamora;Kharsho;Zamora;9;NO;
+Komash;Zamora;Shadizar;Zamora;9;SO;
+Komash;Zamora;Yaralet;Turan;11;NE;
+Komash;Zamora;Khauran;Khauran;12;S;
+Komash;Zamora;Ashmir;Zamora;13;N;
+Komash;Zamora;Kandah;Khauran;14;S;
+Zamindi;Zamora;Komash;Zamora;4;NE;
+Zamindi;Zamora;Larsha;Zamora;4;S;
+Zamindi;Zamora;Shadizar;Zamora;5;SO;
+Zamindi;Zamora;Khesron;Zamora;7;N;
+Zamindi;Zamora;Arenjun;Zamora;8;SE;
+Zamindi;Zamora;Yezud;Zamora;9;N;
+Zamindi;Zamora;Kharsho;Zamora;9;N;
+Zamindi;Zamora;Khauran;Khauran;10;S;
+Zamindi;Zamora;Kandah;Khauran;12;S;
+Zamindi;Zamora;Zahmahn;Corinthia;13;SO;
+Zamindi;Zamora;Kamalla;Corinthia;13;SO;
+Zamindi;Zamora;Karvek;Koth;14;S;
+Larsha;Zamora;Zamindi;Zamora;4;N;
+Larsha;Zamora;Shadizar;Zamora;4;NO;
+Larsha;Zamora;Arenjun;Zamora;5;SE;
+Larsha;Zamora;Khauran;Khauran;6;S;
+Larsha;Zamora;Komash;Zamora;7;N;
+Larsha;Zamora;Kandah;Khauran;8;S;
+Larsha;Zamora;Khesron;Zamora;11;N;
+Larsha;Zamora;Karvek;Koth;11;SO;
+Larsha;Zamora;Yezud;Zamora;13;N;
+Larsha;Zamora;Kharsho;Zamora;13;N;
+Larsha;Zamora;Khanyria;Khoraja;13;S;
+Larsha;Zamora;Zahmahn;Corinthia;14;NO;
+Larsha;Zamora;Kamalla;Corinthia;14;NO;
+Shadizar;Zamora;Larsha;Zamora;4;SE;
+Shadizar;Zamora;Zamindi;Zamora;5;NE;
+Shadizar;Zamora;Khauran;Khauran;8;SE;
+Shadizar;Zamora;Komash;Zamora;9;NE;
+Shadizar;Zamora;Arenjun;Zamora;9;SE;
+Shadizar;Zamora;Karvek;Koth;9;S;
+Shadizar;Zamora;Zahmahn;Corinthia;10;NO;
+Shadizar;Zamora;Kamalla;Corinthia;10;NO;
+Shadizar;Zamora;Khesron;Zamora;10;N;
+Shadizar;Zamora;Kandah;Khauran;10;SE;
+Shadizar;Zamora;Khanyria;Khoraja;11;S;
+Shadizar;Zamora;Yezud;Zamora;12;N;
+Shadizar;Zamora;Kharsho;Zamora;13;N;
+Arenjun;Zamora;Larsha;Zamora;5;NO;
+Arenjun;Zamora;Khauran;Khauran;6;SO;
+Arenjun;Zamora;Komash;Zamora;8;N;
+Arenjun;Zamora;Zamindi;Zamora;8;NO;
+Arenjun;Zamora;Kandah;Khauran;8;S;
+Arenjun;Zamora;Shadizar;Zamora;9;NO;
+Arenjun;Zamora;Ababenzzar;Turan;10;SE;
+Arenjun;Zamora;Karvek;Koth;12;SO;
+Arenjun;Zamora;Yaralet;Turan;13;N;
+Arenjun;Zamora;Khanyria;Khoraja;14;SO;
+Ashmir;Zamora;Komash;Zamora;12;S;
+Ashmir;Zamora;Yaralet;Turan;13;SE;
+Ashmir;Zamora;Kharsho;Zamora;16;S;>14 días
+Ashmir;Zamora;Zamindi;Zamora;16;S;>14 días
+Ashmir;Zamora;Khesron;Zamora;17;S;>14 días
+Ashmir;Zamora;Yezud;Zamora;18;S;>14 días
+Ashmir;Zamora;Larsha;Zamora;19;S;>14 días
+Ashmir;Zamora;Arenjun;Zamora;20;S;>14 días
+Ashmir;Zamora;Shadizar;Zamora;21;S;>14 días
+Ashmir;Zamora;Shahpur;Turan;22;SE;>14 días
+Yaralet;Turan;Komash;Zamora;11;SO;
+Yaralet;Turan;Shahpur;Turan;12;SE;
+Yaralet;Turan;Arenjun;Zamora;13;S;
+Yaralet;Turan;Maypor;Turan;13;SE;
+Yaralet;Turan;Ashmir;Zamora;14;NO;
+Yaralet;Turan;Carcainia;Turan;14;SE;
+Yaralet;Turan;Zamindi;Zamora;15;SO;>14 días
+Yaralet;Turan;Ababenzzar;Turan;15;S;>14 días
+Yaralet;Turan;Larsha;Zamora;17;SO;>14 días
+Yaralet;Turan;Keshaan;Turan;17;SE;>14 días
+Shahpur;Turan;Maypor;Turan;5;S;
+Shahpur;Turan;Carcainia;Turan;9;S;
+Shahpur;Turan;Keshaan;Turan;9;S;
+Shahpur;Turan;Yaralet;Turan;12;NO;
+Shahpur;Turan;Sultanapon;Turan;16;S;>14 días
+Shahpur;Turan;Ababenzzar;Turan;17;SO;>14 días
+Shahpur;Turan;Nahareh;Turan;18;S;>14 días
+Shahpur;Turan;Arenjun;Zamora;19;SO;>14 días
+Shahpur;Turan;Akif;Turan;19;S;>14 días
+Shahpur;Turan;Kherdpur;Turan;20;S;>14 días
+Maypor;Turan;Carcainia;Turan;4;SO;
+Maypor;Turan;Keshaan;Turan;4;S;
+Maypor;Turan;Shahpur;Turan;5;N;
+Maypor;Turan;Sultanapon;Turan;11;SE;
+Maypor;Turan;Yaralet;Turan;13;NO;
+Maypor;Turan;Ababenzzar;Turan;13;SO;
+Maypor;Turan;Nahareh;Turan;13;S;
+Maypor;Turan;Akif;Turan;14;S;
+Maypor;Turan;Kherdpur;Turan;15;S;>14 días
+Maypor;Turan;Aghrapur;Turan;18;SE;>14 días
+Carcainia;Turan;Maypor;Turan;4;NE;
+Carcainia;Turan;Keshaan;Turan;4;SE;
+Carcainia;Turan;Shahpur;Turan;9;N;
+Carcainia;Turan;Ababenzzar;Turan;9;SO;
+Carcainia;Turan;Nahareh;Turan;9;S;
+Carcainia;Turan;Sultanapon;Turan;10;SE;
+Carcainia;Turan;Akif;Turan;13;S;
+Carcainia;Turan;Yaralet;Turan;14;NO;
+Carcainia;Turan;Kherdpur;Turan;14;S;
+Carcainia;Turan;Arenjun;Zamora;16;SO;>14 días
+Ababenzzar;Turan;Carcainia;Turan;9;NE;
+Ababenzzar;Turan;Arenjun;Zamora;10;NO;
+Ababenzzar;Turan;Nahareh;Turan;11;SE;
+Ababenzzar;Turan;Maypor;Turan;13;NE;
+Ababenzzar;Turan;Keshaan;Turan;13;NE;
+Ababenzzar;Turan;Khauran;Khauran;14;SO;
+Ababenzzar;Turan;Kandah;Khauran;14;SO;
+Ababenzzar;Turan;Larsha;Zamora;15;NO;>14 días
+Ababenzzar;Turan;Yaralet;Turan;15;N;>14 días
+Ababenzzar;Turan;Akif;Turan;16;SE;>14 días
+Keshaan;Turan;Maypor;Turan;4;N;
+Keshaan;Turan;Carcainia;Turan;4;NO;
+Keshaan;Turan;Sultanapon;Turan;7;SE;
+Keshaan;Turan;Shahpur;Turan;9;N;
+Keshaan;Turan;Nahareh;Turan;10;S;
+Keshaan;Turan;Akif;Turan;10;S;
+Keshaan;Turan;Kherdpur;Turan;11;S;
+Keshaan;Turan;Ababenzzar;Turan;13;SO;
+Keshaan;Turan;Aghrapur;Turan;14;SE;
+Keshaan;Turan;Samara;Turan;15;S;>14 días
+Khauran;Khauran;Kandah;Khauran;2;S;
+Khauran;Khauran;Larsha;Zamora;6;N;
+Khauran;Khauran;Arenjun;Zamora;6;NE;
+Khauran;Khauran;Karvek;Koth;7;SO;
+Khauran;Khauran;Shadizar;Zamora;8;NO;
+Khauran;Khauran;Khanyria;Khoraja;9;SO;
+Khauran;Khauran;Zamindi;Zamora;10;N;
+Khauran;Khauran;Komash;Zamora;12;N;
+Khauran;Khauran;Khoraja;Khoraja;13;SO;
+Khauran;Khauran;Ababenzzar;Turan;14;NE;
+Kandah;Khauran;Khauran;Khauran;2;N;
+Kandah;Khauran;Karvek;Koth;7;SO;
+Kandah;Khauran;Larsha;Zamora;8;N;
+Kandah;Khauran;Arenjun;Zamora;8;N;
+Kandah;Khauran;Khanyria;Khoraja;9;SO;
+Kandah;Khauran;Shadizar;Zamora;10;NO;
+Kandah;Khauran;Khoraja;Khoraja;11;SO;
+Kandah;Khauran;Zamindi;Zamora;12;N;
+Kandah;Khauran;Rhoulan;Desierto Oriental / Meridional (sin reino);13;S;
+Kandah;Khauran;Komash;Zamora;14;N;
+Kandah;Khauran;Ababenzzar;Turan;14;NE;
+Balkhana;Hyrkania;Dimmorz;Augir (franja roja junto al Vilayet);6;S;
+Balkhana;Hyrkania;Razadan;Augir (franja roja junto al Vilayet);8;S;
+Balkhana;Hyrkania;Makkalat;Augir (franja roja junto al Vilayet);13;S;
+Balkhana;Hyrkania;Pah-Dishah;Hyrkania;13;S;
+Balkhana;Hyrkania;Khoraf;Augir (franja roja junto al Vilayet);20;S;>14 días
+Balkhana;Hyrkania;Khorusun;Turan;28;S;>14 días
+Balkhana;Hyrkania;Rhamdan;Turan;31;S;>14 días
+Balkhana;Hyrkania;Nagrul;Hyrkania;31;S;>14 días
+Balkhana;Hyrkania;Djemal;Hyrkania;35;S;>14 días
+Balkhana;Hyrkania;Ashraf;Turan;35;S;>14 días
+Dimmorz;Augir (franja roja junto al Vilayet);Razadan;Augir (franja roja junto al Vilayet);2;SO;
+Dimmorz;Augir (franja roja junto al Vilayet);Balkhana;Hyrkania;6;N;
+Dimmorz;Augir (franja roja junto al Vilayet);Makkalat;Augir (franja roja junto al Vilayet);7;S;
+Dimmorz;Augir (franja roja junto al Vilayet);Pah-Dishah;Hyrkania;9;S;
+Dimmorz;Augir (franja roja junto al Vilayet);Khoraf;Augir (franja roja junto al Vilayet);14;S;
+Dimmorz;Augir (franja roja junto al Vilayet);Khorusun;Turan;22;S;>14 días
+Dimmorz;Augir (franja roja junto al Vilayet);Rhamdan;Turan;25;S;>14 días
+Dimmorz;Augir (franja roja junto al Vilayet);Nagrul;Hyrkania;25;S;>14 días
+Dimmorz;Augir (franja roja junto al Vilayet);Djemal;Hyrkania;31;S;>14 días
+Dimmorz;Augir (franja roja junto al Vilayet);Ashraf;Turan;31;S;>14 días
+Razadan;Augir (franja roja junto al Vilayet);Dimmorz;Augir (franja roja junto al Vilayet);2;NE;
+Razadan;Augir (franja roja junto al Vilayet);Makkalat;Augir (franja roja junto al Vilayet);5;S;
+Razadan;Augir (franja roja junto al Vilayet);Balkhana;Hyrkania;8;N;
+Razadan;Augir (franja roja junto al Vilayet);Pah-Dishah;Hyrkania;8;SE;
+Razadan;Augir (franja roja junto al Vilayet);Khoraf;Augir (franja roja junto al Vilayet);12;S;
+Razadan;Augir (franja roja junto al Vilayet);Khorusun;Turan;20;S;>14 días
+Razadan;Augir (franja roja junto al Vilayet);Rhamdan;Turan;23;S;>14 días
+Razadan;Augir (franja roja junto al Vilayet);Nagrul;Hyrkania;23;S;>14 días
+Razadan;Augir (franja roja junto al Vilayet);Yueshi;Turan;30;S;>14 días
+Razadan;Augir (franja roja junto al Vilayet);Djemal;Hyrkania;30;S;>14 días
+Makkalat;Augir (franja roja junto al Vilayet);Razadan;Augir (franja roja junto al Vilayet);5;N;
+Makkalat;Augir (franja roja junto al Vilayet);Pah-Dishah;Hyrkania;5;SE;
+Makkalat;Augir (franja roja junto al Vilayet);Dimmorz;Augir (franja roja junto al Vilayet);7;N;
+Makkalat;Augir (franja roja junto al Vilayet);Khoraf;Augir (franja roja junto al Vilayet);7;S;
+Makkalat;Augir (franja roja junto al Vilayet);Balkhana;Hyrkania;13;N;
+Makkalat;Augir (franja roja junto al Vilayet);Khorusun;Turan;15;S;>14 días
+Makkalat;Augir (franja roja junto al Vilayet);Rhamdan;Turan;18;S;>14 días
+Makkalat;Augir (franja roja junto al Vilayet);Nagrul;Hyrkania;18;S;>14 días
+Makkalat;Augir (franja roja junto al Vilayet);Yueshi;Turan;25;S;>14 días
+Makkalat;Augir (franja roja junto al Vilayet);Djemal;Hyrkania;25;S;>14 días
+Pah-Dishah;Hyrkania;Makkalat;Augir (franja roja junto al Vilayet);5;NO;
+Pah-Dishah;Hyrkania;Razadan;Augir (franja roja junto al Vilayet);8;NO;
+Pah-Dishah;Hyrkania;Dimmorz;Augir (franja roja junto al Vilayet);9;N;
+Pah-Dishah;Hyrkania;Khoraf;Augir (franja roja junto al Vilayet);9;SO;
+Pah-Dishah;Hyrkania;Balkhana;Hyrkania;13;N;
+Pah-Dishah;Hyrkania;Khorusun;Turan;17;S;>14 días
+Pah-Dishah;Hyrkania;Rhamdan;Turan;20;S;>14 días
+Pah-Dishah;Hyrkania;Nagrul;Hyrkania;20;S;>14 días
+Pah-Dishah;Hyrkania;Djemal;Hyrkania;22;S;>14 días
+Pah-Dishah;Hyrkania;Ashraf;Turan;24;S;>14 días
+Khoraf;Augir (franja roja junto al Vilayet);Makkalat;Augir (franja roja junto al Vilayet);7;N;
+Khoraf;Augir (franja roja junto al Vilayet);Khorusun;Turan;8;S;
+Khoraf;Augir (franja roja junto al Vilayet);Pah-Dishah;Hyrkania;9;NE;
+Khoraf;Augir (franja roja junto al Vilayet);Rhamdan;Turan;11;S;
+Khoraf;Augir (franja roja junto al Vilayet);Nagrul;Hyrkania;11;S;
+Khoraf;Augir (franja roja junto al Vilayet);Razadan;Augir (franja roja junto al Vilayet);12;N;
+Khoraf;Augir (franja roja junto al Vilayet);Dimmorz;Augir (franja roja junto al Vilayet);14;N;
+Khoraf;Augir (franja roja junto al Vilayet);Yueshi;Turan;18;S;>14 días
+Khoraf;Augir (franja roja junto al Vilayet);Djemal;Hyrkania;18;S;>14 días
+Khoraf;Augir (franja roja junto al Vilayet);Ashraf;Turan;18;S;>14 días
+Thogara;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);4;NE;
+Thogara;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);6;S;
+Thogara;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);8;SE;
+Thogara;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);9;S;
+Thogara;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);11;SE;
+Thogara;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);14;SE;
+Thogara;Meru (región de Sumeru Tso);Secunderam;Kosala;21;SO;>14 días
+Thogara;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);24;S;>14 días
+Thogara;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);26;S;>14 días
+Thogara;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);29;SE;>14 días
+Auzakia;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);4;SO;
+Auzakia;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);4;SE;
+Auzakia;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);7;SE;
+Auzakia;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);9;SO;
+Auzakia;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);12;S;
+Auzakia;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);12;S;
+Auzakia;Meru (región de Sumeru Tso);Secunderam;Kosala;24;SO;>14 días
+Auzakia;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);25;SE;>14 días
+Auzakia;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);27;S;>14 días
+Auzakia;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);29;S;>14 días
+Issedon;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);3;SE;
+Issedon;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);4;NO;
+Issedon;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);8;NO;
+Issedon;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);8;S;
+Issedon;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);13;SO;
+Issedon;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);13;SO;
+Issedon;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);21;S;>14 días
+Issedon;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);25;S;>14 días
+Issedon;Meru (región de Sumeru Tso);Khurum;Montañas Himelianas (Afghulis / Ghulistán);26;S;>14 días
+Issedon;Meru (región de Sumeru Tso);Secunderam;Kosala;28;SO;>14 días
+Pauana;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);3;NO;
+Pauana;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);5;SO;
+Pauana;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);7;NO;
+Pauana;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);10;SO;
+Pauana;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);11;NO;
+Pauana;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);13;SO;
+Pauana;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);18;S;>14 días
+Pauana;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);22;S;>14 días
+Pauana;Meru (región de Sumeru Tso);Khurum;Montañas Himelianas (Afghulis / Ghulistán);23;S;>14 días
+Pauana;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);25;SO;>14 días
+Shomdakor;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);3;SE;
+Shomdakor;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);6;N;
+Shomdakor;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);8;SE;
+Shomdakor;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);9;NE;
+Shomdakor;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);13;NE;
+Shomdakor;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);13;NE;
+Shomdakor;Meru (región de Sumeru Tso);Secunderam;Kosala;16;SO;>14 días
+Shomdakor;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);18;S;>14 días
+Shomdakor;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);20;S;>14 días
+Shomdakor;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);26;SE;>14 días
+Shamballa;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);3;NO;
+Shamballa;Meru (región de Sumeru Tso);Thrdana;Meru (región de Sumeru Tso);5;SE;
+Shamballa;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);9;N;
+Shamballa;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);10;NE;
+Shamballa;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);12;N;
+Shamballa;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);13;NE;
+Shamballa;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);17;S;>14 días
+Shamballa;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);17;S;>14 días
+Shamballa;Meru (región de Sumeru Tso);Secunderam;Kosala;18;SO;>14 días
+Shamballa;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);23;SE;>14 días
+Thrdana;Meru (región de Sumeru Tso);Pauana;Meru (región de Sumeru Tso);5;NE;
+Thrdana;Meru (región de Sumeru Tso);Shamballa;Meru (región de Sumeru Tso);5;NO;
+Thrdana;Meru (región de Sumeru Tso);Issedon;Meru (región de Sumeru Tso);8;N;
+Thrdana;Meru (región de Sumeru Tso);Shomdakor;Meru (región de Sumeru Tso);8;NO;
+Thrdana;Meru (región de Sumeru Tso);Auzakia;Meru (región de Sumeru Tso);12;N;
+Thrdana;Meru (región de Sumeru Tso);Thogara;Meru (región de Sumeru Tso);14;NO;
+Thrdana;Meru (región de Sumeru Tso);Ghor;Montañas Himelianas (Afghulis / Ghulistán);17;S;>14 días
+Thrdana;Meru (región de Sumeru Tso);Khojur;Montañas Himelianas (Afghulis / Ghulistán);18;SE;>14 días
+Thrdana;Meru (región de Sumeru Tso);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);20;SO;>14 días
+Thrdana;Meru (región de Sumeru Tso);Secunderam;Kosala;22;SO;>14 días
+Kusan;Khitai;Chu-Chen;Khitai;11;NE;
+Kusan;Khitai;Wantengri;Khitai;14;SE;
+Kusan;Khitai;Shan-E-Sorkh;Khitai;23;S;>14 días
+Kusan;Khitai;Paikang;Khitai;27;SE;>14 días
+Kusan;Khitai;Shaulan;Khitai;33;S;>14 días
+Kusan;Khitai;Issedon;Meru (región de Sumeru Tso);43;S;>14 días
+Kusan;Khitai;Auzakia;Meru (región de Sumeru Tso);44;S;>14 días
+Kusan;Khitai;Pauana;Meru (región de Sumeru Tso);45;S;>14 días
+Kusan;Khitai;Ruo-Gen;Khitai;46;S;>14 días
+Kusan;Khitai;Thogara;Meru (región de Sumeru Tso);48;SO;>14 días
+Chu-Chen;Khitai;Kusan;Khitai;11;SO;
+Chu-Chen;Khitai;Wantengri;Khitai;12;S;
+Chu-Chen;Khitai;Paikang;Khitai;24;S;>14 días
+Chu-Chen;Khitai;Shan-E-Sorkh;Khitai;28;S;>14 días
+Chu-Chen;Khitai;Shaulan;Khitai;36;S;>14 días
+Chu-Chen;Khitai;Ruo-Gen;Khitai;48;S;>14 días
+Chu-Chen;Khitai;Issedon;Meru (región de Sumeru Tso);51;SO;>14 días
+Chu-Chen;Khitai;Auzakia;Meru (región de Sumeru Tso);53;SO;>14 días
+Chu-Chen;Khitai;Pauana;Meru (región de Sumeru Tso);53;S;>14 días
+Chu-Chen;Khitai;Thogara;Meru (región de Sumeru Tso);57;SO;>14 días
+Wantengri;Khitai;Chu-Chen;Khitai;12;N;
+Wantengri;Khitai;Kusan;Khitai;14;NO;
+Wantengri;Khitai;Paikang;Khitai;16;S;>14 días
+Wantengri;Khitai;Shan-E-Sorkh;Khitai;16;SO;>14 días
+Wantengri;Khitai;Shaulan;Khitai;24;S;>14 días
+Wantengri;Khitai;Ruo-Gen;Khitai;36;S;>14 días
+Wantengri;Khitai;Issedon;Meru (región de Sumeru Tso);43;SO;>14 días
+Wantengri;Khitai;Auzakia;Meru (región de Sumeru Tso);45;SO;>14 días
+Wantengri;Khitai;Pauana;Meru (región de Sumeru Tso);45;SO;>14 días
+Wantengri;Khitai;Thogara;Meru (región de Sumeru Tso);49;SO;>14 días
+Paikang;Khitai;Wantengri;Khitai;14;N;
+Paikang;Khitai;Shan-E-Sorkh;Khitai;20;SO;>14 días
+Paikang;Khitai;Shaulan;Khitai;21;SO;>14 días
+Paikang;Khitai;Chu-Chen;Khitai;22;N;>14 días
+Paikang;Khitai;Kusan;Khitai;25;NO;>14 días
+Paikang;Khitai;Ruo-Gen;Khitai;30;S;>14 días
+Paikang;Khitai;Issedon;Meru (región de Sumeru Tso);49;SO;>14 días
+Paikang;Khitai;Auzakia;Meru (región de Sumeru Tso);51;SO;>14 días
+Paikang;Khitai;Pauana;Meru (región de Sumeru Tso);51;SO;>14 días
+Paikang;Khitai;Thogara;Meru (región de Sumeru Tso);55;SO;>14 días
+Shan-E-Sorkh;Khitai;Shaulan;Khitai;12;SE;
+Shan-E-Sorkh;Khitai;Wantengri;Khitai;14;NE;
+Shan-E-Sorkh;Khitai;Paikang;Khitai;20;NE;>14 días
+Shan-E-Sorkh;Khitai;Kusan;Khitai;21;N;>14 días
+Shan-E-Sorkh;Khitai;Chu-Chen;Khitai;26;N;>14 días
+Shan-E-Sorkh;Khitai;Ruo-Gen;Khitai;27;S;>14 días
+Shan-E-Sorkh;Khitai;Issedon;Meru (región de Sumeru Tso);33;SO;>14 días
+Shan-E-Sorkh;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
+Shan-E-Sorkh;Khitai;Pauana;Meru (región de Sumeru Tso);35;SO;>14 días
+Shan-E-Sorkh;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
+Shaulan;Khitai;Shan-E-Sorkh;Khitai;12;NO;
+Shaulan;Khitai;Ruo-Gen;Khitai;15;S;>14 días
+Shaulan;Khitai;Paikang;Khitai;21;NE;>14 días
+Shaulan;Khitai;Wantengri;Khitai;22;N;>14 días
+Shaulan;Khitai;Kusan;Khitai;31;N;>14 días
+Shaulan;Khitai;Issedon;Meru (región de Sumeru Tso);32;SO;>14 días
+Shaulan;Khitai;Pauana;Meru (región de Sumeru Tso);34;SO;>14 días
+Shaulan;Khitai;Chu-Chen;Khitai;34;N;>14 días
+Shaulan;Khitai;Auzakia;Meru (región de Sumeru Tso);35;SO;>14 días
+Shaulan;Khitai;Thogara;Meru (región de Sumeru Tso);39;SO;>14 días
+Ruo-Gen;Khitai;Shaulan;Khitai;15;N;>14 días
+Ruo-Gen;Khitai;Shan-E-Sorkh;Khitai;27;N;>14 días
+Ruo-Gen;Khitai;Paikang;Khitai;30;N;>14 días
+Ruo-Gen;Khitai;Wantengri;Khitai;34;N;>14 días
+Ruo-Gen;Khitai;Pauana;Meru (región de Sumeru Tso);36;SO;>14 días
+Ruo-Gen;Khitai;Issedon;Meru (región de Sumeru Tso);37;SO;>14 días
+Ruo-Gen;Khitai;Thrdana;Meru (región de Sumeru Tso);39;SO;>14 días
+Ruo-Gen;Khitai;Auzakia;Meru (región de Sumeru Tso);41;SO;>14 días
+Ruo-Gen;Khitai;Shamballa;Meru (región de Sumeru Tso);44;SO;>14 días
+Ruo-Gen;Khitai;Kusan;Khitai;44;N;>14 días
+Venzia;Argos;Koda;Zingara;10;N;
+Venzia;Argos;Jerida;Zingara;12;NO;
+Venzia;Argos;Varza;Zingara;13;N;
+Venzia;Argos;Messantia;Argos;14;SE;
+Venzia;Argos;Guarralio;Zingara;15;N;>14 días
+Venzia;Argos;Yorkin;Zingara;16;NO;>14 días
+Venzia;Argos;Cularío;Aquilonia;20;NE;>14 días
+Venzia;Argos;Kordava;Zingara;22;NO;>14 días
+Venzia;Argos;Dan-Markah;Shem;22;SE;>14 días
+Venzia;Argos;Asgalun;Shem;22;SE;>14 días
+Messantia;Argos;Asgalun;Shem;9;SE;
+Messantia;Argos;Dan-Markah;Shem;12;NE;
+Messantia;Argos;Venzia;Argos;14;NO;
+Messantia;Argos;Kyros;Shem;14;SE;
+Messantia;Argos;Cularío;Aquilonia;19;N;>14 días
+Messantia;Argos;Varza;Zingara;20;N;>14 días
+Messantia;Argos;Khemi;Estigia;21;SE;>14 días
+Messantia;Argos;Pedassa;Aquilonia;22;N;>14 días
+Messantia;Argos;Koda;Zingara;22;NO;>14 días
+Messantia;Argos;Ghaza;Shem;22;SE;>14 días
+Kordava;Zingara;Yorkin;Zingara;6;SE;
+Kordava;Zingara;Jerida;Zingara;10;SE;
+Kordava;Zingara;Koda;Zingara;16;SE;>14 días
+Kordava;Zingara;Guarralio;Zingara;18;NE;>14 días
+Kordava;Zingara;Thandara;Aquilonia;19;NE;>14 días
+Kordava;Zingara;Varza;Zingara;21;SE;>14 días
+Kordava;Zingara;Lor;Aquilonia;23;NE;>14 días
+Kordava;Zingara;Venzia;Argos;23;SE;>14 días
+Kordava;Zingara;Elymir;Aquilonia;25;NE;>14 días
+Kordava;Zingara;Cularío;Aquilonia;26;NE;>14 días
+Yorkin;Zingara;Jerida;Zingara;4;SE;
+Yorkin;Zingara;Kordava;Zingara;6;NO;
+Yorkin;Zingara;Koda;Zingara;10;SE;
+Yorkin;Zingara;Guarralio;Zingara;12;NE;
+Yorkin;Zingara;Varza;Zingara;15;NE;>14 días
+Yorkin;Zingara;Venzia;Argos;17;SE;>14 días
+Yorkin;Zingara;Thandara;Aquilonia;18;N;>14 días
+Yorkin;Zingara;Elymir;Aquilonia;20;NE;>14 días
+Yorkin;Zingara;Cularío;Aquilonia;20;NE;>14 días
+Yorkin;Zingara;Lor;Aquilonia;22;NE;>14 días
+Jerida;Zingara;Yorkin;Zingara;4;NO;
+Jerida;Zingara;Koda;Zingara;6;NE;
+Jerida;Zingara;Guarralio;Zingara;9;NE;
+Jerida;Zingara;Kordava;Zingara;10;NO;
+Jerida;Zingara;Varza;Zingara;11;NE;
+Jerida;Zingara;Venzia;Argos;13;SE;
+Jerida;Zingara;Cularío;Aquilonia;16;NE;>14 días
+Jerida;Zingara;Thandara;Aquilonia;17;N;>14 días
+Jerida;Zingara;Pedassa;Aquilonia;18;NE;>14 días
+Jerida;Zingara;Elymir;Aquilonia;19;NE;>14 días
+Koda;Zingara;Varza;Zingara;5;NE;
+Koda;Zingara;Guarralio;Zingara;5;N;
+Koda;Zingara;Jerida;Zingara;6;SO;
+Koda;Zingara;Cularío;Aquilonia;10;NE;
+Koda;Zingara;Yorkin;Zingara;10;NO;
+Koda;Zingara;Venzia;Argos;11;S;
+Koda;Zingara;Pedassa;Aquilonia;14;NE;
+Koda;Zingara;Elymir;Aquilonia;15;NE;>14 días
+Koda;Zingara;Kordava;Zingara;16;NO;>14 días
+Koda;Zingara;Lor;Aquilonia;17;N;>14 días
+Varza;Zingara;Koda;Zingara;5;SO;
+Varza;Zingara;Guarralio;Zingara;5;NO;
+Varza;Zingara;Cularío;Aquilonia;7;NE;
+Varza;Zingara;Pedassa;Aquilonia;11;NE;
+Varza;Zingara;Jerida;Zingara;11;SO;
+Varza;Zingara;Elymir;Aquilonia;12;N;
+Varza;Zingara;Lor;Aquilonia;14;N;
+Varza;Zingara;Venzia;Argos;14;S;
+Varza;Zingara;Yorkin;Zingara;15;SO;>14 días
+Varza;Zingara;Dan-Markah;Shem;18;SE;>14 días
+Guarralio;Zingara;Koda;Zingara;5;S;
+Guarralio;Zingara;Varza;Zingara;5;SE;
+Guarralio;Zingara;Cularío;Aquilonia;8;NE;
+Guarralio;Zingara;Jerida;Zingara;9;SO;
+Guarralio;Zingara;Elymir;Aquilonia;10;NE;
+Guarralio;Zingara;Pedassa;Aquilonia;10;NE;
+Guarralio;Zingara;Lor;Aquilonia;12;N;
+Guarralio;Zingara;Yorkin;Zingara;12;SO;
+Guarralio;Zingara;Thandara;Aquilonia;14;NO;
+Guarralio;Zingara;Venzia;Argos;16;S;>14 días
+Dan-Markah;Shem;Asgalun;Shem;4;SO;
+Dan-Markah;Shem;Kyros;Shem;6;S;
+Dan-Markah;Shem;Ghaza;Shem;10;SE;
+Dan-Markah;Shem;Khemi;Estigia;12;SE;
+Dan-Markah;Shem;Messantia;Argos;13;SO;
+Dan-Markah;Shem;Cularío;Aquilonia;17;N;>14 días
+Dan-Markah;Shem;Harakht;Estigia;17;SE;>14 días
+Dan-Markah;Shem;Varza;Zingara;18;NO;>14 días
+Dan-Markah;Shem;Anakia;Shem;18;SE;>14 días
+Dan-Markah;Shem;Pedassa;Aquilonia;19;N;>14 días
+Ghaza;Shem;Khemi;Estigia;6;S;
+Ghaza;Shem;Kyros;Shem;8;SO;
+Ghaza;Shem;Anakia;Shem;8;NE;
+Ghaza;Shem;Dan-Markah;Shem;10;NO;
+Ghaza;Shem;Buryat;Shem;10;SE;
+Ghaza;Shem;Harakht;Estigia;10;SE;
+Ghaza;Shem;Asgalun;Shem;13;SO;
+Ghaza;Shem;Attalus;Estigia;14;SE;
+Ghaza;Shem;Kheshatta;Estigia;15;S;>14 días
+Ghaza;Shem;Luxur;Estigia;16;SE;>14 días
+Asgalun;Shem;Dan-Markah;Shem;4;NE;
+Asgalun;Shem;Kyros;Shem;5;SE;
+Asgalun;Shem;Messantia;Argos;10;NO;
+Asgalun;Shem;Khemi;Estigia;12;SE;
+Asgalun;Shem;Ghaza;Shem;13;NE;
+Asgalun;Shem;Cularío;Aquilonia;18;N;>14 días
+Asgalun;Shem;Varza;Zingara;19;NO;>14 días
+Asgalun;Shem;Pedassa;Aquilonia;20;N;>14 días
+Asgalun;Shem;Harakht;Estigia;20;SE;>14 días
+Asgalun;Shem;Anakia;Shem;21;NE;>14 días
+Kyros;Shem;Asgalun;Shem;5;NO;
+Kyros;Shem;Dan-Markah;Shem;6;N;
+Kyros;Shem;Khemi;Estigia;7;SE;
+Kyros;Shem;Ghaza;Shem;8;NE;
+Kyros;Shem;Messantia;Argos;15;NO;>14 días
+Kyros;Shem;Harakht;Estigia;15;SE;>14 días
+Kyros;Shem;Anakia;Shem;16;NE;>14 días
+Kyros;Shem;Kheshatta;Estigia;16;SE;>14 días
+Kyros;Shem;Attalus;Estigia;17;SE;>14 días
+Kyros;Shem;Umr;Kush;17;S;>14 días
+Anakia;Shem;Buryat;Shem;6;S;
+Anakia;Shem;Ghaza;Shem;8;SO;
+Anakia;Shem;Harakht;Estigia;9;S;
+Anakia;Shem;Akkharia;Shem;10;SE;
+Anakia;Shem;Khrosha;Koth;11;N;
+Anakia;Shem;Khemi;Estigia;12;SO;
+Anakia;Shem;Attalus;Estigia;12;S;
+Anakia;Shem;Luxur;Estigia;13;S;
+Anakia;Shem;Nebthu;Estigia;13;SE;
+Anakia;Shem;Shumir;Shem;14;NE;
+Shumir;Shem;Eruk;Shem;5;NE;
+Shumir;Shem;Nipor;Shem;5;SE;
+Shumir;Shem;Meshken;Khoraja;7;NE;
+Shumir;Shem;Akkharia;Shem;9;S;
+Shumir;Shem;Shushan;Shem;9;SE;
+Shumir;Shem;Khrosha;Koth;10;NO;
+Shumir;Shem;Khoraja;Khoraja;12;NE;
+Shumir;Shem;Buryat;Shem;13;SO;
+Shumir;Shem;Akbitana;Shem;13;SE;
+Shumir;Shem;Sabatea;Shem;13;SE;
+Shumir;Shem;Anakia;Shem;14;SO;
+Shumir;Shem;City of Set;Estigia;14;S;
+Shumir;Shem;Sekan;Estigia;14;SE;
+Shumir;Shem;Nebthu;Estigia;14;S;
+Buryat;Shem;Harakht;Estigia;5;SO;
+Buryat;Shem;Anakia;Shem;6;N;
+Buryat;Shem;Luxur;Estigia;7;SE;
+Buryat;Shem;Nebthu;Estigia;7;SE;
+Buryat;Shem;Akkharia;Shem;8;SE;
+Buryat;Shem;Attalus;Estigia;8;S;
+Buryat;Shem;Ghaza;Shem;10;NO;
+Buryat;Shem;Khemi;Estigia;11;SO;
+Buryat;Shem;Shumir;Shem;13;NE;
+Buryat;Shem;Kheshatta;Estigia;14;SO;
+Akkharia;Shem;Nebthu;Estigia;5;SO;
+Akkharia;Shem;Luxur;Estigia;7;SO;
+Akkharia;Shem;Buryat;Shem;8;NO;
+Akkharia;Shem;Shumir;Shem;9;N;
+Akkharia;Shem;Anakia;Shem;10;NO;
+Akkharia;Shem;Nipor;Shem;10;NE;
+Akkharia;Shem;Shushan;Shem;10;NE;
+Akkharia;Shem;Harakht;Estigia;11;SO;
+Akkharia;Shem;City of Set;Estigia;11;SE;
+Akkharia;Shem;Attalus;Estigia;13;SO;
+Akkharia;Shem;Sekan;Estigia;13;SE;
+Akkharia;Shem;Eruk;Shem;14;NE;
+Akkharia;Shem;Akbitana;Shem;14;NE;
+Akkharia;Shem;Sabatea;Shem;14;SE;
+Akkharia;Shem;Rasht;Estigia;14;SE;
+Carnolla;Ophir;Ronnaco;Ophir;6;NE;
+Carnolla;Ophir;Khorshemish;Koth;8;NE;
+Carnolla;Ophir;Pergona;Ophir;9;NE;
+Carnolla;Ophir;Shamar;Aquilonia;11;N;
+Carnolla;Ophir;Ianthe;Ophir;13;N;
+Carnolla;Ophir;Pedassa;Aquilonia;14;NO;
+Carnolla;Ophir;Cularío;Aquilonia;16;NO;>14 días
+Carnolla;Ophir;Tarantia;Aquilonia;17;NO;>14 días
+Carnolla;Ophir;Elymir;Aquilonia;17;NO;>14 días
+Carnolla;Ophir;Dan-Markah;Shem;17;S;>14 días
+Khrosha;Koth;Shumir;Shem;10;SE;
+Khrosha;Koth;Khorshemish;Koth;10;NO;
+Khrosha;Koth;Anakia;Shem;11;S;
+Khrosha;Koth;Eruk;Shem;14;SE;
+Khrosha;Koth;Buryat;Shem;15;S;>14 días
+Khrosha;Koth;Akkharia;Shem;15;S;>14 días
+Khrosha;Koth;Nipor;Shem;15;SE;>14 días
+Khrosha;Koth;Ronnaco;Ophir;16;NO;>14 días
+Khrosha;Koth;Meshken;Khoraja;16;SE;>14 días
+Khrosha;Koth;Lanjau;Corinthia;18;N;>14 días
+Khorshemish;Koth;Ronnaco;Ophir;7;NO;
+Khorshemish;Koth;Carnolla;Ophir;10;SO;
+Khorshemish;Koth;Khrosha;Koth;10;SE;
+Khorshemish;Koth;Pergona;Ophir;10;NO;
+Khorshemish;Koth;Ianthe;Ophir;13;N;
+Khorshemish;Koth;Shamar;Aquilonia;14;NO;
+Khorshemish;Koth;Hanumar;Nemedia;16;N;>14 días
+Khorshemish;Koth;Anakia;Shem;17;S;>14 días
+Khorshemish;Koth;Belverus;Nemedia;18;N;>14 días
+Khorshemish;Koth;Tor;Nemedia;19;N;>14 días
+Pergona;Ophir;Ronnaco;Ophir;3;S;
+Pergona;Ophir;Ianthe;Ophir;7;N;
+Pergona;Ophir;Shamar;Aquilonia;8;NO;
+Pergona;Ophir;Khorshemish;Koth;8;SE;
+Pergona;Ophir;Carnolla;Ophir;9;SO;
+Pergona;Ophir;Tarantia;Aquilonia;14;NO;
+Pergona;Ophir;Hanumar;Nemedia;14;N;
+Pergona;Ophir;Pedassa;Aquilonia;15;NO;>14 días
+Pergona;Ophir;Belverus;Nemedia;16;N;>14 días
+Pergona;Ophir;Tor;Nemedia;16;N;>14 días
+Ronnaco;Ophir;Pergona;Ophir;3;N;
+Ronnaco;Ophir;Khorshemish;Koth;5;SE;
+Ronnaco;Ophir;Carnolla;Ophir;6;SO;
+Ronnaco;Ophir;Ianthe;Ophir;10;N;
+Ronnaco;Ophir;Shamar;Aquilonia;11;NO;
+Ronnaco;Ophir;Khrosha;Koth;14;SE;
+Ronnaco;Ophir;Tarantia;Aquilonia;17;NO;>14 días
+Ronnaco;Ophir;Pedassa;Aquilonia;17;NO;>14 días
+Ronnaco;Ophir;Hanumar;Nemedia;17;N;>14 días
+Ronnaco;Ophir;Cularío;Aquilonia;19;SO;>14 días
+Khemi;Estigia;Ghaza;Shem;6;N;
+Khemi;Estigia;Kyros;Shem;7;NO;
+Khemi;Estigia;Harakht;Estigia;8;SE;
+Khemi;Estigia;Kheshatta;Estigia;9;S;
+Khemi;Estigia;Attalus;Estigia;10;SE;
+Khemi;Estigia;Umr;Kush;10;S;
+Khemi;Estigia;Buryat;Shem;11;NE;
+Khemi;Estigia;Dan-Markah;Shem;12;NO;
+Khemi;Estigia;Asgalun;Shem;12;NO;
+Khemi;Estigia;Anakia;Shem;12;NE;
+Khemi;Estigia;Zabhela;Kush;14;S;
+Harakht;Estigia;Attalus;Estigia;4;S;
+Harakht;Estigia;Buryat;Shem;5;NE;
+Harakht;Estigia;Khemi;Estigia;8;NO;
+Harakht;Estigia;Anakia;Shem;9;N;
+Harakht;Estigia;Kheshatta;Estigia;9;SO;
+Harakht;Estigia;Luxur;Estigia;9;SE;
+Harakht;Estigia;Ghaza;Shem;10;NO;
+Harakht;Estigia;Nebthu;Estigia;10;NE;
+Harakht;Estigia;Akkharia;Shem;11;NE;
+Harakht;Estigia;Umr;Kush;13;SO;
+Harakht;Estigia;Sukhmet;Estigia;14;S;
+Attalus;Estigia;Harakht;Estigia;4;N;
+Attalus;Estigia;Kheshatta;Estigia;7;SO;
+Attalus;Estigia;Buryat;Shem;8;N;
+Attalus;Estigia;Luxur;Estigia;8;NE;
+Attalus;Estigia;Khemi;Estigia;10;NO;
+Attalus;Estigia;Sukhmet;Estigia;10;S;
+Attalus;Estigia;Umr;Kush;11;SO;
+Attalus;Estigia;Anakia;Shem;12;N;
+Attalus;Estigia;Nebthu;Estigia;12;NE;
+Attalus;Estigia;Akkharia;Shem;13;NE;
+Attalus;Estigia;Mehoe;Kush;13;S;
+Attalus;Estigia;Gazal;Estigia;13;SE;
+Attalus;Estigia;Ghaza;Shem;14;NO;
+Kheshatta;Estigia;Umr;Kush;6;SO;
+Kheshatta;Estigia;Attalus;Estigia;7;NE;
+Kheshatta;Estigia;Khemi;Estigia;9;N;
+Kheshatta;Estigia;Harakht;Estigia;9;NE;
+Kheshatta;Estigia;Mehoe;Kush;9;S;
+Kheshatta;Estigia;Zabhela;Kush;10;S;
+Kheshatta;Estigia;Sukhmet;Estigia;11;SE;
+Kheshatta;Estigia;Gazal;Estigia;13;SE;
+Kheshatta;Estigia;Buryat;Shem;14;NE;
+Kheshatta;Estigia;Ghaza;Shem;15;N;>14 días
+Luxur;Estigia;Nebthu;Estigia;5;N;
+Luxur;Estigia;Buryat;Shem;7;NO;
+Luxur;Estigia;Akkharia;Shem;7;NE;
+Luxur;Estigia;Attalus;Estigia;8;SO;
+Luxur;Estigia;Harakht;Estigia;9;NO;
+Luxur;Estigia;Gazal;Estigia;12;S;
+Luxur;Estigia;Anakia;Shem;13;N;
+Luxur;Estigia;Sukhmet;Estigia;13;S;
+Luxur;Estigia;Kheshatta;Estigia;15;SO;>14 días
+Luxur;Estigia;Ghaza;Shem;16;NO;>14 días
+Zabhela;Kush;Umr;Kush;4;N;
+Zabhela;Kush;Mehoe;Kush;7;SE;
+Zabhela;Kush;Bakalah;Dungad;8;S;
+Zabhela;Kush;Bambula;Dungad;9;SE;
+Zabhela;Kush;Kheshatta;Estigia;10;N;
+Zabhela;Kush;Kuthal;Bighania (zona desértica con Tombalku);10;SE;
+Zabhela;Kush;Jihui;Dungad;12;S;
+Zabhela;Kush;Sukhmet;Estigia;13;NE;
+Zabhela;Kush;City of the Winged One;Katum;13;S;
+Zabhela;Kush;Khemi;Estigia;14;N;
+Zabhela;Kush;Tombalku;Bighania (zona desértica con Tombalku);14;SE;
+Umr;Kush;Zabhela;Kush;4;S;
+Umr;Kush;Kheshatta;Estigia;6;NE;
+Umr;Kush;Mehoe;Kush;7;SE;
+Umr;Kush;Khemi;Estigia;10;N;
+Umr;Kush;Attalus;Estigia;11;NE;
+Umr;Kush;Bakalah;Dungad;11;S;
+Umr;Kush;Sukhmet;Estigia;12;NE;
+Umr;Kush;Bambula;Dungad;12;S;
+Umr;Kush;Harakht;Estigia;13;NE;
+Umr;Kush;Kuthal;Bighania (zona desértica con Tombalku);13;SE;
+Umr;Kush;Tombalku;Bighania (zona desértica con Tombalku);14;SE;
+Umr;Kush;Gazal;Estigia;14;SE;
+Mehoe;Kush;Kuthal;Bighania (zona desértica con Tombalku);6;SE;
+Mehoe;Kush;Zabhela;Kush;7;NO;
+Mehoe;Kush;Umr;Kush;7;NO;
+Mehoe;Kush;Tombalku;Bighania (zona desértica con Tombalku);7;SE;
+Mehoe;Kush;Sukhmet;Estigia;7;NE;
+Mehoe;Kush;Gazal;Estigia;8;NE;
+Mehoe;Kush;Bambula;Dungad;8;S;
+Mehoe;Kush;Kheshatta;Estigia;9;N;
+Mehoe;Kush;Bakalah;Dungad;10;SO;
+Mehoe;Kush;Jihui;Dungad;11;S;
+Mehoe;Kush;Attalus;Estigia;13;N;
+Tombalku;Bighania (zona desértica con Tombalku);Mehoe;Kush;6;NO;
+Tombalku;Bighania (zona desértica con Tombalku);Kuthal;Bighania (zona desértica con Tombalku);6;SO;
+Tombalku;Bighania (zona desértica con Tombalku);Sukhmet;Estigia;8;N;
+Tombalku;Bighania (zona desértica con Tombalku);Gazal;Estigia;8;NE;
+Tombalku;Bighania (zona desértica con Tombalku);Bambula;Dungad;12;SO;
+Tombalku;Bighania (zona desértica con Tombalku);Zabhela;Kush;13;NO;
+Tombalku;Bighania (zona desértica con Tombalku);Umr;Kush;13;NO;
+Tombalku;Bighania (zona desértica con Tombalku);Kuchotl;Katum;13;SE;
+Tombalku;Bighania (zona desértica con Tombalku);Kheshatta;Estigia;15;NO;>14 días
+Tombalku;Bighania (zona desértica con Tombalku);Jihui;Dungad;15;SO;>14 días
+Khoraja;Khoraja;Meshken;Khoraja;5;SO;
+Khoraja;Khoraja;Karvek;Koth;10;N;
+Khoraja;Khoraja;Khanyria;Khoraja;10;N;
+Khoraja;Khoraja;Eruk;Shem;10;SO;
+Khoraja;Khoraja;Akbitana;Shem;10;S;
+Khoraja;Khoraja;Kandah;Khauran;11;NE;
+Khoraja;Khoraja;Nipor;Shem;11;SO;
+Khoraja;Khoraja;Shumir;Shem;12;SO;
+Khoraja;Khoraja;Khauran;Khauran;13;NE;
+Khoraja;Khoraja;Shushan;Shem;14;S;
+Meshken;Khoraja;Khoraja;Khoraja;5;NE;
+Meshken;Khoraja;Eruk;Shem;5;SO;
+Meshken;Khoraja;Shumir;Shem;7;SO;
+Meshken;Khoraja;Karvek;Koth;9;N;
+Meshken;Khoraja;Khanyria;Khoraja;9;NE;
+Meshken;Khoraja;Nipor;Shem;9;S;
+Meshken;Khoraja;Akbitana;Shem;12;S;
+Meshken;Khoraja;Shushan;Shem;13;S;
+Meshken;Khoraja;Khauran;Khauran;16;NE;>14 días
+Meshken;Khoraja;Kandah;Khauran;16;NE;>14 días
+Karvek;Koth;Khanyria;Khoraja;2;S;
+Karvek;Koth;Khauran;Khauran;7;NE;
+Karvek;Koth;Kandah;Khauran;7;NE;
+Karvek;Koth;Shadizar;Zamora;9;N;
+Karvek;Koth;Meshken;Khoraja;9;S;
+Karvek;Koth;Khoraja;Khoraja;10;S;
+Karvek;Koth;Larsha;Zamora;11;NE;
+Karvek;Koth;Kamalla;Corinthia;12;NO;
+Karvek;Koth;Arenjun;Zamora;12;NE;
+Karvek;Koth;Khishtam;Corinthia;14;NO;
+Karvek;Koth;Zamindi;Zamora;14;N;
+Karvek;Koth;Eruk;Shem;14;S;
+Khanyria;Khoraja;Karvek;Koth;1;N;
+Khanyria;Khoraja;Khauran;Khauran;8;NE;
+Khanyria;Khoraja;Kandah;Khauran;8;NE;
+Khanyria;Khoraja;Meshken;Khoraja;8;SO;
+Khanyria;Khoraja;Khoraja;Khoraja;9;S;
+Khanyria;Khoraja;Shadizar;Zamora;10;N;
+Khanyria;Khoraja;Larsha;Zamora;12;N;
+Khanyria;Khoraja;Kamalla;Corinthia;13;NO;
+Khanyria;Khoraja;Arenjun;Zamora;13;NE;
+Khanyria;Khoraja;Eruk;Shem;13;SO;
+Eruk;Shem;Shumir;Shem;4;SO;
+Eruk;Shem;Meshken;Khoraja;4;NE;
+Eruk;Shem;Nipor;Shem;5;S;
+Eruk;Shem;Khoraja;Khoraja;9;NE;
+Eruk;Shem;Akbitana;Shem;9;SE;
+Eruk;Shem;Shushan;Shem;9;S;
+Eruk;Shem;Akkharia;Shem;13;SO;
+Eruk;Shem;Khrosha;Koth;13;NO;
+Eruk;Shem;Karvek;Koth;13;N;
+Eruk;Shem;Khanyria;Khoraja;13;NE;
+Eruk;Shem;Sabatea;Shem;14;SE;
+Nipor;Shem;Shushan;Shem;4;S;
+Nipor;Shem;Shumir;Shem;5;NO;
+Nipor;Shem;Eruk;Shem;6;N;
+Nipor;Shem;Akbitana;Shem;8;SE;
+Nipor;Shem;Meshken;Khoraja;9;N;
+Nipor;Shem;Sabatea;Shem;9;SE;
+Nipor;Shem;Akkharia;Shem;10;SO;
+Nipor;Shem;City of Set;Estigia;10;S;
+Nipor;Shem;Sekan;Estigia;10;S;
+Nipor;Shem;Khoraja;Khoraja;11;NE;
+Nipor;Shem;Rasht;Estigia;13;S;
+Nipor;Shem;Akhlat;Desierto Oriental / Meridional (sin reino);14;SE;
+Akbitana;Shem;Shushan;Shem;4;SO;
+Akbitana;Shem;Sabatea;Shem;5;S;
+Akbitana;Shem;Sekan;Estigia;7;S;
+Akbitana;Shem;Nipor;Shem;8;NO;
+Akbitana;Shem;Akhlat;Desierto Oriental / Meridional (sin reino);8;SE;
+Akbitana;Shem;City of Set;Estigia;8;S;
+Akbitana;Shem;Rasht;Estigia;9;S;
+Akbitana;Shem;Khoraja;Khoraja;10;N;
+Akbitana;Shem;Eruk;Shem;10;NO;
+Akbitana;Shem;Thuran;Estigia;11;S;
+Akbitana;Shem;Meshken;Khoraja;12;N;
+Akbitana;Shem;Shumir;Shem;13;NO;
+Akbitana;Shem;Akkharia;Shem;14;SO;
+Akbitana;Shem;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;14;S;
+Akbitana;Shem;Pteion;Estigia;14;S;
+Akhlat;Desierto Oriental / Meridional (sin reino);Akbitana;Shem;8;NO;
+Akhlat;Desierto Oriental / Meridional (sin reino);Sabatea;Shem;8;SO;
+Akhlat;Desierto Oriental / Meridional (sin reino);Sekan;Estigia;10;SO;
+Akhlat;Desierto Oriental / Meridional (sin reino);Shushan;Shem;11;SO;
+Akhlat;Desierto Oriental / Meridional (sin reino);City of Set;Estigia;12;SO;
+Akhlat;Desierto Oriental / Meridional (sin reino);Rasht;Estigia;12;S;
+Akhlat;Desierto Oriental / Meridional (sin reino);Thuran;Estigia;12;S;
+Akhlat;Desierto Oriental / Meridional (sin reino);Nipor;Shem;14;NO;
+Akhlat;Desierto Oriental / Meridional (sin reino);La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;14;S;
+Akhlat;Desierto Oriental / Meridional (sin reino);Khoraja;Khoraja;16;N;>14 días
+Shushan;Shem;Nipor;Shem;4;N;
+Shushan;Shem;Akbitana;Shem;4;NE;
+Shushan;Shem;Sabatea;Shem;5;SE;
+Shushan;Shem;City of Set;Estigia;6;S;
+Shushan;Shem;Sekan;Estigia;6;SE;
+Shushan;Shem;Shumir;Shem;9;NO;
+Shushan;Shem;Rasht;Estigia;9;S;
+Shushan;Shem;Akkharia;Shem;10;SO;
+Shushan;Shem;Eruk;Shem;10;N;
+Shushan;Shem;Akhlat;Desierto Oriental / Meridional (sin reino);11;NE;
+Shushan;Shem;Pteion;Estigia;11;S;
+Shushan;Shem;Thuran;Estigia;12;SE;
+Shushan;Shem;Meshken;Khoraja;13;N;
+Shushan;Shem;Khoraja;Khoraja;14;N;
+Shushan;Shem;Nebthu;Estigia;14;SO;
+Sabatea;Shem;Sekan;Estigia;2;SO;
+Sabatea;Shem;City of Set;Estigia;4;SO;
+Sabatea;Shem;Rasht;Estigia;4;S;
+Sabatea;Shem;Akbitana;Shem;5;N;
+Sabatea;Shem;Shushan;Shem;5;NO;
+Sabatea;Shem;Thuran;Estigia;7;S;
+Sabatea;Shem;Akhlat;Desierto Oriental / Meridional (sin reino);8;NE;
+Sabatea;Shem;Nipor;Shem;9;NO;
+Sabatea;Shem;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;10;S;
+Sabatea;Shem;Pteion;Estigia;10;S;
+Sabatea;Shem;Shumir;Shem;13;NO;
+Sabatea;Shem;Akkharia;Shem;14;NO;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);4;S;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);5;S;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);11;SE;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Kandah;Khauran;12;N;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Khauran;Khauran;14;N;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Khoraja;Khoraja;14;SO;
+Rhoulan;Desierto Oriental / Meridional (sin reino);Khanyria;Khoraja;16;NO;>14 días
+Rhoulan;Desierto Oriental / Meridional (sin reino);Karvek;Koth;17;NO;>14 días
+Rhoulan;Desierto Oriental / Meridional (sin reino);Arenjun;Zamora;19;N;>14 días
+Rhoulan;Desierto Oriental / Meridional (sin reino);Meshken;Khoraja;19;SO;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);1;S;
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Rhoulan;Desierto Oriental / Meridional (sin reino);4;N;
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);7;SE;
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Kandah;Khauran;15;N;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);15;SE;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Khauran;Khauran;17;N;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Khoraja;Khoraja;17;NO;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Akhlat;Desierto Oriental / Meridional (sin reino);17;SO;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Khanyria;Khoraja;19;NO;>14 días
+Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);Akbitana;Shem;19;SO;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);2;N;
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Rhoulan;Desierto Oriental / Meridional (sin reino);6;N;
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);6;SE;
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);14;SE;
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Akhlat;Desierto Oriental / Meridional (sin reino);16;SO;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Kandah;Khauran;17;N;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Khoraja;Khoraja;17;NO;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Khauran;Khauran;19;N;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Akbitana;Shem;19;SO;>14 días
+Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);Meshken;Khoraja;21;NO;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);6;NO;
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);8;NO;
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);8;SE;
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Rhoulan;Desierto Oriental / Meridional (sin reino);12;NO;
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Akhlat;Desierto Oriental / Meridional (sin reino);16;SO;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Azeem;Desierto Oriental / Meridional (sin reino);16;SE;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Kuiachames;Desierto Oriental / Meridional (sin reino);20;S;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Zambgura;Desierto Oriental / Meridional (sin reino);21;SE;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Kandah;Khauran;23;N;>14 días
+Tamba-Syn;Desierto Oriental / Meridional (sin reino);Khoraja;Khoraja;23;NO;>14 días
+Wakla;Desierto Oriental / Meridional (sin reino);Samara;Turan;2;NE;
+Wakla;Desierto Oriental / Meridional (sin reino);Yukkub;Turan;3;SE;
+Wakla;Desierto Oriental / Meridional (sin reino);Kherdpur;Turan;5;N;
+Wakla;Desierto Oriental / Meridional (sin reino);Vezek;Desierto Oriental / Meridional (sin reino);6;S;
+Wakla;Desierto Oriental / Meridional (sin reino);Akif;Turan;8;N;
+Wakla;Desierto Oriental / Meridional (sin reino);Aghrapur;Turan;9;NE;
+Wakla;Desierto Oriental / Meridional (sin reino);Khawarizm;Turan;10;SE;
+Wakla;Desierto Oriental / Meridional (sin reino);Nahareh;Turan;11;NO;
+Wakla;Desierto Oriental / Meridional (sin reino);Ghori;Turan;12;SE;
+Wakla;Desierto Oriental / Meridional (sin reino);Keshaan;Turan;16;N;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Zambgura;Desierto Oriental / Meridional (sin reino);12;S;
+Azeem;Desierto Oriental / Meridional (sin reino);Vezek;Desierto Oriental / Meridional (sin reino);15;NE;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);15;SO;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);16;NO;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Nahareh;Turan;16;N;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Wakla;Desierto Oriental / Meridional (sin reino);17;NE;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Kherdpur;Turan;18;NE;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Yukkub;Turan;18;NE;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Samara;Turan;19;NE;>14 días
+Azeem;Desierto Oriental / Meridional (sin reino);Akif;Turan;20;NE;>14 días
+Vezek;Desierto Oriental / Meridional (sin reino);Yukkub;Turan;5;NE;
+Vezek;Desierto Oriental / Meridional (sin reino);Wakla;Desierto Oriental / Meridional (sin reino);6;N;
+Vezek;Desierto Oriental / Meridional (sin reino);Samara;Turan;7;N;
+Vezek;Desierto Oriental / Meridional (sin reino);Khawarizm;Turan;9;SE;
+Vezek;Desierto Oriental / Meridional (sin reino);Kherdpur;Turan;10;N;
+Vezek;Desierto Oriental / Meridional (sin reino);Ghori;Turan;11;SE;
+Vezek;Desierto Oriental / Meridional (sin reino);Akif;Turan;13;N;
+Vezek;Desierto Oriental / Meridional (sin reino);Aghrapur;Turan;14;N;
+Vezek;Desierto Oriental / Meridional (sin reino);Azeem;Desierto Oriental / Meridional (sin reino);15;SO;>14 días
+Vezek;Desierto Oriental / Meridional (sin reino);Yueshi;Turan;15;SE;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);7;NO;
+Bahareen;Desierto Oriental / Meridional (sin reino);Kizil-Bezzin;Desierto Oriental / Meridional (sin reino);13;NO;
+Bahareen;Desierto Oriental / Meridional (sin reino);Kuiachames;Desierto Oriental / Meridional (sin reino);13;S;
+Bahareen;Desierto Oriental / Meridional (sin reino);Azeem;Desierto Oriental / Meridional (sin reino);14;NE;
+Bahareen;Desierto Oriental / Meridional (sin reino);Qaud Dez-B'har;Desierto Oriental / Meridional (sin reino);15;NO;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Zambgura;Desierto Oriental / Meridional (sin reino);16;SE;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Akhlat;Desierto Oriental / Meridional (sin reino);19;SO;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Rhoulan;Desierto Oriental / Meridional (sin reino);19;NO;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Sabatea;Shem;23;SO;>14 días
+Bahareen;Desierto Oriental / Meridional (sin reino);Rasht;Estigia;23;SO;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Azeem;Desierto Oriental / Meridional (sin reino);11;N;
+Zambgura;Desierto Oriental / Meridional (sin reino);Kuiachames;Desierto Oriental / Meridional (sin reino);15;SO;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);16;NO;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Vezek;Desierto Oriental / Meridional (sin reino);17;NE;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);20;NO;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Yukkub;Turan;21;NE;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Wakla;Desierto Oriental / Meridional (sin reino);22;N;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Samara;Turan;23;NE;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Khawarizm;Turan;23;NE;>14 días
+Zambgura;Desierto Oriental / Meridional (sin reino);Ghori;Turan;25;NE;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Bahareen;Desierto Oriental / Meridional (sin reino);14;N;
+Kuiachames;Desierto Oriental / Meridional (sin reino);Zambgura;Desierto Oriental / Meridional (sin reino);16;NE;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Thuran;Estigia;17;SO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;18;SO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Sabatea;Shem;20;NO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Tamba-Syn;Desierto Oriental / Meridional (sin reino);20;N;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Rasht;Estigia;20;SO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Sekan;Estigia;21;NO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Akhlat;Desierto Oriental / Meridional (sin reino);22;NO;>14 días
+Kuiachames;Desierto Oriental / Meridional (sin reino);Akbitana;Shem;23;NO;>14 días
+Nahareh;Turan;Kherdpur;Turan;6;SE;
+Nahareh;Turan;Akif;Turan;8;SE;
+Nahareh;Turan;Carcainia;Turan;9;N;
+Nahareh;Turan;Keshaan;Turan;10;N;
+Nahareh;Turan;Samara;Turan;10;SE;
+Nahareh;Turan;Ababenzzar;Turan;11;NO;
+Nahareh;Turan;Wakla;Desierto Oriental / Meridional (sin reino);11;SE;
+Nahareh;Turan;Sultanapon;Turan;11;NE;
+Nahareh;Turan;Maypor;Turan;13;N;
+Nahareh;Turan;Yukkub;Turan;13;SE;
+Nahareh;Turan;Aghrapur;Turan;14;SE;
+Akif;Turan;Kherdpur;Turan;3;S;
+Akif;Turan;Samara;Turan;6;S;
+Akif;Turan;Wakla;Desierto Oriental / Meridional (sin reino);7;S;
+Akif;Turan;Nahareh;Turan;7;NO;
+Akif;Turan;Aghrapur;Turan;8;NE;
+Akif;Turan;Keshaan;Turan;9;N;
+Akif;Turan;Sultanapon;Turan;9;NE;
+Akif;Turan;Yukkub;Turan;9;S;
+Akif;Turan;Carcainia;Turan;12;N;
+Akif;Turan;Vezek;Desierto Oriental / Meridional (sin reino);12;S;
+Akif;Turan;Maypor;Turan;13;N;
+Kherdpur;Turan;Akif;Turan;4;N;
+Kherdpur;Turan;Samara;Turan;4;SE;
+Kherdpur;Turan;Wakla;Desierto Oriental / Meridional (sin reino);5;S;
+Kherdpur;Turan;Nahareh;Turan;6;NO;
+Kherdpur;Turan;Yukkub;Turan;7;SE;
+Kherdpur;Turan;Aghrapur;Turan;8;NE;
+Kherdpur;Turan;Vezek;Desierto Oriental / Meridional (sin reino);10;S;
+Kherdpur;Turan;Keshaan;Turan;11;N;
+Kherdpur;Turan;Sultanapon;Turan;11;NE;
+Kherdpur;Turan;Carcainia;Turan;14;N;
+Kherdpur;Turan;Khawarizm;Turan;14;SE;
+Aghrapur;Turan;Sultanapon;Turan;7;N;
+Aghrapur;Turan;Samara;Turan;7;SO;
+Aghrapur;Turan;Kherdpur;Turan;8;SO;
+Aghrapur;Turan;Wakla;Desierto Oriental / Meridional (sin reino);9;SO;
+Aghrapur;Turan;Akif;Turan;9;SO;
+Aghrapur;Turan;Yukkub;Turan;9;S;
+Aghrapur;Turan;Khawarizm;Turan;13;S;
+Aghrapur;Turan;Keshaan;Turan;14;NO;
+Aghrapur;Turan;Vezek;Desierto Oriental / Meridional (sin reino);14;S;
+Aghrapur;Turan;Nahareh;Turan;14;NO;
+Sultanapon;Turan;Keshaan;Turan;7;NO;
+Sultanapon;Turan;Aghrapur;Turan;7;S;
+Sultanapon;Turan;Carcainia;Turan;10;NO;
+Sultanapon;Turan;Akif;Turan;10;SO;
+Sultanapon;Turan;Maypor;Turan;11;NO;
+Sultanapon;Turan;Nahareh;Turan;11;SO;
+Sultanapon;Turan;Kherdpur;Turan;11;SO;
+Sultanapon;Turan;Samara;Turan;14;S;
+Sultanapon;Turan;Shahpur;Turan;16;N;>14 días
+Sultanapon;Turan;Wakla;Desierto Oriental / Meridional (sin reino);16;S;>14 días
+Samara;Turan;Wakla;Desierto Oriental / Meridional (sin reino);2;SO;
+Samara;Turan;Yukkub;Turan;3;SE;
+Samara;Turan;Kherdpur;Turan;4;NO;
+Samara;Turan;Vezek;Desierto Oriental / Meridional (sin reino);7;S;
+Samara;Turan;Akif;Turan;7;N;
+Samara;Turan;Aghrapur;Turan;7;NE;
+Samara;Turan;Nahareh;Turan;10;NO;
+Samara;Turan;Khawarizm;Turan;10;SE;
+Samara;Turan;Ghori;Turan;12;SE;
+Samara;Turan;Sultanapon;Turan;14;N;
+Yukkub;Turan;Wakla;Desierto Oriental / Meridional (sin reino);3;NO;
+Yukkub;Turan;Samara;Turan;3;NO;
+Yukkub;Turan;Vezek;Desierto Oriental / Meridional (sin reino);5;SO;
+Yukkub;Turan;Kherdpur;Turan;7;NO;
+Yukkub;Turan;Khawarizm;Turan;7;SE;
+Yukkub;Turan;Aghrapur;Turan;9;N;
+Yukkub;Turan;Ghori;Turan;9;SE;
+Yukkub;Turan;Akif;Turan;10;N;
+Yukkub;Turan;Nahareh;Turan;13;NO;
+Yukkub;Turan;Yueshi;Turan;13;SE;
+Khawarizm;Turan;Ghori;Turan;2;SE;
+Khawarizm;Turan;Yueshi;Turan;6;NE;
+Khawarizm;Turan;Yukkub;Turan;7;NO;
+Khawarizm;Turan;Vezek;Desierto Oriental / Meridional (sin reino);9;NO;
+Khawarizm;Turan;Wakla;Desierto Oriental / Meridional (sin reino);10;NO;
+Khawarizm;Turan;Samara;Turan;10;NO;
+Khawarizm;Turan;Kara-Sehr;Desierto de Iranistán;11;SE;
+Khawarizm;Turan;Rhamdan;Turan;12;NE;
+Khawarizm;Turan;Nagrul;Hyrkania;12;NE;
+Khawarizm;Turan;Bab-El-Shaitan;Desierto de Iranistán;12;SE;
+Khawarizm;Turan;Ashraf;Turan;12;NE;
+Khawarizm;Turan;Aghrapur;Turan;13;N;
+Khawarizm;Turan;Kherdpur;Turan;14;NO;
+Ghori;Turan;Khawarizm;Turan;2;NO;
+Ghori;Turan;Yueshi;Turan;4;NE;
+Ghori;Turan;Yukkub;Turan;9;NO;
+Ghori;Turan;Kara-Sehr;Desierto de Iranistán;9;SE;
+Ghori;Turan;Rhamdan;Turan;10;NE;
+Ghori;Turan;Nagrul;Hyrkania;10;NE;
+Ghori;Turan;Bab-El-Shaitan;Desierto de Iranistán;10;SE;
+Ghori;Turan;Ashraf;Turan;10;NE;
+Ghori;Turan;Vezek;Desierto Oriental / Meridional (sin reino);11;NO;
+Ghori;Turan;Wakla;Desierto Oriental / Meridional (sin reino);12;NO;
+Ghori;Turan;Samara;Turan;12;NO;
+Ghori;Turan;Khorusun;Turan;13;N;
+Ghori;Turan;Djemal;Hyrkania;13;NE;
+Yueshi;Turan;Ghori;Turan;4;SO;
+Yueshi;Turan;Kara-Sehr;Desierto de Iranistán;5;SE;
+Yueshi;Turan;Khawarizm;Turan;6;SO;
+Yueshi;Turan;Ashraf;Turan;6;SE;
+Yueshi;Turan;Rhamdan;Turan;7;N;
+Yueshi;Turan;Nagrul;Hyrkania;7;N;
+Yueshi;Turan;Bab-El-Shaitan;Desierto de Iranistán;9;SE;
+Yueshi;Turan;Djemal;Hyrkania;9;NE;
+Yueshi;Turan;Khorusun;Turan;10;N;
+Yueshi;Turan;Yukkub;Turan;13;NO;
+Khorusun;Turan;Rhamdan;Turan;4;S;
+Khorusun;Turan;Nagrul;Hyrkania;5;S;
+Khorusun;Turan;Khoraf;Augir (franja roja junto al Vilayet);8;N;
+Khorusun;Turan;Yueshi;Turan;10;S;
+Khorusun;Turan;Djemal;Hyrkania;12;SE;
+Khorusun;Turan;Ashraf;Turan;12;S;
+Khorusun;Turan;Ghori;Turan;13;S;
+Khorusun;Turan;Kara-Sehr;Desierto de Iranistán;14;S;
+Khorusun;Turan;Makkalat;Augir (franja roja junto al Vilayet);15;N;>14 días
+Khorusun;Turan;Khawarizm;Turan;15;SO;>14 días
+Rhamdan;Turan;Nagrul;Hyrkania;1;S;
+Rhamdan;Turan;Khorusun;Turan;4;N;
+Rhamdan;Turan;Yueshi;Turan;7;S;
+Rhamdan;Turan;Djemal;Hyrkania;8;SE;
+Rhamdan;Turan;Ashraf;Turan;8;S;
+Rhamdan;Turan;Ghori;Turan;10;SO;
+Rhamdan;Turan;Kara-Sehr;Desierto de Iranistán;10;S;
+Rhamdan;Turan;Khoraf;Augir (franja roja junto al Vilayet);11;N;
+Rhamdan;Turan;Khawarizm;Turan;12;SO;
+Rhamdan;Turan;Bab-El-Shaitan;Desierto de Iranistán;14;S;
+Nagrul;Hyrkania;Rhamdan;Turan;1;N;
+Nagrul;Hyrkania;Khorusun;Turan;5;N;
+Nagrul;Hyrkania;Yueshi;Turan;7;S;
+Nagrul;Hyrkania;Djemal;Hyrkania;7;SE;
+Nagrul;Hyrkania;Ashraf;Turan;7;S;
+Nagrul;Hyrkania;Kara-Sehr;Desierto de Iranistán;9;S;
+Nagrul;Hyrkania;Ghori;Turan;10;SO;
+Nagrul;Hyrkania;Khoraf;Augir (franja roja junto al Vilayet);11;N;
+Nagrul;Hyrkania;Khawarizm;Turan;12;SO;
+Nagrul;Hyrkania;Bab-El-Shaitan;Desierto de Iranistán;13;S;
+Kara-Sehr;Desierto de Iranistán;Ashraf;Turan;3;N;
+Kara-Sehr;Desierto de Iranistán;Yueshi;Turan;5;NO;
+Kara-Sehr;Desierto de Iranistán;Bab-El-Shaitan;Desierto de Iranistán;5;S;
+Kara-Sehr;Desierto de Iranistán;Djemal;Hyrkania;6;NE;
+Kara-Sehr;Desierto de Iranistán;Ghori;Turan;9;NO;
+Kara-Sehr;Desierto de Iranistán;Nagrul;Hyrkania;9;N;
+Kara-Sehr;Desierto de Iranistán;Rhamdan;Turan;10;N;
+Kara-Sehr;Desierto de Iranistán;Khawarizm;Turan;11;NO;
+Kara-Sehr;Desierto de Iranistán;Khorusun;Turan;14;N;
+Kara-Sehr;Desierto de Iranistán;Yukkub;Turan;18;NO;>14 días
+Bab-El-Shaitan;Desierto de Iranistán;Kara-Sehr;Desierto de Iranistán;5;N;
+Bab-El-Shaitan;Desierto de Iranistán;Ashraf;Turan;8;N;
+Bab-El-Shaitan;Desierto de Iranistán;Yueshi;Turan;9;NO;
+Bab-El-Shaitan;Desierto de Iranistán;Ghori;Turan;10;NO;
+Bab-El-Shaitan;Desierto de Iranistán;Djemal;Hyrkania;11;N;
+Bab-El-Shaitan;Desierto de Iranistán;Khawarizm;Turan;12;NO;
+Bab-El-Shaitan;Desierto de Iranistán;Nagrul;Hyrkania;13;N;
+Bab-El-Shaitan;Desierto de Iranistán;Rhamdan;Turan;14;N;
+Bab-El-Shaitan;Desierto de Iranistán;Khorusun;Turan;18;N;>14 días
+Bab-El-Shaitan;Desierto de Iranistán;Anshan;Iranistán;18;S;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Anshan;Iranistán;5;NE;
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yanadar;Druistán (Druistan);10;SO;
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Khawarizm;Turan;20;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Ghori;Turan;20;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Bab-El-Shaitan;Desierto de Iranistán;21;NE;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yueshi;Turan;22;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Kara-Sehr;Desierto de Iranistán;23;NE;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Vezek;Desierto Oriental / Meridional (sin reino);24;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Ashraf;Turan;25;N;>14 días
+Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);Yukkub;Turan;26;N;>14 días
+Anshan;Iranistán;Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);5;SO;
+Anshan;Iranistán;Yanadar;Druistán (Druistan);12;SO;
+Anshan;Iranistán;Bab-El-Shaitan;Desierto de Iranistán;18;N;>14 días
+Anshan;Iranistán;Ghori;Turan;22;N;>14 días
+Anshan;Iranistán;Khawarizm;Turan;23;N;>14 días
+Anshan;Iranistán;Yueshi;Turan;23;N;>14 días
+Anshan;Iranistán;Kara-Sehr;Desierto de Iranistán;23;N;>14 días
+Anshan;Iranistán;Ashraf;Turan;26;N;>14 días
+Anshan;Iranistán;Vezek;Desierto Oriental / Meridional (sin reino);27;NO;>14 días
+Anshan;Iranistán;Yukkub;Turan;29;N;>14 días
+Yanadar;Druistán (Druistan);Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);10;NE;
+Yanadar;Druistán (Druistan);Anshan;Iranistán;12;NE;
+Yanadar;Druistán (Druistan);Northern Capital;Zembabwei;19;SO;>14 días
+Yanadar;Druistán (Druistan);Khawarizm;Turan;27;N;>14 días
+Yanadar;Druistán (Druistan);Ghori;Turan;27;N;>14 días
+Yanadar;Druistán (Druistan);Vezek;Desierto Oriental / Meridional (sin reino);29;N;>14 días
+Yanadar;Druistán (Druistan);Yueshi;Turan;30;N;>14 días
+Yanadar;Druistán (Druistan);Bab-El-Shaitan;Desierto de Iranistán;30;NE;>14 días
+Yanadar;Druistán (Druistan);Yukkub;Turan;31;N;>14 días
+Yanadar;Druistán (Druistan);Kara-Sehr;Desierto de Iranistán;31;NE;>14 días
+Alkmeenon;Keshan;Keshia;Keshan;7;SE;
+Alkmeenon;Keshan;Gazal;Estigia;13;NO;
+Alkmeenon;Keshan;Pteion;Estigia;14;N;
+Alkmeenon;Keshan;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;15;NE;>14 días
+Alkmeenon;Keshan;Sukhmet;Estigia;16;NO;>14 días
+Alkmeenon;Keshan;Thuran;Estigia;17;NE;>14 días
+Alkmeenon;Keshan;Tombalku;Bighania (zona desértica con Tombalku);18;NO;>14 días
+Alkmeenon;Keshan;Rasht;Estigia;18;N;>14 días
+Alkmeenon;Keshan;Kassali;Punt;20;NE;>14 días
+Alkmeenon;Keshan;City of Set;Estigia;20;N;>14 días
+Keshia;Keshan;Alkmeenon;Keshan;7;NO;
+Keshia;Keshan;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;12;N;
+Keshia;Keshan;Kassali;Punt;14;NE;
+Keshia;Keshan;Thuran;Estigia;14;N;
+Keshia;Keshan;Rasht;Estigia;16;N;>14 días
+Keshia;Keshan;Pteion;Estigia;16;N;>14 días
+Keshia;Keshan;Northern Capital;Zembabwei;17;SE;>14 días
+Keshia;Keshan;City of Set;Estigia;19;N;>14 días
+Keshia;Keshan;Sekan;Estigia;19;N;>14 días
+Keshia;Keshan;Sabatea;Shem;20;N;>14 días
+Kassali;Punt;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;10;NO;
+Kassali;Punt;Keshia;Keshan;12;SO;
+Kassali;Punt;Thuran;Estigia;13;NO;
+Kassali;Punt;Rasht;Estigia;16;NO;>14 días
+Kassali;Punt;Alkmeenon;Keshan;18;SO;>14 días
+Kassali;Punt;City of Set;Estigia;19;NO;>14 días
+Kassali;Punt;Sekan;Estigia;19;NO;>14 días
+Kassali;Punt;Pteion;Estigia;19;NO;>14 días
+Kassali;Punt;Sabatea;Shem;20;NO;>14 días
+Kassali;Punt;Northern Capital;Zembabwei;20;SE;>14 días
+City of Set;Estigia;Sekan;Estigia;2;NE;
+City of Set;Estigia;Rasht;Estigia;3;SE;
+City of Set;Estigia;Sabatea;Shem;4;NE;
+City of Set;Estigia;Shushan;Shem;6;N;
+City of Set;Estigia;Thuran;Estigia;6;SE;
+City of Set;Estigia;Pteion;Estigia;6;S;
+City of Set;Estigia;Akbitana;Shem;8;N;
+City of Set;Estigia;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;9;SE;
+City of Set;Estigia;Nipor;Shem;10;N;
+City of Set;Estigia;Akkharia;Shem;11;NO;
+City of Set;Estigia;Akhlat;Desierto Oriental / Meridional (sin reino);12;NE;
+City of Set;Estigia;Shumir;Shem;14;N;
+Sekan;Estigia;Sabatea;Shem;2;NE;
+Sekan;Estigia;City of Set;Estigia;2;SO;
+Sekan;Estigia;Rasht;Estigia;3;S;
+Sekan;Estigia;Shushan;Shem;6;NO;
+Sekan;Estigia;Thuran;Estigia;6;SE;
+Sekan;Estigia;Akbitana;Shem;7;N;
+Sekan;Estigia;Pteion;Estigia;8;S;
+Sekan;Estigia;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;9;SE;
+Sekan;Estigia;Nipor;Shem;10;N;
+Sekan;Estigia;Akhlat;Desierto Oriental / Meridional (sin reino);10;NE;
+Sekan;Estigia;Akkharia;Shem;13;NO;
+Sekan;Estigia;Shumir;Shem;14;NO;
+Rasht;Estigia;City of Set;Estigia;3;NO;
+Rasht;Estigia;Sekan;Estigia;3;N;
+Rasht;Estigia;Thuran;Estigia;3;SE;
+Rasht;Estigia;Sabatea;Shem;4;N;
+Rasht;Estigia;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;6;SE;
+Rasht;Estigia;Pteion;Estigia;6;SO;
+Rasht;Estigia;Akbitana;Shem;9;N;
+Rasht;Estigia;Shushan;Shem;9;N;
+Rasht;Estigia;Akhlat;Desierto Oriental / Meridional (sin reino);12;N;
+Rasht;Estigia;Nipor;Shem;13;N;
+Rasht;Estigia;Akkharia;Shem;14;NO;
+Thuran;Estigia;Rasht;Estigia;3;NO;
+Thuran;Estigia;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;3;SE;
+Thuran;Estigia;City of Set;Estigia;6;NO;
+Thuran;Estigia;Sekan;Estigia;6;NO;
+Thuran;Estigia;Sabatea;Shem;7;N;
+Thuran;Estigia;Pteion;Estigia;8;SO;
+Thuran;Estigia;Akbitana;Shem;11;N;
+Thuran;Estigia;Akhlat;Desierto Oriental / Meridional (sin reino);12;N;
+Thuran;Estigia;Shushan;Shem;12;NO;
+Thuran;Estigia;Keshia;Keshan;14;S;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Thuran;Estigia;3;NO;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Rasht;Estigia;6;NO;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;City of Set;Estigia;9;NO;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Sekan;Estigia;9;NO;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Sabatea;Shem;10;N;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Pteion;Estigia;10;NO;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Keshia;Keshan;12;S;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Kassali;Punt;12;SE;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Akbitana;Shem;14;N;
+La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;Akhlat;Desierto Oriental / Meridional (sin reino);14;N;
+Pteion;Estigia;City of Set;Estigia;6;N;
+Pteion;Estigia;Rasht;Estigia;6;NE;
+Pteion;Estigia;Sekan;Estigia;8;N;
+Pteion;Estigia;Thuran;Estigia;8;NE;
+Pteion;Estigia;Sabatea;Shem;10;N;
+Pteion;Estigia;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;10;SE;
+Pteion;Estigia;Shushan;Shem;11;N;
+Pteion;Estigia;Akbitana;Shem;14;N;
+Pteion;Estigia;Alkmeenon;Keshan;14;S;
+Pteion;Estigia;Akkharia;Shem;15;NO;>14 días
+Nebthu;Estigia;Akkharia;Shem;4;NE;
+Nebthu;Estigia;Luxur;Estigia;4;S;
+Nebthu;Estigia;Buryat;Shem;6;NO;
+Nebthu;Estigia;Harakht;Estigia;9;SO;
+Nebthu;Estigia;Attalus;Estigia;11;SO;
+Nebthu;Estigia;Anakia;Shem;12;NO;
+Nebthu;Estigia;Shumir;Shem;13;N;
+Nebthu;Estigia;Shushan;Shem;13;NE;
+Nebthu;Estigia;Nipor;Shem;14;NE;
+Nebthu;Estigia;City of Set;Estigia;14;SE;
+Sukhmet;Estigia;Gazal;Estigia;3;SE;
+Sukhmet;Estigia;Mehoe;Kush;7;SO;
+Sukhmet;Estigia;Tombalku;Bighania (zona desértica con Tombalku);9;S;
+Sukhmet;Estigia;Attalus;Estigia;10;N;
+Sukhmet;Estigia;Kheshatta;Estigia;11;NO;
+Sukhmet;Estigia;Umr;Kush;12;SO;
+Sukhmet;Estigia;Kuthal;Bighania (zona desértica con Tombalku);12;S;
+Sukhmet;Estigia;Luxur;Estigia;13;N;
+Sukhmet;Estigia;Zabhela;Kush;13;SO;
+Sukhmet;Estigia;Harakht;Estigia;14;N;
+Gazal;Estigia;Sukhmet;Estigia;3;NO;
+Gazal;Estigia;Mehoe;Kush;8;SO;
+Gazal;Estigia;Tombalku;Bighania (zona desértica con Tombalku);9;SO;
+Gazal;Estigia;Luxur;Estigia;12;N;
+Gazal;Estigia;Kuthal;Bighania (zona desértica con Tombalku);12;SO;
+Gazal;Estigia;Attalus;Estigia;13;NO;
+Gazal;Estigia;Kheshatta;Estigia;13;NO;
+Gazal;Estigia;Alkmeenon;Keshan;13;SE;
+Gazal;Estigia;Umr;Kush;14;NO;
+Gazal;Estigia;Zabhela;Kush;15;SO;>14 días
+Secunderam;Kosala;Yota-Pong;Kosala;14;S;
+Secunderam;Kosala;Shomdakor;Meru (región de Sumeru Tso);15;NE;>14 días
+Secunderam;Kosala;Shamballa;Meru (región de Sumeru Tso);17;NE;>14 días
+Secunderam;Kosala;Ayodha;Vendhya;18;SE;>14 días
+Secunderam;Kosala;Thogara;Meru (región de Sumeru Tso);20;NE;>14 días
+Secunderam;Kosala;Thrdana;Meru (región de Sumeru Tso);21;NE;>14 días
+Secunderam;Kosala;Khorala;Vendhya;21;S;>14 días
+Secunderam;Kosala;Auzakia;Meru (región de Sumeru Tso);23;NE;>14 días
+Secunderam;Kosala;Pauana;Meru (región de Sumeru Tso);26;NE;>14 días
+Secunderam;Kosala;Djemal;Hyrkania;26;SO;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Ghor;Montañas Himelianas (Afghulis / Ghulistán);12;SE;
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);15;N;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Shomdakor;Meru (región de Sumeru Tso);16;N;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);18;NE;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Thogara;Meru (región de Sumeru Tso);22;N;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);23;NE;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;23;S;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);25;N;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);26;N;>14 días
+Khorbul;Montañas Himelianas (Afghulis / Ghulistán);Secunderam;Kosala;26;SO;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Khorbul;Montañas Himelianas (Afghulis / Ghulistán);12;NO;
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);15;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);15;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Shomdakor;Meru (región de Sumeru Tso);18;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);20;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Khurum;Montañas Himelianas (Afghulis / Ghulistán);21;SE;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);23;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Thogara;Meru (región de Sumeru Tso);24;N;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;24;S;>14 días
+Ghor;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);27;N;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Khojur;Montañas Himelianas (Afghulis / Ghulistán);9;NE;
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Jugra;Montañas Himelianas (Afghulis / Ghulistán);12;SE;
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);20;NO;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);21;N;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Ghor;Montañas Himelianas (Afghulis / Ghulistán);21;NO;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;21;S;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);24;N;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);25;NO;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);28;N;>14 días
+Khurum;Montañas Himelianas (Afghulis / Ghulistán);Shomdakor;Meru (región de Sumeru Tso);28;NO;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Khurum;Montañas Himelianas (Afghulis / Ghulistán);9;SO;
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Jugra;Montañas Himelianas (Afghulis / Ghulistán);12;SE;
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);16;N;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);16;NO;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);19;N;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);21;NO;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Auzakia;Meru (región de Sumeru Tso);23;NO;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Shomdakor;Meru (región de Sumeru Tso);24;NO;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;25;S;>14 días
+Khojur;Montañas Himelianas (Afghulis / Ghulistán);Thogara;Meru (región de Sumeru Tso);27;NO;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Khurum;Montañas Himelianas (Afghulis / Ghulistán);12;NO;
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Khojur;Montañas Himelianas (Afghulis / Ghulistán);12;NO;
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Peshkauri;Vendhya;16;S;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Pauana;Meru (región de Sumeru Tso);26;N;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Shirakma;Vendhya;26;S;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Thrdana;Meru (región de Sumeru Tso);27;NO;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Bakharus;Vendhya;27;S;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Issedon;Meru (región de Sumeru Tso);29;N;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Ayodha;Vendhya;31;SO;>14 días
+Jugra;Montañas Himelianas (Afghulis / Ghulistán);Shamballa;Meru (región de Sumeru Tso);32;NO;>14 días
+Ayodha;Vendhya;Yota-Pong;Kosala;12;SO;
+Ayodha;Vendhya;Khorala;Vendhya;13;SO;
+Ayodha;Vendhya;Peshkauri;Vendhya;15;NE;>14 días
+Ayodha;Vendhya;Bakharus;Vendhya;18;SE;>14 días
+Ayodha;Vendhya;Secunderam;Kosala;19;NO;>14 días
+Ayodha;Vendhya;Shirakma;Vendhya;21;SE;>14 días
+Ayodha;Vendhya;Khorbul;Montañas Himelianas (Afghulis / Ghulistán);25;N;>14 días
+Ayodha;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);26;N;>14 días
+Ayodha;Vendhya;Shomdakor;Meru (región de Sumeru Tso);28;N;>14 días
+Ayodha;Vendhya;Jhelai;Vendhya;28;S;>14 días
+Peshkauri;Vendhya;Bakharus;Vendhya;11;SO;
+Peshkauri;Vendhya;Shirakma;Vendhya;11;S;
+Peshkauri;Vendhya;Ayodha;Vendhya;15;SO;>14 días
+Peshkauri;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);18;N;>14 días
+Peshkauri;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);23;N;>14 días
+Peshkauri;Vendhya;Jhelai;Vendhya;25;SO;>14 días
+Peshkauri;Vendhya;Khojur;Montañas Himelianas (Afghulis / Ghulistán);27;N;>14 días
+Peshkauri;Vendhya;Yota-Pong;Kosala;27;SO;>14 días
+Peshkauri;Vendhya;Khorala;Vendhya;28;SO;>14 días
+Peshkauri;Vendhya;Pauana;Meru (región de Sumeru Tso);31;N;>14 días
+Khorala;Vendhya;Yota-Pong;Kosala;9;SO;
+Khorala;Vendhya;Ayodha;Vendhya;11;NE;
+Khorala;Vendhya;Secunderam;Kosala;20;N;>14 días
+Khorala;Vendhya;Jhelai;Vendhya;21;S;>14 días
+Khorala;Vendhya;Peshkauri;Vendhya;26;NE;>14 días
+Khorala;Vendhya;Bakharus;Vendhya;26;SE;>14 días
+Khorala;Vendhya;Shomdakor;Meru (región de Sumeru Tso);29;N;>14 días
+Khorala;Vendhya;Shamballa;Meru (región de Sumeru Tso);31;N;>14 días
+Khorala;Vendhya;Shirakma;Vendhya;32;SE;>14 días
+Khorala;Vendhya;Khorbul;Montañas Himelianas (Afghulis / Ghulistán);33;N;>14 días
+Bakharus;Vendhya;Shirakma;Vendhya;9;SE;
+Bakharus;Vendhya;Peshkauri;Vendhya;11;NE;
+Bakharus;Vendhya;Jhelai;Vendhya;14;SO;
+Bakharus;Vendhya;Ayodha;Vendhya;18;NO;>14 días
+Bakharus;Vendhya;Khorala;Vendhya;28;NO;>14 días
+Bakharus;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);29;N;>14 días
+Bakharus;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);30;N;>14 días
+Bakharus;Vendhya;Yota-Pong;Kosala;30;NO;>14 días
+Bakharus;Vendhya;Ghor;Montañas Himelianas (Afghulis / Ghulistán);36;N;>14 días
+Bakharus;Vendhya;Secunderam;Kosala;37;NO;>14 días
+Shirakma;Vendhya;Bakharus;Vendhya;9;NO;
+Shirakma;Vendhya;Peshkauri;Vendhya;11;N;
+Shirakma;Vendhya;Ayodha;Vendhya;21;NO;>14 días
+Shirakma;Vendhya;Jhelai;Vendhya;21;SO;>14 días
+Shirakma;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);28;N;>14 días
+Shirakma;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);33;N;>14 días
+Shirakma;Vendhya;Yota-Pong;Kosala;33;NO;>14 días
+Shirakma;Vendhya;Khorala;Vendhya;34;NO;>14 días
+Shirakma;Vendhya;Pauana;Meru (región de Sumeru Tso);37;N;>14 días
+Shirakma;Vendhya;Khojur;Montañas Himelianas (Afghulis / Ghulistán);38;N;>14 días
+Jhelai;Vendhya;Bakharus;Vendhya;12;NE;
+Jhelai;Vendhya;Shirakma;Vendhya;19;NE;>14 días
+Jhelai;Vendhya;Khorala;Vendhya;21;N;>14 días
+Jhelai;Vendhya;Peshkauri;Vendhya;23;NE;>14 días
+Jhelai;Vendhya;Yota-Pong;Kosala;23;NO;>14 días
+Jhelai;Vendhya;Ayodha;Vendhya;26;N;>14 días
+Jhelai;Vendhya;Secunderam;Kosala;38;N;>14 días
+Jhelai;Vendhya;Jugra;Montañas Himelianas (Afghulis / Ghulistán);41;NE;>14 días
+Jhelai;Vendhya;Khurum;Montañas Himelianas (Afghulis / Ghulistán);42;N;>14 días
+Jhelai;Vendhya;Shomdakor;Meru (región de Sumeru Tso);47;N;>14 días
+Yota-Pong;Kosala;Khorala;Vendhya;11;NE;
+Yota-Pong;Kosala;Ayodha;Vendhya;12;NE;
+Yota-Pong;Kosala;Secunderam;Kosala;15;N;>14 días
+Yota-Pong;Kosala;Jhelai;Vendhya;25;SE;>14 días
+Yota-Pong;Kosala;Shomdakor;Meru (región de Sumeru Tso);26;N;>14 días
+Yota-Pong;Kosala;Peshkauri;Vendhya;27;NE;>14 días
+Yota-Pong;Kosala;Shamballa;Meru (región de Sumeru Tso);28;N;>14 días
+Yota-Pong;Kosala;Djemal;Hyrkania;29;NO;>14 días
+Yota-Pong;Kosala;Bakharus;Vendhya;30;SE;>14 días
+Yota-Pong;Kosala;Thogara;Meru (región de Sumeru Tso);31;N;>14 días
+Djemal;Hyrkania;Ashraf;Turan;3;SO;
+Djemal;Hyrkania;Kara-Sehr;Desierto de Iranistán;6;SO;
+Djemal;Hyrkania;Nagrul;Hyrkania;7;NO;
+Djemal;Hyrkania;Rhamdan;Turan;8;NO;
+Djemal;Hyrkania;Yueshi;Turan;9;SO;
+Djemal;Hyrkania;Bab-El-Shaitan;Desierto de Iranistán;11;S;
+Djemal;Hyrkania;Khorusun;Turan;12;NO;
+Djemal;Hyrkania;Ghori;Turan;13;SO;
+Djemal;Hyrkania;Khawarizm;Turan;15;SO;>14 días
+Djemal;Hyrkania;Khoraf;Augir (franja roja junto al Vilayet);18;N;>14 días
+Ashraf;Turan;Kara-Sehr;Desierto de Iranistán;3;S;
+Ashraf;Turan;Djemal;Hyrkania;3;NE;
+Ashraf;Turan;Yueshi;Turan;6;NO;
+Ashraf;Turan;Nagrul;Hyrkania;7;N;
+Ashraf;Turan;Rhamdan;Turan;8;N;
+Ashraf;Turan;Bab-El-Shaitan;Desierto de Iranistán;8;S;
+Ashraf;Turan;Ghori;Turan;10;SO;
+Ashraf;Turan;Khawarizm;Turan;12;SO;
+Ashraf;Turan;Khorusun;Turan;12;N;
+Ashraf;Turan;Khoraf;Augir (franja roja junto al Vilayet);18;N;>14 días
+Bakalah;Dungad;City of the Winged One;Katum;5;SE;
+Bakalah;Dungad;Jihui;Dungad;6;SE;
+Bakalah;Dungad;Bambula;Dungad;7;SE;
+Bakalah;Dungad;Zabhela;Kush;8;N;
+Bakalah;Dungad;The Old City;Katum;9;S;
+Bakalah;Dungad;Mehoe;Kush;10;NE;
+Bakalah;Dungad;Watabi;Katum;10;S;
+Bakalah;Dungad;Umr;Kush;11;N;
+Bakalah;Dungad;Kuthal;Bighania (zona desértica con Tombalku);13;NE;
+Bakalah;Dungad;Kheshatta;Estigia;17;N;>14 días
+Jihui;Dungad;Bambula;Dungad;1;NE;
+Jihui;Dungad;Bakalah;Dungad;4;NO;
+Jihui;Dungad;City of the Winged One;Katum;6;S;
+Jihui;Dungad;Mehoe;Kush;9;N;
+Jihui;Dungad;Kuthal;Bighania (zona desértica con Tombalku);9;NE;
+Jihui;Dungad;Zabhela;Kush;10;N;
+Jihui;Dungad;The Old City;Katum;11;S;
+Jihui;Dungad;Umr;Kush;13;N;
+Jihui;Dungad;Watabi;Katum;13;S;
+Jihui;Dungad;Tombalku;Bighania (zona desértica con Tombalku);14;NE;
+Bambula;Dungad;Jihui;Dungad;3;SO;
+Bambula;Dungad;Bakalah;Dungad;7;NO;
+Bambula;Dungad;Mehoe;Kush;8;N;
+Bambula;Dungad;Kuthal;Bighania (zona desértica con Tombalku);8;NE;
+Bambula;Dungad;Zabhela;Kush;9;NO;
+Bambula;Dungad;City of the Winged One;Katum;9;S;
+Bambula;Dungad;Umr;Kush;12;N;
+Bambula;Dungad;Tombalku;Bighania (zona desértica con Tombalku);13;NE;
+Bambula;Dungad;The Old City;Katum;14;S;
+Bambula;Dungad;Kheshatta;Estigia;15;N;>14 días
+Kuthal;Bighania (zona desértica con Tombalku);Mehoe;Kush;5;NO;
+Kuthal;Bighania (zona desértica con Tombalku);Tombalku;Bighania (zona desértica con Tombalku);6;NE;
+Kuthal;Bighania (zona desértica con Tombalku);Bambula;Dungad;7;SO;
+Kuthal;Bighania (zona desértica con Tombalku);Zabhela;Kush;9;NO;
+Kuthal;Bighania (zona desértica con Tombalku);Jihui;Dungad;10;SO;
+Kuthal;Bighania (zona desértica con Tombalku);Sukhmet;Estigia;11;N;
+Kuthal;Bighania (zona desértica con Tombalku);Gazal;Estigia;11;NE;
+Kuthal;Bighania (zona desértica con Tombalku);Umr;Kush;12;NO;
+Kuthal;Bighania (zona desértica con Tombalku);Bakalah;Dungad;12;SO;
+Kuthal;Bighania (zona desértica con Tombalku);Kheshatta;Estigia;14;N;
+City of the Winged One;Katum;Bakalah;Dungad;3;NO;
+City of the Winged One;Katum;Jihui;Dungad;6;N;
+City of the Winged One;Katum;Bambula;Dungad;7;N;
+City of the Winged One;Katum;The Old City;Katum;7;S;
+City of the Winged One;Katum;Watabi;Katum;9;S;
+City of the Winged One;Katum;Zabhela;Kush;11;N;
+City of the Winged One;Katum;Mehoe;Kush;13;N;
+City of the Winged One;Katum;Umr;Kush;14;N;
+City of the Winged One;Katum;Kuthal;Bighania (zona desértica con Tombalku);15;NE;>14 días
+City of the Winged One;Katum;Abombi;Katum;18;S;>14 días
+The Old City;Katum;Watabi;Katum;3;S;
+The Old City;Katum;Bakalah;Dungad;7;N;
+The Old City;Katum;City of the Winged One;Katum;7;N;
+The Old City;Katum;Jihui;Dungad;11;N;
+The Old City;Katum;Abombi;Katum;11;S;
+The Old City;Katum;Bambula;Dungad;12;N;
+The Old City;Katum;Zabhela;Kush;15;N;>14 días
+The Old City;Katum;Mehoe;Kush;17;N;>14 días
+The Old City;Katum;Umr;Kush;18;N;>14 días
+The Old City;Katum;Kulalo;Kulalo;19;S;>14 días
+Watabi;Katum;The Old City;Katum;5;N;
+Watabi;Katum;Abombi;Katum;9;S;
+Watabi;Katum;Bakalah;Dungad;10;N;
+Watabi;Katum;City of the Winged One;Katum;11;N;
+Watabi;Katum;Jihui;Dungad;15;N;>14 días
+Watabi;Katum;Bambula;Dungad;16;N;>14 días
+Watabi;Katum;Kulalo;Kulalo;16;S;>14 días
+Watabi;Katum;Zabhela;Kush;18;N;>14 días
+Watabi;Katum;Gamburu;Amazon;18;SE;>14 días
+Watabi;Katum;Mehoe;Kush;20;N;>14 días
+Abombi;Katum;Watabi;Katum;7;N;
+Abombi;Katum;Kulalo;Kulalo;10;S;
+Abombi;Katum;The Old City;Katum;11;N;
+Abombi;Katum;Gamburu;Amazon;13;SE;
+Abombi;Katum;Bakalah;Dungad;16;N;>14 días
+Abombi;Katum;City of the Winged One;Katum;18;N;>14 días
+Abombi;Katum;Jihui;Dungad;21;N;>14 días
+Abombi;Katum;Bambula;Dungad;22;N;>14 días
+Abombi;Katum;Zabhela;Kush;24;N;>14 días
+Abombi;Katum;Mehoe;Kush;26;N;>14 días
+Kuchotl;Katum;Tombalku;Bighania (zona desértica con Tombalku);12;NO;
+Kuchotl;Katum;Gazal;Estigia;14;N;
+Kuchotl;Katum;Sukhmet;Estigia;16;N;>14 días
+Kuchotl;Katum;Mehoe;Kush;17;NO;>14 días
+Kuchotl;Katum;Alkmeenon;Keshan;18;NE;>14 días
+Kuchotl;Katum;Kuthal;Bighania (zona desértica con Tombalku);18;NO;>14 días
+Kuchotl;Katum;City of the Winged One;Katum;20;SO;>14 días
+Kuchotl;Katum;Bakalah;Dungad;22;NO;>14 días
+Kuchotl;Katum;Umr;Kush;23;NO;>14 días
+Kuchotl;Katum;Bambula;Dungad;23;NO;>14 días
+Kulalo;Kulalo;Gamburu;Amazon;6;SE;
+Kulalo;Kulalo;Abombi;Katum;12;N;
+Kulalo;Kulalo;Watabi;Katum;16;N;>14 días
+Kulalo;Kulalo;The Old City;Katum;21;N;>14 días
+Kulalo;Kulalo;Bakalah;Dungad;26;N;>14 días
+Kulalo;Kulalo;City of the Winged One;Katum;27;N;>14 días
+Kulalo;Kulalo;Jihui;Dungad;31;N;>14 días
+Kulalo;Kulalo;Bambula;Dungad;32;N;>14 días
+Kulalo;Kulalo;Kuchotl;Katum;32;NE;>14 días
+Kulalo;Kulalo;Zabhela;Kush;34;N;>14 días
+Gamburu;Amazon;Kulalo;Kulalo;6;NO;
+Gamburu;Amazon;Abombi;Katum;15;NO;>14 días
+Gamburu;Amazon;Watabi;Katum;18;NO;>14 días
+Gamburu;Amazon;The Old City;Katum;23;N;>14 días
+Gamburu;Amazon;City of the Winged One;Katum;26;N;>14 días
+Gamburu;Amazon;Kuchotl;Katum;26;N;>14 días
+Gamburu;Amazon;Bakalah;Dungad;28;N;>14 días
+Gamburu;Amazon;Bambula;Dungad;30;N;>14 días
+Gamburu;Amazon;Kuthal;Bighania (zona desértica con Tombalku);30;N;>14 días
+Gamburu;Amazon;Tombalku;Bighania (zona desértica con Tombalku);31;N;>14 días
+Northern Capital;Zembabwei;Keshia;Keshan;17;NO;>14 días
+Northern Capital;Zembabwei;Yanadar;Druistán (Druistan);19;NE;>14 días
+Northern Capital;Zembabwei;New Zembabwei;Zembabwei;19;S;>14 días
+Northern Capital;Zembabwei;Kassali;Punt;22;NO;>14 días
+Northern Capital;Zembabwei;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;22;NO;>14 días
+Northern Capital;Zembabwei;Alkmeenon;Keshan;24;NO;>14 días
+Northern Capital;Zembabwei;Thuran;Estigia;25;NO;>14 días
+Northern Capital;Zembabwei;Rasht;Estigia;28;NO;>14 días
+Northern Capital;Zembabwei;Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);29;NE;>14 días
+Northern Capital;Zembabwei;Pteion;Estigia;30;NO;>14 días
+New Zembabwei;Zembabwei;Northern Capital;Zembabwei;17;N;>14 días
+New Zembabwei;Zembabwei;Yanadar;Druistán (Druistan);30;NE;>14 días
+New Zembabwei;Zembabwei;Keshia;Keshan;33;NO;>14 días
+New Zembabwei;Zembabwei;Kassali;Punt;39;N;>14 días
+New Zembabwei;Zembabwei;La Ciudad Sagrada Sin Nombre (Holy City Without Name);Estigia;39;N;>14 días
+New Zembabwei;Zembabwei;Yanyoga;Tierra del No Retorno (Land of No Return);39;SO;>14 días
+New Zembabwei;Zembabwei;Kushaf;Colchian / Ilbars (franja rosa al sur del desierto);40;NE;>14 días
+New Zembabwei;Zembabwei;Alkmeenon;Keshan;40;NO;>14 días
+New Zembabwei;Zembabwei;Anshan;Iranistán;42;NE;>14 días
+New Zembabwei;Zembabwei;Thuran;Estigia;42;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Gamburu;Amazon;32;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Kulalo;Kulalo;38;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);New Zembabwei;Zembabwei;41;NE;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Keshia;Keshan;44;N;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Kuchotl;Katum;44;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Alkmeenon;Keshan;46;N;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Abombi;Katum;46;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);City of the Winged One;Katum;49;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Watabi;Katum;49;NO;>14 días
+Yanyoga;Tierra del No Retorno (Land of No Return);Bakalah;Dungad;51;NO;>14 días
