@@ -49,10 +49,18 @@ Los nombres admiten coincidencia parcial y sin tildes si es única.
 ## Estructura
 
 ```
+LICENSE         licencia MIT del código
+LICENSE-docs    licencia CC BY-NC-SA 4.0 de docs/
 index.html      página (datos, mapa y red de ciudades incrustados)
 rutas.py        script que genera la imagen de la ruta
 docs/           tablas de distancias, rutas marítimas, localizaciones e instrucciones
 ```
+
+## Licencia
+
+- Código (`rutas.py` y la lógica de `index.html`): MIT, ver `LICENSE`.
+- Tablas y textos de `docs/`: CC BY-NC-SA 4.0, ver `LICENSE-docs`.
+- El mapa incrustado en `index.html` queda excluido de ambas licencias.
 
 ## Aviso
 
