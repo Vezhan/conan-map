@@ -47,3 +47,4 @@ Mapa recortado a la ruta con hexágonos rojos (tierra) y morados (mar y acceso a
 ## Si falla
 - Falta Pillow o numpy: `pip install pillow numpy --break-system-packages`.
 - Si el HTML leído llega truncado, volver a leerlo; debe contener `<script id="data"`, `<script id="edges"` y `data:image/jpeg;base64`. Sin `edges` el script avisa y usa ruta directa.
+- Norte rehecho el 24/11/2026: Nordheim con montañas de borde irregular (1-2 hexágonos de tundra en la costa), corredores de tundra en los grandes ríos y cordillera irregular de las Blue Mountains hasta las Eiglophian. La taiga (bosque) solo queda en las filas del rótulo «Taiga forests»; en las del rótulo «Tundra» hay tundra. Franja continua de tundra de unos 10 hexágonos (y ≈ 500-660 del mapa de 3850 px) desde el oeste del River of Death hasta el Vilayet. Regla: al norte de la taiga/tundra solo hay taiga, tundra o montaña, nunca llanura ni colinas.
