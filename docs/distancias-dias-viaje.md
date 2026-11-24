@@ -125,10 +125,10 @@
 | Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
 | Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SO |
-| Ashmir | Zamora | 35 (>14) | S |
 | Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
 | Amelius | Aquilonia | 37 (>14) | SO |
 | Thalia | Nemedia | 37 (>14) | SO |
+| Ashmir | Zamora | 37 (>14) | S |
 
 ### Sistona
 
