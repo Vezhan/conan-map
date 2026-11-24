@@ -111,6 +111,7 @@ document.getElementById('ln').addEventListener('input',e=>{grid=e.target.checked
 document.getElementById('rs').addEventListener('click',reset);
 window.addEventListener('resize',()=>{size();req();});
 img.onload=()=>{draw();};size();draw();
+(async()=>{for(const u of ['terrain-overrides.json','https://conan.gorkamorka.es/terrain-overrides.json']){try{const r=await fetch(u+'?'+Date.now(),{cache:'no-store'});if(!r.ok)continue;const j=await r.json(),c=j.cells||{};for(const k in c){const v=+k,t=c[k];if(v>=0&&v<T.length&&T[v]!==6&&t>=0&&t<=8&&t!==6)T[v]=t;}LT=null;req();return;}catch(e){}}})();
 </script>
 </body>
 </html>

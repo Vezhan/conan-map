@@ -152,6 +152,7 @@ body.open #scrim{display:block}
         <select id="avsel" aria-label="Añadir ciudad o país a evitar"></select>
         <div id="avchips" class="chips"></div>
         <p id="avnote" class="avnote" hidden></p>
+        <p id="ovnote" class="avnote" hidden></p>
       </div>
     </form>
   <div id="result" style="margin-top:16px"></div>
@@ -372,6 +373,72 @@ const PACES={pie:['A pie',26],caravana:['Caravana',18],ejercito:['Ejército',18]
 let PACE='pie',PF=1;try{const s=localStorage.getItem('pace');if(PACES[s])PACE=s;}catch(e){}
 function setPace(k){PACE=k;PF=26/PACES[k][1];const N=D.cols*D.rows;for(let i=0;i<N;i++){const t=parseInt(D.terr[i],36)&15;if(t!==6)P.cost[i]=TC[t]*3*PF;}LE.forEach(e=>{e.w=[e.w0[0]*PF,e.w0[1]*PF];});ECACHE=new Map();}
 setPace(PACE);
+// ---- Terreno editado (terrain-overrides.json, creado con editor.html) ----
+const OV_LC=[1,2,3,3,2,2,0,2,2];
+function rebuildNet(){
+  const rows=D.rows,Nn=N,cityNodes=[];
+  D.nodes.forEach((n,k)=>{if(n[4]>=0)cityNodes.push(k);});
+  const base=new Uint8Array(Nn),nbr=new Int32Array(Nn*6).fill(-1),tmp=new Int32Array(6);
+  for(let i=0;i<Nn;i++){const t=parseInt(D.terr[i],36);base[i]=(t>=16||(t&15)===6)?0:OV_LC[t&15]*3;}
+  for(let i=0;i<Nn;i++){const m=hexNeighbors(P,i,tmp);for(let j=0;j<m;j++)nbr[i*6+j]=tmp[j];}
+  const C=cityNodes.length,INF=1e9,dist=new Int32Array(Nn),par=[],M=[];
+  const B=[[],[],[],[],[],[],[],[],[],[]];
+  for(let a=0;a<C;a++){
+    const src=D.nodes[cityNodes[a]][4],p=new Int32Array(Nn).fill(-1);dist.fill(INF);
+    dist[src]=0;B[0].push(src);let d=0,pend=1;
+    while(pend>0){const b=B[d%10];
+      while(b.length){const u=b.pop();pend--;if(dist[u]!==d)continue;
+        for(let j=0;j<6;j++){const v=nbr[u*6+j];if(v<0)continue;const w=base[v];if(!w)continue;const nd=d+w;if(nd<dist[v]){dist[v]=nd;p[v]=u;B[nd%10].push(v);pend++;}}}
+      d++;}
+    par.push(p);const row=new Int32Array(C);for(let b=0;b<C;b++)row[b]=dist[D.nodes[cityNodes[b]][4]];M.push(row);
+  }
+  const days=x=>x>=INF?Infinity:x/3,land=[],deg=new Int32Array(C);
+  const M2=(a,b)=>Math.min(M[a][b],M[b][a]);
+  for(let a=0;a<C;a++)for(let b=a+1;b<C;b++)if(days(M2(a,b))<=E.X){land.push([a,b,days(M[a][b]),days(M[b][a])]);deg[a]++;deg[b]++;}
+  for(let a=0;a<C;a++)if(!deg[a]){let bb=-1,bd=INF;for(let b=0;b<C;b++)if(b!==a&&M2(a,b)<bd){bd=M2(a,b);bb=b;}
+    if(bb>=0){land.push([a,bb,days(M[a][bb]),days(M[bb][a])]);deg[a]++;deg[bb]++;}}
+  const pr=Array.from({length:C},(_,i)=>i),ff=x=>{while(pr[x]!==x){pr[x]=pr[pr[x]];x=pr[x];}return x;};
+  land.forEach(e=>{pr[ff(e[0])]=ff(e[1]);});
+  const pairs=[];for(let a=0;a<C;a++)for(let b=a+1;b<C;b++){const m=M2(a,b);if(m<INF)pairs.push([m,a,b]);}
+  pairs.sort((x,y)=>x[0]-y[0]||x[1]-y[1]||x[2]-y[2]);
+  for(const [m,a,b] of pairs)if(ff(a)!==ff(b)){pr[ff(a)]=ff(b);land.push([a,b,days(M[a][b]),days(M[b][a]),1]);}
+  const trace=(a,b)=>{const out=[],tg=D.nodes[cityNodes[b]][4],sc=D.nodes[cityNodes[a]][4];for(let v=tg;v!==-1;v=par[a][v]){out.push(v);if(v===sc)break;}return out.reverse();};
+  const ed=land.map(e=>[cityNodes[e[0]],cityNodes[e[1]],e[2],e[3]].concat(e[4]?[1]:[]));
+  const eps=land.map(e=>[trace(e[0],e[1]),trace(e[1],e[0])]);
+  return {ed,eps};
+}
+function installNet(r){
+  E.land=r.ed;EP.length=0;r.eps.forEach(x=>EP.push(x));
+  LE.length=0;E.land.forEach(([a,b,dab,dba],i)=>LE.push({a,b,w:[dab*3,dba*3],w0:[dab*3,dba*3],hx:EP[i]}));
+  ADJL.forEach(x=>x.length=0);BR.clear();
+  E.land.forEach(([a,b,dab,dba,br],i)=>{ADJL[a].push([b,i,0]);ADJL[b].push([a,i,1]);if(br){BR.add(a+','+b);BR.add(b+','+a);}});
+  setPace(PACE);
+}
+function applyOverrides(cells){
+  const chars=D.terr.split(''),ids=Object.keys(cells);let n=0;
+  for(const k of ids){const v=+k,t=cells[k],c=parseInt(chars[v],36);
+    if(!(v>=0&&v<N)||c>=16||(c&15)===6||!(t>=0&&t<=8)||t===6)continue;
+    chars[v]=t.toString(36);n++;}
+  D.terr=chars.join('');
+  return n;
+}
+async function loadOverrides(){
+  const nt=$('ovnote');
+  for(const u of ['terrain-overrides.json','https://conan.gorkamorka.es/terrain-overrides.json']){
+    try{
+      const r=await fetch(u+'?'+Date.now(),{cache:'no-store'});if(!r.ok)continue;
+      const j=await r.json(),cells=j&&j.cells?j.cells:{};
+      if(!Object.keys(cells).length)return;
+      nt.hidden=false;nt.textContent='Aplicando terreno editado…';
+      await new Promise(f=>setTimeout(f,30));
+      const n=applyOverrides(cells);
+      if(!n){nt.hidden=true;return;}
+      installNet(rebuildNet());
+      nt.textContent='Terreno personalizado: '+n+' hexágonos editados, red de ciudades recalculada.';
+      render();return;
+    }catch(e){}
+  }
+}
 function landW(i,dir){
   const e=LE[i];
   if(!P.bH.size&&!P.bN.size)return e.w[dir];
@@ -590,6 +657,7 @@ sizeCanvas();
 renderStops();
 img.onload=()=>{render();};
 if(img.complete)render();
+loadOverrides();
 </script>
 </body>
 </html>
