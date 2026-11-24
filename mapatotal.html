@@ -49,31 +49,48 @@ function fix(){const ar=cv.width/cv.height;let w=view.w,hh=w/ar;
   if(hh>D.H){hh=D.H;w=hh*ar;}if(w>D.W){w=D.W;hh=w/ar;}
   view.w=w;view.h=hh;view.x=Math.max(0,Math.min(D.W-w,view.x));view.y=Math.max(0,Math.min(D.H-hh,view.y));}
 function reset(){view={x:0,y:0,w:D.W,h:D.H};fix();draw();}
+const HX=[];for(let i=0;i<6;i++){const a=Math.PI/3*i;HX.push([Math.cos(a),Math.sin(a)]);}
+function hexPath(g,cx,cy,r){g.moveTo(cx+r,cy);for(let i=1;i<6;i++)g.lineTo(cx+r*HX[i][0],cy+r*HX[i][1]);g.closePath();}
+let LT=null,LG=null;
+function buildLayers(){
+  LT=document.createElement('canvas');LT.width=D.W;LT.height=D.H;
+  LG=document.createElement('canvas');LG.width=D.W;LG.height=D.H;
+  const a=LT.getContext('2d'),g=LG.getContext('2d');
+  for(let t=0;t<9;t++){a.beginPath();
+    for(let c=0;c<cols;c++){const cx=c*H15,off=c&1?h/2:0;
+      for(let r=0;r<rows;r++){if(T[c*rows+r]!==t)continue;hexPath(a,cx,r*h+off,R);}}
+    a.fillStyle=SW[t];a.fill();}
+  g.beginPath();
+  for(let c=0;c<cols;c++){const cx=c*H15,off=c&1?h/2:0;for(let r=0;r<rows;r++)hexPath(g,cx,r*h+off,R);}
+  g.strokeStyle='rgba(0,0,0,.28)';g.lineWidth=1;g.stroke();
+}
 function draw(){
   const k=cv.width/view.w,IS=img.naturalWidth/D.W;
   ctx.clearRect(0,0,cv.width,cv.height);
   if(img.complete&&img.naturalWidth)ctx.drawImage(img,view.x*IS,view.y*IS,view.w*IS,view.h*IS,0,0,cv.width,cv.height);
+  if(k<=1.5){
+    if(!LT)buildLayers();
+    ctx.imageSmoothingEnabled=true;
+    ctx.globalAlpha=alpha;
+    ctx.drawImage(LT,view.x,view.y,view.w,view.h,0,0,cv.width,cv.height);
+    ctx.globalAlpha=1;
+    if(grid&&k>.35)ctx.drawImage(LG,view.x,view.y,view.w,view.h,0,0,cv.width,cv.height);
+    return;
+  }
   const c0=Math.max(0,Math.floor((view.x-R)/H15)),c1=Math.min(cols-1,Math.ceil((view.x+view.w+R)/H15));
   const r0=Math.max(0,Math.floor((view.y-h)/h)),r1=Math.min(rows-1,Math.ceil((view.y+view.h+h)/h));
   ctx.globalAlpha=alpha;
   for(let t=0;t<9;t++){
     ctx.beginPath();let any=false;
     for(let c=c0;c<=c1;c++){const cx=(c*H15-view.x)*k,off=c&1?h/2:0;
-      for(let r=r0;r<=r1;r++){if(T[c*rows+r]!==t)continue;any=true;
-        const cy=(r*h+off-view.y)*k;
-        ctx.moveTo(cx+R*k,cy);
-        for(let i=1;i<6;i++){const a=Math.PI/3*i;ctx.lineTo(cx+R*k*Math.cos(a),cy+R*k*Math.sin(a));}
-        ctx.closePath();}}
+      for(let r=r0;r<=r1;r++){if(T[c*rows+r]!==t)continue;any=true;hexPath(ctx,cx,(r*h+off-view.y)*k,R*k);}}
     if(any){ctx.fillStyle=SW[t];ctx.fill();}
   }
   ctx.globalAlpha=1;
-  if(grid&&k>.35){
+  if(grid){
     ctx.beginPath();
     for(let c=c0;c<=c1;c++){const cx=(c*H15-view.x)*k,off=c&1?h/2:0;
-      for(let r=r0;r<=r1;r++){const cy=(r*h+off-view.y)*k;
-        ctx.moveTo(cx+R*k,cy);
-        for(let i=1;i<6;i++){const a=Math.PI/3*i;ctx.lineTo(cx+R*k*Math.cos(a),cy+R*k*Math.sin(a));}
-        ctx.closePath();}}
+      for(let r=r0;r<=r1;r++)hexPath(ctx,cx,(r*h+off-view.y)*k,R*k);}
     ctx.strokeStyle='rgba(0,0,0,.28)';ctx.lineWidth=1;ctx.stroke();
   }
 }
