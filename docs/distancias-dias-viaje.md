@@ -27,14 +27,14 @@
 |---|---|---:|:---:|
 | Haloga | Hiperbórea | 20 (>14) | SE |
 | Brutheim | Nordheim | 22 (>14) | SO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 30 (>14) | S |
-| Pohiola | Hiperbórea | 34 (>14) | SE |
-| Sistona | Hiperbórea | 35 (>14) | SE |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 37 (>14) | S |
+| Pohiola | Hiperbórea | 24 (>14) | SE |
+| Sistona | Hiperbórea | 27 (>14) | SE |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 31 (>14) | S |
 | S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 37 (>14) | S |
-| Rhmen | Cimmeria | 45 (>14) | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 46 (>14) | S |
-| Amelius | Aquilonia | 47 (>14) | S |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 38 (>14) | S |
+| Rhmen | Cimmeria | 46 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 47 (>14) | S |
+| Aldea del nacimiento de Conan (Village of Conan's Birth) | Cimmeria | 48 (>14) | SO |
 
 ### Brutheim
 
@@ -104,46 +104,46 @@
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Pohiola | Hiperbórea | 18 (>14) | SE |
+| Pohiola | Hiperbórea | 11 | SE |
+| Sistona | Hiperbórea | 14 | S |
 | Aloe | Nordheim | 20 (>14) | NO |
-| Sistona | Hiperbórea | 20 (>14) | S |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 32 (>14) | SO |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
-| Brutheim | Nordheim | 38 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 38 (>14) | SO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 46 (>14) | SO |
-| Amelius | Aquilonia | 47 (>14) | SO |
-| Rhmen | Cimmeria | 47 (>14) | SO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 27 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 30 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 38 (>14) | SO |
+| Amelius | Aquilonia | 39 (>14) | SO |
+| Thalia | Nemedia | 39 (>14) | SO |
+| Rhmen | Cimmeria | 40 (>14) | SO |
 
 ### Pohiola
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Sistona | Hiperbórea | 10 | SO |
-| Haloga | Hiperbórea | 18 (>14) | NO |
-| Ashmir | Zamora | 32 (>14) | S |
-| Aloe | Nordheim | 34 (>14) | NO |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 34 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
-| Komash | Zamora | 39 (>14) | S |
-| Yaralet | Turan | 39 (>14) | SE |
-| Kharsho | Zamora | 43 (>14) | S |
+| Sistona | Hiperbórea | 8 | SO |
+| Haloga | Hiperbórea | 12 | NO |
+| Aloe | Nordheim | 25 (>14) | NO |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SO |
+| Ashmir | Zamora | 35 (>14) | S |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
+| Amelius | Aquilonia | 37 (>14) | SO |
+| Thalia | Nemedia | 37 (>14) | SO |
 
 ### Sistona
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Pohiola | Hiperbórea | 10 | NE |
-| Haloga | Hiperbórea | 20 (>14) | N |
-| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
-| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 26 (>14) | SO |
-| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 28 (>14) | SO |
-| Aloe | Nordheim | 35 (>14) | NO |
-| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 36 (>14) | SO |
-| Amelius | Aquilonia | 37 (>14) | SO |
-| Thalia | Nemedia | 37 (>14) | SO |
-| Rhmen | Cimmeria | 38 (>14) | SO |
+| Pohiola | Hiperbórea | 7 | NE |
+| Haloga | Hiperbórea | 14 | N |
+| Lucerthen | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | SO |
+| S'Fanol | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 25 (>14) | SO |
+| Aloe | Nordheim | 27 (>14) | NO |
+| Alkarkon | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 27 (>14) | SO |
+| Ravengard | Reino Fronterizo (Border Kingdom, al este de Aquilonia) | 35 (>14) | SO |
+| Amelius | Aquilonia | 36 (>14) | SO |
+| Thalia | Nemedia | 36 (>14) | SO |
+| Rhmen | Cimmeria | 37 (>14) | SO |
 
 ## Pictland
 
