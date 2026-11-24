@@ -710,8 +710,8 @@
 | Khishtam | Corinthia | 17 (>14) | SE |
 | Hanumar | Nemedia | 19 (>14) | NO |
 | Ianthe | Ophir | 20 (>14) | SO |
-| Khrosha | Koth | 21 (>14) | S |
 | Pergona | Ophir | 22 (>14) | SO |
+| Shadizar | Zamora | 23 (>14) | SE |
 
 ### Kamalla †
 
@@ -736,12 +736,12 @@
 | Khumar Rhun | Corinthia | 14 | N |
 | Zahmahn | Corinthia | 15 (>14) | NE |
 | Lanjau † | Corinthia | 16 (>14) | NO |
-| Khrosha | Koth | 16 (>14) | SO |
 | Karvek | Koth | 16 (>14) | SE |
 | Ezar-Bar-Kum | Corinthia | 17 (>14) | N |
 | Khanyria | Khoraja | 17 (>14) | SE |
 | Shadizar | Zamora | 18 (>14) | NE |
 | Meshken | Khoraja | 18 (>14) | S |
+| Shumir | Shem | 19 (>14) | S |
 
 ## Zamora
 
@@ -961,11 +961,11 @@
 | Khorshemish | Koth | 7 | SE |
 | Ianthe | Ophir | 10 | N |
 | Shamar | Aquilonia | 11 | NO |
-| Khrosha | Koth | 16 (>14) | SE |
 | Tarantia | Aquilonia | 17 (>14) | NO |
 | Pedassa | Aquilonia | 19 (>14) | NO |
+| Ghaza | Shem | 19 (>14) | S |
+| Anakia | Shem | 19 (>14) | SE |
 | Elymir | Aquilonia | 20 (>14) | NO |
-| Cularío | Aquilonia | 20 (>14) | SO |
 
 ### Carnolla
 
@@ -980,7 +980,7 @@
 | Pedassa | Aquilonia | 17 (>14) | NO |
 | Cularío | Aquilonia | 17 (>14) | NO |
 | Dan-Markah | Shem | 17 (>14) | S |
-| Khrosha | Koth | 17 (>14) | SE |
+| Elymir | Aquilonia | 18 (>14) | NO |
 
 ## Koth
 
@@ -992,27 +992,27 @@
 | Carnolla | Ophir | 11 | SO |
 | Pergona | Ophir | 11 | NO |
 | Ianthe | Ophir | 14 | N |
-| Khrosha | Koth | 14 | SE |
 | Shamar | Aquilonia | 15 (>14) | NO |
-| Anakia | Shem | 19 (>14) | S |
 | Hanumar | Nemedia | 20 (>14) | N |
-| Ghaza | Shem | 20 (>14) | S |
 | Tarantia | Aquilonia | 22 (>14) | NO |
+| Ghaza | Shem | 22 (>14) | S |
+| Anakia | Shem | 22 (>14) | S |
+| Tor | Nemedia | 23 (>14) | N |
 
 ### Khrosha
 
 | Destino | Reino | Días | Rumbo |
 |---|---|---:|:---:|
-| Shumir | Shem | 10 | SE |
-| Anakia | Shem | 11 | S |
-| Eruk | Shem | 14 | SE |
-| Buryat | Shem | 15 (>14) | S |
-| Akkharia | Shem | 15 (>14) | S |
-| Khorshemish | Koth | 15 (>14) | NO |
-| Nipor | Shem | 15 (>14) | SE |
-| Meshken | Khoraja | 16 (>14) | SE |
-| Khishtam | Corinthia | 18 (>14) | NE |
-| Ghaza | Shem | 18 (>14) | SO |
+| Anakia | Shem | 16 (>14) | S |
+| Shumir | Shem | 19 (>14) | SE |
+| Buryat | Shem | 20 (>14) | S |
+| Meshken | Khoraja | 20 (>14) | SE |
+| Akkharia | Shem | 21 (>14) | S |
+| Khishtam | Corinthia | 22 (>14) | NE |
+| Khorshemish | Koth | 22 (>14) | NO |
+| Eruk | Shem | 22 (>14) | SE |
+| Ghaza | Shem | 23 (>14) | SO |
+| Luxur | Estigia | 24 (>14) | S |
 
 ### Karvek
 
@@ -1271,12 +1271,12 @@
 | Ghaza | Shem | 8 | SO |
 | Harakht | Estigia | 9 | S |
 | Akkharia | Shem | 10 | SE |
-| Khrosha | Koth | 11 | N |
 | Khemi | Estigia | 12 | SO |
 | Attalus | Estigia | 12 | S |
 | Luxur | Estigia | 13 | S |
 | Nebthu † | Estigia | 13 | SE |
 | Shumir | Shem | 14 | NE |
+| Kyros | Shem | 16 (>14) | SO |
 
 ### Shumir
 
@@ -1287,7 +1287,6 @@
 | Meshken | Khoraja | 7 | NE |
 | Akkharia | Shem | 9 | S |
 | Shushan | Shem | 9 | SE |
-| Khrosha | Koth | 10 | NO |
 | Khoraja | Khoraja | 12 | NE |
 | Buryat | Shem | 13 | SO |
 | Akbitana | Shem | 13 | SE |
@@ -1380,7 +1379,6 @@
 | Akbitana | Shem | 9 | SE |
 | Shushan | Shem | 9 | S |
 | Akkharia | Shem | 13 | SO |
-| Khrosha | Koth | 13 | NO |
 | Karvek | Koth | 13 | N |
 | Khanyria | Khoraja | 13 | NE |
 | Sabatea | Shem | 14 | SE |

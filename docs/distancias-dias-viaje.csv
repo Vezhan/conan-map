@@ -470,8 +470,8 @@ Lanjau;Corinthia;Kamalla;Corinthia;14;SE;
 Lanjau;Corinthia;Khishtam;Corinthia;17;SE;>14 días
 Lanjau;Corinthia;Hanumar;Nemedia;19;NO;>14 días
 Lanjau;Corinthia;Ianthe;Ophir;20;SO;>14 días
-Lanjau;Corinthia;Khrosha;Koth;21;S;>14 días
 Lanjau;Corinthia;Pergona;Ophir;22;SO;>14 días
+Lanjau;Corinthia;Shadizar;Zamora;23;SE;>14 días
 Kamalla;Corinthia;Zahmahn;Corinthia;6;NE;
 Kamalla;Corinthia;Khumar Rhun;Corinthia;11;NO;
 Kamalla;Corinthia;Khishtam;Corinthia;11;SO;
@@ -486,12 +486,12 @@ Khishtam;Corinthia;Kamalla;Corinthia;9;NE;
 Khishtam;Corinthia;Khumar Rhun;Corinthia;14;N;
 Khishtam;Corinthia;Zahmahn;Corinthia;15;NE;>14 días
 Khishtam;Corinthia;Lanjau;Corinthia;16;NO;>14 días
-Khishtam;Corinthia;Khrosha;Koth;16;SO;>14 días
 Khishtam;Corinthia;Karvek;Koth;16;SE;>14 días
 Khishtam;Corinthia;Ezar-Bar-Kum;Corinthia;17;N;>14 días
 Khishtam;Corinthia;Khanyria;Khoraja;17;SE;>14 días
 Khishtam;Corinthia;Shadizar;Zamora;18;NE;>14 días
 Khishtam;Corinthia;Meshken;Khoraja;18;S;>14 días
+Khishtam;Corinthia;Shumir;Shem;19;S;>14 días
 Yezud;Zamora;Kharsho;Zamora;2;SE;
 Yezud;Zamora;Khesron;Zamora;2;S;
 Yezud;Zamora;Komash;Zamora;8;SE;
@@ -994,18 +994,17 @@ Anakia;Shem;Buryat;Shem;6;S;
 Anakia;Shem;Ghaza;Shem;8;SO;
 Anakia;Shem;Harakht;Estigia;9;S;
 Anakia;Shem;Akkharia;Shem;10;SE;
-Anakia;Shem;Khrosha;Koth;11;N;
 Anakia;Shem;Khemi;Estigia;12;SO;
 Anakia;Shem;Attalus;Estigia;12;S;
 Anakia;Shem;Luxur;Estigia;13;S;
 Anakia;Shem;Nebthu;Estigia;13;SE;
 Anakia;Shem;Shumir;Shem;14;NE;
+Anakia;Shem;Kyros;Shem;16;SO;>14 días
 Shumir;Shem;Eruk;Shem;5;NE;
 Shumir;Shem;Nipor;Shem;5;SE;
 Shumir;Shem;Meshken;Khoraja;7;NE;
 Shumir;Shem;Akkharia;Shem;9;S;
 Shumir;Shem;Shushan;Shem;9;SE;
-Shumir;Shem;Khrosha;Koth;10;NO;
 Shumir;Shem;Khoraja;Khoraja;12;NE;
 Shumir;Shem;Buryat;Shem;13;SO;
 Shumir;Shem;Akbitana;Shem;13;SE;
@@ -1048,27 +1047,27 @@ Carnolla;Ophir;Tarantia;Aquilonia;17;NO;>14 días
 Carnolla;Ophir;Pedassa;Aquilonia;17;NO;>14 días
 Carnolla;Ophir;Cularío;Aquilonia;17;NO;>14 días
 Carnolla;Ophir;Dan-Markah;Shem;17;S;>14 días
-Carnolla;Ophir;Khrosha;Koth;17;SE;>14 días
-Khrosha;Koth;Shumir;Shem;10;SE;
-Khrosha;Koth;Anakia;Shem;11;S;
-Khrosha;Koth;Eruk;Shem;14;SE;
-Khrosha;Koth;Buryat;Shem;15;S;>14 días
-Khrosha;Koth;Akkharia;Shem;15;S;>14 días
-Khrosha;Koth;Khorshemish;Koth;15;NO;>14 días
-Khrosha;Koth;Nipor;Shem;15;SE;>14 días
-Khrosha;Koth;Meshken;Khoraja;16;SE;>14 días
-Khrosha;Koth;Khishtam;Corinthia;18;NE;>14 días
-Khrosha;Koth;Ghaza;Shem;18;SO;>14 días
+Carnolla;Ophir;Elymir;Aquilonia;18;NO;>14 días
+Khrosha;Koth;Anakia;Shem;16;S;>14 días
+Khrosha;Koth;Shumir;Shem;19;SE;>14 días
+Khrosha;Koth;Buryat;Shem;20;S;>14 días
+Khrosha;Koth;Meshken;Khoraja;20;SE;>14 días
+Khrosha;Koth;Akkharia;Shem;21;S;>14 días
+Khrosha;Koth;Khishtam;Corinthia;22;NE;>14 días
+Khrosha;Koth;Khorshemish;Koth;22;NO;>14 días
+Khrosha;Koth;Eruk;Shem;22;SE;>14 días
+Khrosha;Koth;Ghaza;Shem;23;SO;>14 días
+Khrosha;Koth;Luxur;Estigia;24;S;>14 días
 Khorshemish;Koth;Ronnaco;Ophir;8;NO;
 Khorshemish;Koth;Carnolla;Ophir;11;SO;
 Khorshemish;Koth;Pergona;Ophir;11;NO;
 Khorshemish;Koth;Ianthe;Ophir;14;N;
-Khorshemish;Koth;Khrosha;Koth;14;SE;
 Khorshemish;Koth;Shamar;Aquilonia;15;NO;>14 días
-Khorshemish;Koth;Anakia;Shem;19;S;>14 días
 Khorshemish;Koth;Hanumar;Nemedia;20;N;>14 días
-Khorshemish;Koth;Ghaza;Shem;20;S;>14 días
 Khorshemish;Koth;Tarantia;Aquilonia;22;NO;>14 días
+Khorshemish;Koth;Ghaza;Shem;22;S;>14 días
+Khorshemish;Koth;Anakia;Shem;22;S;>14 días
+Khorshemish;Koth;Tor;Nemedia;23;N;>14 días
 Pergona;Ophir;Ronnaco;Ophir;3;S;
 Pergona;Ophir;Ianthe;Ophir;7;N;
 Pergona;Ophir;Shamar;Aquilonia;8;NO;
@@ -1084,11 +1083,11 @@ Ronnaco;Ophir;Carnolla;Ophir;6;SO;
 Ronnaco;Ophir;Khorshemish;Koth;7;SE;
 Ronnaco;Ophir;Ianthe;Ophir;10;N;
 Ronnaco;Ophir;Shamar;Aquilonia;11;NO;
-Ronnaco;Ophir;Khrosha;Koth;16;SE;>14 días
 Ronnaco;Ophir;Tarantia;Aquilonia;17;NO;>14 días
 Ronnaco;Ophir;Pedassa;Aquilonia;19;NO;>14 días
+Ronnaco;Ophir;Ghaza;Shem;19;S;>14 días
+Ronnaco;Ophir;Anakia;Shem;19;SE;>14 días
 Ronnaco;Ophir;Elymir;Aquilonia;20;NO;>14 días
-Ronnaco;Ophir;Cularío;Aquilonia;20;SO;>14 días
 Khemi;Estigia;Ghaza;Shem;6;N;
 Khemi;Estigia;Kyros;Shem;7;NO;
 Khemi;Estigia;Harakht;Estigia;8;SE;
@@ -1236,7 +1235,6 @@ Eruk;Shem;Khoraja;Khoraja;9;NE;
 Eruk;Shem;Akbitana;Shem;9;SE;
 Eruk;Shem;Shushan;Shem;9;S;
 Eruk;Shem;Akkharia;Shem;13;SO;
-Eruk;Shem;Khrosha;Koth;13;NO;
 Eruk;Shem;Karvek;Koth;13;N;
 Eruk;Shem;Khanyria;Khoraja;13;NE;
 Eruk;Shem;Sabatea;Shem;14;SE;
