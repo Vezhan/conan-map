@@ -68,7 +68,14 @@ function save(){try{localStorage.setItem(KEY,JSON.stringify(state()));}catch(e){
 const state=()=>({v:2,cols,rows,R,h,W:D.W,H:D.H,terr:Array.from(T,v=>v.toString(36)).join(''),roads:Array.from(RD.keys()).filter(i=>RD[i])});
 function apply(s){if(s.cols!==cols||s.rows!==rows){st('El JSON no corresponde a esta malla.');return false;}
   for(let i=0;i<N;i++)T[i]=parseInt(s.terr[i],36)&15;RD.fill(0);(s.roads||[]).forEach(i=>RD[i]=1);LT=null;UNDO=[];upd();req();return true;}
-try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s)apply(s);}catch(e){}
+// siempre arranca con la base publicada; la copia local solo se recupera si se pide
+try{const ls=JSON.parse(localStorage.getItem(KEY)||'null');
+  if(ls&&ls.cols===cols&&ls.rows===rows&&(ls.terr!==state().terr||JSON.stringify(ls.roads)!==JSON.stringify(state().roads))){
+    const row=document.createElement('div');row.className='row';
+    row.innerHTML='<button type="button" id="rec">Recuperar mi copia local</button>';
+    $('tools').insertBefore(row,$('st'));
+    $('rec').addEventListener('click',()=>{if(apply(ls)){st('Copia local recuperada.');row.remove();}});}
+}catch(e){}
 // ---- mapa de fondo ----
 $('ld').addEventListener('click',()=>$('img').click());
 $('img').addEventListener('change',e=>{const f=e.target.files[0];if(!f)return;img.src=URL.createObjectURL(f);});
