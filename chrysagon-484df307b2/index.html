@@ -29,12 +29,18 @@ button.main{background:var(--accent);color:#fff;border-color:var(--accent)}
 #st{font-size:12px;color:var(--muted);min-height:34px}
 #hov{right:10px;bottom:10px;font-size:12px;color:var(--muted)}
 #img{display:none}
-@media (max-width:640px){#tools{width:calc(100% - 20px)}#hov{display:none}}
+@media (max-width:640px){#tools{width:calc(100% - 20px);top:56px;max-height:calc(100% - 66px)}#hov{display:none}}
+#tools.hide{display:none}
+#mb{position:fixed;z-index:6;top:10px;left:10px;padding:8px 12px;box-shadow:0 2px 10px rgba(0,0,0,.3)}
+#tools:not(.hide)~#mb,body.open #mb{left:auto}
+@media (min-width:641px){body.open #mb{left:300px;right:auto}}
+@media (max-width:640px){body.open #mb{left:auto;right:10px}}
 #cr{left:10px;bottom:10px;max-width:420px;font-size:11px;color:var(--muted);line-height:1.35}#cr a{color:var(--accent)}@media (max-width:640px){#cr{display:none}}
 </style>
 </head>
 <body>
 <canvas id="c"></canvas>
+<button type="button" id="mb" aria-expanded="false" aria-controls="tools">☰ Menú</button>
 <div class="box" id="tools">
   <h1>Editor Chrysagon (uso personal)</h1>
   <div class="row"><button type="button" id="ld">Cargar mapa…</button><label style="flex:1"><input type="checkbox" id="bg" checked> Ver mapa</label><input type="file" id="img" accept="image/*"></div>
@@ -94,7 +100,7 @@ function setTool(t){tool=t;[...$('pal').children].forEach(b=>b.setAttribute('ari
 setTool(0);
 // ---- vista ----
 function size(){const dpr=Math.min(window.devicePixelRatio||1,2);cv.width=Math.round(cv.clientWidth*dpr);cv.height=Math.round(cv.clientHeight*dpr);fix();}
-const padPx=()=>innerWidth>640?($('tools').offsetWidth+20)*(cv.width/cv.clientWidth):0;
+const padPx=()=>(innerWidth>640&&!$('tools').classList.contains('hide'))?($('tools').offsetWidth+20)*(cv.width/cv.clientWidth):0;
 function maxW(){const p=padPx(),b=p>0?D.W*cv.width/(cv.width-p):D.W;return Math.max(b,D.H*cv.width/cv.height);}
 function fix(){const ar=cv.width/cv.height;let w=Math.min(view.w,maxW()),hh=w/ar;
   view.w=w;view.h=hh;const pad=padPx()*w/cv.width;
@@ -233,6 +239,15 @@ $('dl').addEventListener('click',()=>{const a=document.createElement('a');a.href
 $('up').addEventListener('click',()=>$('jf').click());
 $('jf').addEventListener('change',e=>{const f=e.target.files[0];if(!f)return;f.text().then(t=>{try{if(apply(JSON.parse(t))){save();st('JSON cargado.');}}catch(err){st('JSON no válido.');}});});
 window.addEventListener('resize',()=>{size();req();});
+function setMenu(open){const t=$('tools');t.classList.toggle('hide',!open);document.body.classList.toggle('open',open);
+  const b=$('mb');b.setAttribute('aria-expanded',open);b.textContent=open?'✕ Cerrar menú':'☰ Menú';
+  try{localStorage.setItem('chry-menu',open?'1':'0');}catch(e){}
+  const x0=view.x+(view.w*0);size();fix();req();}
+$('mb').addEventListener('click',()=>setMenu($('tools').classList.contains('hide')));
+{let pref=null;try{pref=localStorage.getItem('chry-menu');}catch(e){}
+ const open=innerWidth>640?(pref!=='0'):false;
+ $('tools').classList.toggle('hide',!open);document.body.classList.toggle('open',open);
+ $('mb').textContent=open?'✕ Cerrar menú':'☰ Menú';$('mb').setAttribute('aria-expanded',open);}
 size();upd();reset();
 </script>
 </body>
