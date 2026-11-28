@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Globo de Hiboria</title>
+<style>
+  html,body{margin:0;height:100%;background:#05070d;overflow:hidden;font-family:system-ui,Segoe UI,Roboto,sans-serif;color:#e8dcc0}
+  canvas{display:block;touch-action:none;cursor:grab}
+  canvas:active{cursor:grabbing}
+  #ui{position:fixed;left:12px;top:12px;display:flex;flex-direction:column;gap:8px;max-width:230px}
+  #ui h1{margin:0 0 2px;font-size:17px;letter-spacing:.04em;color:#f0d9a0;text-shadow:0 1px 4px #000}
+  #ui label,#ui button{background:rgba(10,14,24,.72);border:1px solid #4a4030;border-radius:8px;padding:7px 10px;font-size:13px;color:#e8dcc0;cursor:pointer;display:flex;gap:8px;align-items:center}
+  #ui button:hover,#ui label:hover{border-color:#c9a45c}
+  #tip{position:fixed;pointer-events:none;background:rgba(10,14,24,.88);border:1px solid #c9a45c;border-radius:6px;padding:3px 8px;font-size:13px;display:none;transform:translate(10px,-24px)}
+  #foot{position:fixed;left:12px;bottom:10px;font-size:11px;opacity:.6;max-width:90vw}
+</style>
+</head>
+<body>
+<div id="ui">
+  <h1>Globo de Hiboria</h1>
+  <label><input type="checkbox" id="cCities" checked> Ciudades</label>
+  <label><input type="checkbox" id="cSpin" checked> Rotación automática</label>
+  <button id="bReset">Restablecer vista</button>
+</div>
+<div id="tip"></div>
+<div id="foot">Gamberrada: el mapa plano se estira sobre una esfera completa, por lo que el norte y el sur están muy deformados. Arrastra para girar; rueda o pellizco para el zoom.</div>
+<script type="module">
+import * as THREE from './three.module.js';
+
+const renderer=new THREE.WebGLRenderer({antialias:true});
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+renderer.setSize(innerWidth,innerHeight);
+document.body.appendChild(renderer.domElement);
+const scene=new THREE.Scene();
+const camera=new THREE.PerspectiveCamera(40,innerWidth/innerHeight,.1,100);
+let dist=3.2;const DMIN=1.35,DMAX=6;
+camera.position.set(0,0,dist);
+
+// estrellas
+{const n=1800,p=new Float32Array(n*3);for(let i=0;i<n;i++){const v=new THREE.Vector3().randomDirection().multiplyScalar(40+Math.random()*20);p.set([v.x,v.y,v.z],i*3);}
+ const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.BufferAttribute(p,3));
+ scene.add(new THREE.Points(g,new THREE.PointsMaterial({color:0xcfd8ff,size:.12,sizeAttenuation:true,transparent:true,opacity:.8})));}
+
+const globe=new THREE.Group();scene.add(globe);
+globe.rotation.set(.35,-1.2,0);
+const tex=new THREE.TextureLoader().load('mapa_equirect.jpg',t=>{document.title='Globo de Hiboria';});
+tex.colorSpace=THREE.SRGBColorSpace;tex.anisotropy=renderer.capabilities.getMaxAnisotropy();
+const sph=new THREE.Mesh(new THREE.SphereGeometry(1,128,96),new THREE.MeshLambertMaterial({map:tex}));
+globe.add(sph);
+
+// atmósfera
+const atm=new THREE.Mesh(new THREE.SphereGeometry(1.07,64,48),new THREE.ShaderMaterial({
+  transparent:true,side:THREE.BackSide,blending:THREE.AdditiveBlending,depthWrite:false,
+  vertexShader:'varying vec3 n;void main(){n=normalize(normalMatrix*normal);gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}',
+  fragmentShader:'varying vec3 n;void main(){float i=pow(.72-dot(n,vec3(0.,0.,1.)),3.);gl_FragColor=vec4(.95,.62,.28,1.)*i;}'}));
+scene.add(atm);
+
+scene.add(new THREE.AmbientLight(0xffffff,1.35));
+const sun=new THREE.DirectionalLight(0xfff0d0,1.1);sun.position.set(-3,2,4);camera.add(sun);scene.add(camera);
+
+// ciudades (u,v normalizados del mapa) -> posición en la esfera (misma fórmula que SphereGeometry)
+const cities=await (await fetch('ciudades.json')).json();
+const pts=new THREE.Group();globe.add(pts);
+const posOf=(u,v,r)=>{const ph=u*2*Math.PI,th=v*Math.PI;return new THREE.Vector3(-r*Math.cos(ph)*Math.sin(th),r*Math.cos(th),r*Math.sin(ph)*Math.sin(th));};
+const geo=new THREE.SphereGeometry(.006,8,6),mat=new THREE.MeshBasicMaterial({color:0xff5a3c});
+const cpos=cities.map(([n,u,v])=>{const p=posOf(u,v,1.004);const m=new THREE.Mesh(geo,mat);m.position.copy(p);pts.add(m);return {n,p};});
+
+// interacción: arrastrar con inercia, zoom con rueda y pellizco
+const el=renderer.domElement;let drag=false,lx=0,ly=0,vx=0,vy=0,spin=true;const ptrs=new Map();let pinch=0;
+const cSpin=document.getElementById('cSpin'),cCities=document.getElementById('cCities'),tip=document.getElementById('tip');
+cSpin.onchange=()=>spin=cSpin.checked;cCities.onchange=()=>pts.visible=cCities.checked;
+document.getElementById('bReset').onclick=()=>{globe.rotation.set(.35,-1.2,0);dist=3.2;vx=vy=0;};
+el.addEventListener('pointerdown',e=>{el.setPointerCapture(e.pointerId);ptrs.set(e.pointerId,e);drag=true;lx=e.clientX;ly=e.clientY;vx=vy=0;if(ptrs.size===2){const [a,b]=[...ptrs.values()];pinch=Math.hypot(a.clientX-b.clientX,a.clientY-b.clientY);}});
+el.addEventListener('pointermove',e=>{
+  if(ptrs.has(e.pointerId))ptrs.set(e.pointerId,e);
+  if(ptrs.size===2){const [a,b]=[...ptrs.values()];const d=Math.hypot(a.clientX-b.clientX,a.clientY-b.clientY);dist=Math.min(DMAX,Math.max(DMIN,dist*pinch/d));pinch=d;return;}
+  if(drag){const k=.0045*dist/3.2;vx=(e.clientX-lx)*k;vy=(e.clientY-ly)*k;rot(vx,vy);lx=e.clientX;ly=e.clientY;}
+  else hover(e.clientX,e.clientY);
+});
+const up=e=>{ptrs.delete(e.pointerId);if(!ptrs.size)drag=false;};
+el.addEventListener('pointerup',up);el.addEventListener('pointercancel',up);
+el.addEventListener('wheel',e=>{e.preventDefault();dist=Math.min(DMAX,Math.max(DMIN,dist*Math.exp(e.deltaY*.0012)));},{passive:false});
+function rot(dx,dy){globe.rotation.y+=dx;globe.rotation.x=Math.max(-1.45,Math.min(1.45,globe.rotation.x+dy));}
+
+// etiqueta de ciudad al pasar el ratón
+const tmp=new THREE.Vector3(),wp=new THREE.Vector3(),cdir=new THREE.Vector3();
+function hover(mx,my){
+  if(!pts.visible){tip.style.display='none';return;}
+  let best=null,bd=14;
+  globe.updateMatrixWorld();
+  for(const c of cpos){
+    wp.copy(c.p).applyMatrix4(globe.matrixWorld);
+    cdir.copy(camera.position).sub(wp);if(cdir.dot(wp)<=0)continue; // cara oculta
+    tmp.copy(wp).project(camera);
+    const sx=(tmp.x+1)/2*innerWidth,sy=(1-tmp.y)/2*innerHeight,d=Math.hypot(sx-mx,sy-my);
+    if(d<bd){bd=d;best=c;}
+  }
+  if(best){tip.textContent=best.n;tip.style.left=mx+'px';tip.style.top=my+'px';tip.style.display='block';}else tip.style.display='none';
+}
+
+addEventListener('resize',()=>{renderer.setSize(innerWidth,innerHeight);camera.aspect=innerWidth/innerHeight;camera.updateProjectionMatrix();});
+let last=performance.now();
+renderer.setAnimationLoop(t=>{
+  const dt=Math.min(.05,(t-last)/1000);last=t;
+  if(!drag){rot(vx,vy);vx*=.93;vy*=.93;if(spin&&Math.abs(vx)<1e-4)rot(dt*.08,0);}
+  camera.position.z+=(dist-camera.position.z)*.15;
+  renderer.render(scene,camera);
+});
+</script>
+</body>
+</html>
